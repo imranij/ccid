@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaHf2Sn2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29228488
+_cell_length_b   7.67819159
+_cell_length_c   6.31339514
+_cell_angle_alpha   95.25016803
+_cell_angle_beta   102.81292532
+_cell_angle_gamma   96.00599723
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaHf2Sn2O7
+_chemical_formula_sum   'Ba1 Hf2 Sn2 O7'
+_cell_volume   293.71692604
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.55647759  0.85377079  0.60870220  1
+  Hf  Hf1  1  0.71576976  0.35251622  0.68292936  1
+  Hf  Hf2  1  0.22900603  0.45185021  0.81269887  1
+  O  O3  1  0.65096537  0.98459390  0.02126916  1
+  O  O4  1  0.29412192  0.71521367  0.87100143  1
+  O  O5  1  0.65292645  0.14517790  0.44607289  1
+  O  O6  1  0.45946442  0.29295411  0.83335315  1
+  O  O7  1  1.00537511  0.39352651  0.54012946  1
+  O  O8  1  0.98264654  0.38646491  0.95131544  1
+  O  O9  1  0.58087351  0.54568362  0.57392407  1
+  Sn  Sn10  1  0.89779729  0.15452607  0.26937338  1
+  Sn  Sn11  1  0.32986619  0.96616010  1.03166851  1

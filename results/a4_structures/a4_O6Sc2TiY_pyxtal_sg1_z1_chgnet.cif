@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_YSc2TiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86844845
+_cell_length_b   10.85573614
+_cell_length_c   3.25843636
+_cell_angle_alpha   134.93828502
+_cell_angle_beta   75.14492392
+_cell_angle_gamma   109.37686334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YSc2TiO6
+_chemical_formula_sum   'Y1 Sc2 Ti1 O6'
+_cell_volume   185.75885671
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.76201561  0.36918843  -0.25838205  1
+  O  O1  1  0.13876496  0.53634900  0.90481694  1
+  O  O2  1  0.49581912  0.65129823  0.48933142  1
+  O  O3  1  0.83358470  0.76226829  1.09668247  1
+  O  O4  1  0.58935622  0.05609192  -0.42605629  1
+  O  O5  1  0.38247001  0.29875283  0.73260013  1
+  Sc  Sc6  1  0.38184081  0.49588342  1.69379686  1
+  Sc  Sc7  1  0.71533921  0.83902002  0.85544535  1
+  Ti  Ti8  1  0.56513123  0.18419198  0.38096363  1
+  Y  Y9  1  0.94505261  0.52266462  -0.50911590  1

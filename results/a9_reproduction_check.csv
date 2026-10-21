@@ -1,0 +1,21 @@
+arm,seed,reference,valid_ref,valid_a9,unique_valid_ref,unique_valid_a9,exact_match
+A,0,rand_uniform41,14575.0,14575.0,11796.0,11796.0,True
+A,1,rand_uniform41,14566.0,14566.0,11853.0,11853.0,True
+A,2,rand_uniform41,14527.0,14527.0,11837.0,11837.0,True
+A,3,rand_uniform41,14571.0,14571.0,11873.0,11873.0,True
+A,4,none (new seed),,,,,
+B,0,rand_freq41,13187.0,13187.0,8772.0,8772.0,True
+B,1,rand_freq41,13265.0,13265.0,8872.0,8872.0,True
+B,2,rand_freq41,13257.0,13257.0,8891.0,8891.0,True
+B,3,rand_freq41,13221.0,13221.0,8843.0,8843.0,True
+B,4,none (new seed),,,,,
+A_dirichlet,0,rand_dirichlet41,13642.0,13642.0,11708.0,11708.0,True
+A_dirichlet,1,rand_dirichlet41,13538.0,13538.0,11670.0,11670.0,True
+A_dirichlet,2,rand_dirichlet41,13498.0,13498.0,11544.0,11544.0,True
+A_dirichlet,3,rand_dirichlet41,13459.0,13459.0,11525.0,11525.0,True
+A_dirichlet,4,none (new seed),,,,,
+D,0,a8 fb0.5_b0.01,8870.0,8870.0,1100.0,1100.0,True
+D,1,a8 fb0.5_b0.01,8794.0,8794.0,1122.0,1122.0,True
+D,2,a8 fb0.5_b0.01,8768.0,8768.0,1111.0,1111.0,True
+D,3,a8 fb0.5_b0.01,8916.0,8916.0,1113.0,1113.0,True
+D,4,none (new seed),,,,,

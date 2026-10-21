@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ScGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54691456
+_cell_length_b   5.66345424
+_cell_length_c   5.94501092
+_cell_angle_alpha   89.03619947
+_cell_angle_beta   56.07092921
+_cell_angle_gamma   105.41598936
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScGaO3
+_chemical_formula_sum   'Sc2 Ga2 O6'
+_cell_volume   146.16493624
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.19136585  -0.01360474  0.12985298  1
+  Ga  Ga1  1  0.12177202  0.55020701  -0.06331814  1
+  O  O2  1  -0.02829819  0.24735956  0.18386868  1
+  O  O3  1  -0.08977795  -0.22011900  0.07723519  1
+  O  O4  1  0.37007456  0.71615634  0.06937973  1
+  O  O5  1  0.58920675  0.24145778  -0.00085534  1
+  O  O6  1  0.14418470  0.01881412  0.47104328  1
+  O  O7  1  0.33886732  0.60829689  0.56219303  1
+  Sc  Sc8  1  0.29013260  0.39431616  0.31465861  1
+  Sc  Sc9  1  0.57247265  -0.04288417  0.25594183  1

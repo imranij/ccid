@@ -1,0 +1,21 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Chemistry of each arm's pooled unique valid set (seeds 0--4). Open-shell = at least one partially filled d/f cation at the assigned oxidation state; Ti$^{3+}$/Sn$^{2+}$ = charge balance impossible without reducing Ti or Sn; gate = predicted $E_g \geq 1$ eV and no open-shell cation and no forced Ti$^{3+}$/Sn$^{2+}$. Percentages of the arm's unique valid formulas. Every D $-$ X difference shown has Fisher $p \leq 1\times10^{-9}$ ($^{\mathrm{ns}}$ would mark $p \geq 0.05$).}
+\label{tab:a9_chemistry}
+\begin{tabular}{lrcccc}
+\toprule
+Arm & $n$ & Open-shell (\%) & Ti$^{3+}$/Sn$^{2+}$ (\%) & Hf/Zr/Al (\%) & Gate (\%) \\
+\midrule
+A\quad Random (uniform) & 31{,}171 & 81.8 & 9.1 & 17.9 & 16.0 \\
+B\quad Element statistics & 20{,}034 & 70.7 & 12.0 & 23.0 & 25.2 \\
+C\quad Ion substitution & 765 & 56.9 & 5.8 & 17.4 & 39.5 \\
+D\quad Learned (corrected CVAE) & 2{,}135 & 21.4 & 16.7 & 57.5 & 67.5 \\
+\midrule
+\multicolumn{6}{l}{\emph{Difference D $-$ X, percentage points [Newcombe 95\% CI]}} \\
+D vs A &  & $-$60.4 [$-$62.2, $-$58.6] & +7.6 [+6.1, +9.3] & +39.6 [+37.4, +41.7] & +51.6 [+49.5, +53.6] \\
+D vs B &  & $-$49.3 [$-$51.1, $-$47.4] & +4.7 [+3.1, +6.4] & +34.5 [+32.3, +36.7] & +42.3 [+40.2, +44.4] \\
+D vs C &  & $-$35.5 [$-$39.3, $-$31.5] & +11.0 [+8.5, +13.2] & +40.1 [+36.6, +43.4] & +28.1 [+24.0, +32.0] \\
+\bottomrule
+\end{tabular}
+\end{table*}

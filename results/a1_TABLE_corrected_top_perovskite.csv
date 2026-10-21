@@ -1,0 +1,16 @@
+Source,Formula,Stab. metric,Type,$E_g$ (eV),$U_s$,$U_g$,$S$
+Castelli,BaHfO$_{3}$,$-0.260$,$e_{\mathrm{form}}$,6.70,0.872,0.776,0.824
+Castelli,SrHfO$_{3}$,$-0.160$,$e_{\mathrm{form}}$,6.90,0.839,0.803,0.821
+Castelli,CaHfO$_{3}$,0.020,$e_{\mathrm{form}}$,7.00,0.779,0.817,0.798
+Castelli,SrZrO$_{3}$,$-0.180$,$e_{\mathrm{form}}$,6.50,0.846,0.749,0.797
+Castelli,BaZrO$_{3}$,$-0.280$,$e_{\mathrm{form}}$,6.20,0.879,0.708,0.794
+Castelli,LaAlO$_{3}$,$-0.100$,$e_{\mathrm{form}}$,6.30,0.819,0.722,0.770
+Castelli,CaZrO$_{3}$,0.020,$e_{\mathrm{form}}$,6.50,0.779,0.749,0.764
+Castelli,SrAlO$_{2}$F,0.080,$e_{\mathrm{form}}$,6.60,0.758,0.763,0.760
+Castelli,CaSiO$_{3}$,0.100,$e_{\mathrm{form}}$,6.60,0.752,0.763,0.757
+Castelli,CaAlO$_{2}$F,0.100,$e_{\mathrm{form}}$,6.60,0.752,0.763,0.757
+Wolverton,ErAlO$_{3}$,$-0.022$,$e_{\mathrm{hull}}$,6.22,0.803,0.711,0.757
+Wolverton,TmAlO$_{3}$,$-0.017$,$e_{\mathrm{hull}}$,6.20,0.800,0.708,0.754
+Wolverton,HoAlO$_{3}$,$-0.025$,$e_{\mathrm{hull}}$,6.14,0.805,0.700,0.752
+Double perov.,CaSiYAlO$_{6}$,imputed,imputed,8.34,0.500,1.000,0.750
+Wolverton,LuAlO$_{3}$,$-0.008$,$e_{\mathrm{hull}}$,6.17,0.795,0.705,0.750

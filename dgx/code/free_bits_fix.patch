@@ -1,0 +1,39 @@
+--- a/dgx/code/composition_cvae_common.py
++++ b/dgx/code/composition_cvae_common.py
+@@ -306,14 +306,33 @@
+     max_epochs: int,
+     property_weight: float = 2.0,
+     beta_max: float = 0.1,
++    free_bits_per_dim: float = 0.05,
+ ) -> tuple[torch.Tensor, torch.Tensor, torch.Tensor, torch.Tensor]:
+     comp_loss = F.mse_loss(recon_x[:, :composition_dim], x[:, :composition_dim], reduction="sum")
+     prop_loss = F.mse_loss(recon_x[:, composition_dim:], x[:, composition_dim:], reduction="sum")
+-    kl = -0.5 * torch.sum(1 + logvar - mu.pow(2) - logvar.exp())
++
++    # Per-element KL to the standard normal prior: shape (batch, latent_dim).
++    kl_elem = -0.5 * (1 + logvar - mu.pow(2) - logvar.exp())
++    # Unclamped total KL, returned for logging (the same quantity as before).
++    kl = kl_elem.sum()
++
++    # Free bits (Kingma et al., NeurIPS 2016) are a floor on the KL of EACH latent
++    # dimension, applied before summing. Clamping the SUMMED KL instead -- as this
++    # function previously did, with a single scalar floor of 0.5 * latent_dim = 16
++    # nats -- makes the whole term constant whenever the total KL is below the floor,
++    # so its gradient vanishes and every latent dimension may collapse to the prior at
++    # no cost. That is the opposite of the intended effect.
++    #
++    # Scale note: comp_loss and prop_loss use reduction="sum" (over batch and
++    # features), and the previous kl was likewise a sum over batch and dimensions.
++    # Multiplying the clamped per-dimension KL by the batch size keeps the corrected
++    # term in exactly the same units, so beta_max retains its previous meaning.
++    kl_per_dim = kl_elem.mean(dim=0)
++    kl_term = x.shape[0] * torch.clamp(kl_per_dim, min=free_bits_per_dim).sum()
++
+     anneal_epochs = max(1, min(50, max_epochs // 2))
+     beta = min(beta_max, beta_max * (epoch / anneal_epochs))
+-    free_bits = 0.5 * mu.shape[1]
+-    loss = comp_loss + property_weight * prop_loss + beta * torch.clamp(kl, min=free_bits)
++    loss = comp_loss + property_weight * prop_loss + beta * kl_term
+     return loss, comp_loss, prop_loss, kl
+ 
+ def formula_from_counts(counts: dict[str, int]) -> str:

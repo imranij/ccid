@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_SrHfZr2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22674153
+_cell_length_b   5.28236182
+_cell_length_c   5.28236473
+_cell_angle_alpha   89.71725645
+_cell_angle_beta   90.14826567
+_cell_angle_gamma   90.14825561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrHfZr2O7
+_chemical_formula_sum   'Sr1 Hf1 Zr2 O7'
+_cell_volume   145.84091225
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  -0.02120971  0.05248829  0.05248789  1
+  Sr  Sr1  1  -0.05637170  0.55477845  0.55477686  1
+  Zr  Zr2  1  0.44771543  0.05347116  0.52505395  1
+  Zr  Zr3  1  0.44771399  0.52505377  0.05347187  1
+  O  O4  1  0.20010613  0.29788686  0.29788637  1
+  O  O5  1  0.26832138  0.22881513  0.82248884  1
+  O  O6  1  0.26832001  0.82248823  0.22881512  1
+  O  O7  1  0.40555318  0.69992449  0.69992384  1
+  O  O8  1  0.68392135  0.22786784  0.22786745  1
+  O  O9  1  0.80296496  0.08565871  0.70156579  1
+  O  O10  1  0.80296507  0.70156714  0.08566202  1

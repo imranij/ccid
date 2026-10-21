@@ -1,0 +1,6 @@
+rho,top_formula,top_source_dataset,top_score,rank_CaSiYAlO6,score_CaSiYAlO6,double_perovskites_in_top20,double_perovskites_in_top50,double_perovskites_in_batch20,mean_score_double,mean_score_known
+0.0,BaHfO3,castelli_perovskites,0.8243528716054931,216,0.5,0,0,1,0.2146376719619732,0.4071006552522112
+0.25,BaHfO3,castelli_perovskites,0.8243528716054931,83,0.625,0,0,1,0.3396376719619732,0.4071006552522112
+0.5,BaHfO3,castelli_perovskites,0.8243528716054931,14,0.75,1,17,3,0.4646376719619732,0.4071006552522112
+0.75,CaSiYAlO6,double_perovskites_gap,0.875,1,0.875,18,45,13,0.5896376719619733,0.4071006552522112
+1.0,CaSiYAlO6,double_perovskites_gap,1.0,1,1.0,20,50,19,0.7146376719619733,0.4071006552522112

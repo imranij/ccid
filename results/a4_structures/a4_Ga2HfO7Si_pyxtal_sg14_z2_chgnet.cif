@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_HfGa2SiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.25220374
+_cell_length_b   3.90108896
+_cell_length_c   8.40960973
+_cell_angle_alpha   93.27647479
+_cell_angle_beta   106.20837723
+_cell_angle_gamma   87.66285895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfGa2SiO7
+_chemical_formula_sum   'Hf2 Ga4 Si2 O14'
+_cell_volume   322.33568264
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.66438611  0.66813234  1.08517261  1
+  Ga  Ga1  1  -0.59093428  1.16829924  -0.34860531  1
+  Ga  Ga2  1  -0.78717158  -0.65633673  -1.04747860  1
+  Ga  Ga3  1  0.84817371  -0.08993948  1.52571416  1
+  Hf  Hf4  1  -0.04399908  -0.05093394  -0.04734892  1
+  Hf  Hf5  1  0.04930999  0.37273092  0.41595597  1
+  O  O6  1  0.83373537  0.41987643  0.45786521  1
+  O  O7  1  0.17231170  0.01928604  0.10969227  1
+  O  O8  1  0.23611563  0.43409073  0.59280886  1
+  O  O9  1  0.80837281  0.80420192  1.03493515  1
+  O  O10  1  0.13664362  0.38153844  0.68755493  1
+  O  O11  1  0.83907923  0.98560697  0.72515805  1
+  O  O12  1  0.83951871  0.43264074  0.27971566  1
+  O  O13  1  0.07125528  0.16673028  0.19989790  1
+  O  O14  1  0.54229606  0.42362725  0.59983084  1
+  O  O15  1  0.47432024  0.72817342  0.93703270  1
+  O  O16  1  0.35596299  0.88946374  0.45384820  1
+  O  O17  1  0.59229118  0.23332620  0.08875034  1
+  O  O18  1  0.01012985  -0.11327596  0.46295780  1
+  O  O19  1  0.02517267  0.46573145  -0.08447972  1
+  Si  Si20  1  0.44425629  0.18308741  -0.06252164  1
+  Si  Si21  1  0.47877347  0.63394264  0.43354345  1

@@ -1,0 +1,11 @@
+arm_a,arm_b,n_a,n_b,n_shared,shared
+A,B,50,50,1,GaLaO5Sn2
+A,C,50,50,2,AlLaO5Si BaGa2O6Sn
+A,D,50,50,1,HfO7Si2Sr
+A,CVAE_dep,50,66,3,AlGaO6Sc2 HfO7SnZr2 HfO7SrZr2
+B,C,50,50,2,Ba2O6TiZr BaO6Sc2Si
+B,D,50,50,2,BaHfO7Zr2 HfO6Sn2Zr
+B,CVAE_dep,50,66,3,HfO8TiZr2 O6Sc2TiY O7Sc2SiZr
+C,D,50,50,1,MgO6Sn2Sr
+C,CVAE_dep,50,66,1,AlBaLaO4
+D,CVAE_dep,50,66,2,AlBa2LaO5 AlHfO5Sc

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_HfMgSiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50790303
+_cell_length_b   5.45314224
+_cell_length_c   5.15056947
+_cell_angle_alpha   85.21804927
+_cell_angle_beta   109.87116620
+_cell_angle_gamma   121.20548915
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfMgSiO5
+_chemical_formula_sum   'Hf1 Mg1 Si1 O5'
+_cell_volume   123.60846727
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  -0.11272655  0.91625097  -0.09811073  1
+  Mg  Mg1  1  0.70150094  0.41877729  0.36005646  1
+  O  O2  1  0.33691713  0.27499968  1.02300802  1
+  O  O3  1  0.95496410  0.26779399  0.58926365  1
+  O  O4  1  0.97967675  0.75823816  0.22768453  1
+  O  O5  1  0.58043600  0.53338433  0.62848063  1
+  O  O6  1  0.46924582  0.81349565  0.88004829  1
+  Si  Si7  1  0.31731598  0.47357280  0.76268171  1

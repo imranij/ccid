@@ -1,0 +1,17 @@
+\begin{table}[t]
+\centering
+\caption{Composition-only surrogate performance for stability and band gap (test split, 80/10/10 seed-42 split matching the CVAE). Stability is trained per source because Castelli $e_{\mathrm{form}}$ and Wolverton $e_{\mathrm{hull}}$ are different physical quantities; the pooled fit is shown only as a cautionary baseline. Band gap is reported both over all test rows and over the subset with a non-zero reference gap, since 88\% of rows have gap $=0$ exactly.}
+\label{tab:a5_stability_gap}
+\begin{tabular}{lrrrr}
+\toprule
+Target & $n_{\mathrm{test}}$ & MAE & RMSE & $R^2$ \\
+\midrule
+Stability, pooled (naive, not recommended) & 2382 & 0.5206 & 0.6980 & 0.1604 \\
+Stability, Castelli only ($e_{\mathrm{form}}$) & 1872 & 0.5213 & 0.6979 & 0.0742 \\
+Stability, Wolverton only ($e_{\mathrm{hull}}$) & 510 & 0.4304 & 0.5841 & 0.1172 \\
+\midrule
+Band gap, all test rows & 2516 & 0.1562 & 0.4542 & 0.8310 \\
+Band gap, non-zero-gap subset & 305 & 0.6805 & 0.9815 & 0.7250 \\
+\bottomrule
+\end{tabular}
+\end{table}

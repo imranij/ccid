@@ -1,0 +1,6 @@
+Population,Scalarisation actually used,Utility definitions,Min--max reference population,$E_g$ filter
+"Dielectric (MP, 1{,}056 rec.)","$0.80\,D+0.20\,N$",$D=0.45\hat{\varepsilon}_{\mathrm{tot}}+0.35\hat{n}+0.20\hat{E}_g$,757 records with $E_g\ge1$~eV,yes ($E_g\ge1$~eV)
+Castelli perovskites,"$0.45\,U_s+0.35\,U_g+0.20\,U_d$","$U_s=\mathrm{mm}(-e_{\mathrm{form}})$, $U_g=\mathrm{mm}(E_g)$, $U_d\in\{0,1\}$","18{,}928 Castelli records",no
+Wolverton oxides,"$0.65\,U_s+0.35\,U_g$","$U_s=\mathrm{mm}(-e_{\mathrm{hull}})$, $U_g=\mathrm{mm}(E_g)$, $U_d\equiv0$","4{,}914 Wolverton records",no
+Double perovskites,$U_g$ only,"$U_s\equiv0.5$ (imputed), $U_g=\mathrm{mm}(E_g)$, $U_d\equiv0$","1{,}306 double-perovskite records",no
+CVAE training table,"$0.5\,U_s+0.5\,U_g$","$U_s$ pooled over known-stability rows, $U_g$ pooled over all rows","all 25{,}148 pooled records",no

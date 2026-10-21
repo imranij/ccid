@@ -1,0 +1,97 @@
+\begin{table}[t]
+\centering
+\caption{Composition-CVAE before and after the free-bits correction, against the random-selection controls. All arms pass through the identical \texttt{decode\_composition\_vector} charge-balance and whitelist filter; 20{,}000 samples per run; mean $\pm$ s.d. over independent seeds (5 for the CVAE arms, 5 for the random controls).}
+\label{tab:a8_headline}
+\begin{tabular}{lccccc}
+\toprule
+Generator & Validity & Unique valid & Novelty & Mean pairwise dist. & Distinct decoded \\
+\midrule
+Deposited checkpoint (buggy free bits) & 0.3302 $\pm$ 0.0018 & 69 $\pm$ 2 & 0.9855 $\pm$ 0.0003 & 0.2785 $\pm$ 0.0012 & 305 $\pm$ 9 \\
+Retrained, per-dim free bits $\lambda=0.5$, $\beta_{\max}=0.01$ & 0.4415 $\pm$ 0.0031 & 1108 $\pm$ 11 & 0.9581 $\pm$ 0.0008 & 0.3226 $\pm$ 0.0014 & 5395 $\pm$ 27 \\
+Retrained, per-dim free bits $\lambda=1.0$, $\beta_{\max}=0.01$ & 0.2913 $\pm$ 0.0028 & 1752 $\pm$ 12 & 0.9688 $\pm$ 0.0005 & 0.3265 $\pm$ 0.0013 & 10011 $\pm$ 53 \\
+\midrule
+Random cations, uniform over the 41-element whitelist & 0.7274 $\pm$ 0.0017 & 11821 $\pm$ 51 & 0.9977 $\pm$ 0.0002 & 0.3437 $\pm$ 0.0010 & 16512 $\pm$ 30 \\
+Random, no model input at all (Dirichlet) & 0.6778 $\pm$ 0.0042 & 11636 $\pm$ 96 & 0.9789 $\pm$ 0.0007 & 0.3755 $\pm$ 0.0010 & 17305 $\pm$ 41 \\
+Random, training-frequency weighted (whitelist) & 0.6606 $\pm$ 0.0028 & 8850 $\pm$ 47 & 0.9934 $\pm$ 0.0004 & 0.3457 $\pm$ 0.0011 & 13739 $\pm$ 61 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[t]
+\centering
+\caption{Free-bits sweep. $\lambda$ is the per-dimension KL floor in nats; reconstruction is the test-split composition MSE per sample; active units are latent dimensions with KL $>0.01$ nats over the full 25{,}148-record table; generation metrics are 20{,}000 samples at the archived settings (seed 123). The last column is the number of distinct valid formulas obtained from 20{,}000 latent draws with the condition pinned at $(0.9, 0.8)$ --- the direct measure of whether the latent space does anything. The first row is the deposited checkpoint.}
+\label{tab:a8_freebits_sweep}
+\begin{tabular}{llccccccc}
+\toprule
+$\beta_{\max}$ & $\lambda$ & Recon. MSE & Total KL & Active & Validity & Unique valid & Pairwise dist. & Fixed-cond.\ unique \\
+\midrule
+-- & buggy & 0.12786 & 0.17 & 1 & 0.3313 & 68 & 0.2786 & 1 \\
+\midrule
+0.01 & 0 & 0.07934 & 1.70 & 2 & 0.3854 & 127 & 0.2933 & 11 \\
+0.01 & 0.05 & 0.07727 & 2.64 & 32 & 0.3446 & 148 & 0.2972 & 5 \\
+0.01 & 0.25 & 0.06767 & 7.40 & 32 & 0.3710 & 393 & 0.2999 & 36 \\
+0.01 & 0.5 & 0.04293 & 14.80 & 32 & 0.4400 & 1095 & 0.3201 & 849 \\
+0.01 & 0.75 & 0.02938 & 22.38 & 32 & 0.3564 & 1852 & 0.3197 & 1821 \\
+0.01 & 1 & 0.01953 & 29.82 & 32 & 0.2925 & 1735 & 0.3248 & 1821 \\
+0.01 & 1.25 & 0.01350 & 37.49 & 32 & 0.2243 & 1856 & 0.3366 & 1970 \\
+0.01 & 1.5 & 0.01492 & 45.14 & 32 & 0.1904 & 1844 & 0.3415 & 1878 \\
+0.01 & 2 & 0.00962 & 60.56 & 32 & 0.0597 & 820 & 0.3391 & 832 \\
+0.01 & 4 & 0.00892 & 120.51 & 32 & 0.0303 & 504 & 0.3641 & 496 \\
+\midrule
+0.1 & 0 & 0.12747 & 0.17 & 1 & 0.4435 & 66 & 0.2734 & 2 \\
+0.1 & 0.05 & 0.09435 & 1.51 & 32 & 0.4701 & 101 & 0.2912 & 5 \\
+0.1 & 0.25 & 0.07047 & 7.04 & 32 & 0.3844 & 482 & 0.2866 & 77 \\
+0.1 & 0.5 & 0.05372 & 14.22 & 32 & 0.4869 & 885 & 0.3136 & 455 \\
+0.1 & 1 & 0.03731 & 29.25 & 32 & 0.3552 & 1219 & 0.3325 & 1221 \\
+0.1 & 2 & 0.01878 & 60.42 & 32 & 0.0911 & 1033 & 0.3365 & 988 \\
+0.1 & 4 & 0.01257 & 119.84 & 32 & 0.0290 & 431 & 0.3319 & 425 \\
+0.1 & 8 & 0.01707 & 229.38 & 32 & 0.0050 & 97 & 0.3564 & 40 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[t]
+\centering
+\caption{Condition-ablation control, deposited checkpoint versus the retrained model ($\lambda=0.5$, $\beta_{\max}=0.01$). The latent draw is shared within each seed, so every difference is attributable to the condition vector alone. 20{,}000 samples per cell; mean $\pm$ s.d. over seeds (5 deposited, 3 retrained).}
+\label{tab:a8_unconditional}
+\begin{tabular}{lcccc}
+\toprule
+& \multicolumn{2}{c}{Deposited} & \multicolumn{2}{c}{Retrained} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}
+Condition arm & Validity & Unique valid & Validity & Unique valid \\
+\midrule
+Archived conditioning $\mathcal{N}(0.9,0.30),\mathcal{N}(0.8,0.30)$ & 0.3302 $\pm$ 0.0018 & 69 $\pm$ 2 & 0.4411 $\pm$ 0.0021 & 1106 $\pm$ 14 \\
+Same conditions, permuted across samples & 0.3299 $\pm$ 0.0021 & 73 $\pm$ 2 & 0.4406 $\pm$ 0.0031 & 1119 $\pm$ 14 \\
+Constant $(0.5,0.5)$ & 0.9887 $\pm$ 0.0004 & 6 $\pm$ 1 & 0.3730 $\pm$ 0.0037 & 1403 $\pm$ 14 \\
+Constant $(0.9,0.8)$ & 0.0713 $\pm$ 0.0027 & 1 $\pm$ 0 & 0.4744 $\pm$ 0.0045 & 865 $\pm$ 18 \\
+Constant training mean & 0.0000 $\pm$ 0.0000 & 0 $\pm$ 0 & 0.0129 $\pm$ 0.0007 & 210 $\pm$ 12 \\
+Uniform $(0,1)^2$ & 0.3749 $\pm$ 0.0020 & 76 $\pm$ 1 & 0.3473 $\pm$ 0.0043 & 1345 $\pm$ 14 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[t]
+\centering
+\caption{Decoder-capacity experiment. \texttt{decode\_composition\_vector} keeps the \texttt{top\_cations} largest cation fractions; the deposited pipeline uses 3. 20{,}000 samples, 3 seeds, mean $\pm$ s.d.}
+\label{tab:a8_top_cations}
+\begin{tabular}{llccc}
+\toprule
+Model & \texttt{top\_cations} & Validity & Unique valid & Distinct decoded \\
+\midrule
+Deposited & 2 & 0.5584 $\pm$ 0.0069 & 25 $\pm$ 1 & 126 $\pm$ 3 \\
+ & 3 & 0.3298 $\pm$ 0.0015 & 69 $\pm$ 2 & 308 $\pm$ 11 \\
+ & 4 & 0.3771 $\pm$ 0.0041 & 65 $\pm$ 4 & 313 $\pm$ 10 \\
+ & 5 & 0.5210 $\pm$ 0.0041 & 80 $\pm$ 2 & 343 $\pm$ 7 \\
+\midrule
+Retrained $\lambda=0.5$ & 2 & 0.4891 $\pm$ 0.0044 & 303 $\pm$ 3 & 1662 $\pm$ 30 \\
+ & 3 & 0.4411 $\pm$ 0.0021 & 1106 $\pm$ 14 & 5414 $\pm$ 2 \\
+ & 4 & 0.3584 $\pm$ 0.0039 & 1346 $\pm$ 33 & 7020 $\pm$ 31 \\
+ & 5 & 0.3431 $\pm$ 0.0012 & 1418 $\pm$ 23 & 8090 $\pm$ 41 \\
+\midrule
+Retrained $\lambda=1.0$ & 2 & 0.3781 $\pm$ 0.0052 & 469 $\pm$ 11 & 2749 $\pm$ 18 \\
+ & 3 & 0.2907 $\pm$ 0.0026 & 1746 $\pm$ 10 & 9983 $\pm$ 39 \\
+ & 4 & 0.2298 $\pm$ 0.0013 & 2134 $\pm$ 8 & 13542 $\pm$ 27 \\
+ & 5 & 0.1855 $\pm$ 0.0017 & 2153 $\pm$ 36 & 15460 $\pm$ 64 \\
+\bottomrule
+\end{tabular}
+\end{table}

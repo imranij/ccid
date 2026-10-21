@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TiGaSnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54231595
+_cell_length_b   6.54211752
+_cell_length_c   6.51603813
+_cell_angle_alpha   60.13187136
+_cell_angle_beta   60.13281531
+_cell_angle_gamma   60.33801521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiGaSnO4
+_chemical_formula_sum   'Ti2 Ga2 Sn2 O8'
+_cell_volume   198.10066657
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.74724871  0.74831390  0.75221264  1
+  Ti  Ti1  1  0.50154123  0.50271696  0.49786765  1
+  Ga  Ga2  1  0.12809198  0.12309423  0.12594101  1
+  Ga  Ga3  1  0.12799583  0.12314775  0.62297591  1
+  Sn  Sn4  1  0.12517020  0.62528293  0.12436426  1
+  Sn  Sn5  1  0.62724259  0.12613776  0.12361928  1
+  O  O6  1  0.86354858  0.86373384  0.86481057  1
+  O  O7  1  0.86369677  0.86349411  0.40794142  1
+  O  O8  1  0.86450031  0.40403683  0.86568661  1
+  O  O9  1  0.40234010  0.86725328  0.86526795  1
+  O  O10  1  0.38554941  0.38527330  0.84232363  1
+  O  O11  1  0.38536276  0.38555225  0.38680719  1
+  O  O12  1  0.38194521  0.84731691  0.38532561  1
+  O  O13  1  0.84576629  0.38464595  0.38485631  1

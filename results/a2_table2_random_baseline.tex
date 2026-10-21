@@ -1,0 +1,13 @@
+% Table A2-2: random element-selection controls through the identical filter path
+\begin{tabular}{lccccc}
+\toprule
+Generator & Validity & Unique valid & Novel unique & Uniqueness & Mean pairwise dist. \\
+\midrule
+Composition-CVAE (deposited checkpoint) & 0.3302 $\pm$ 0.0018 & 69 & 68 & 0.0104 $\pm$ 0.0002 & 0.2785 $\pm$ 0.0012 \\
+Random: uniform over 41-element whitelist & 0.7274 $\pm$ 0.0017 & 11,821 & 11,793 & 0.8126 $\pm$ 0.0027 & 0.3437 $\pm$ 0.0010 \\
+Random: training-frequency weighted, whitelist & 0.6606 $\pm$ 0.0028 & 8,850 & 8,791 & 0.6698 $\pm$ 0.0038 & 0.3457 $\pm$ 0.0011 \\
+Random: whitelist + random fractions (no model input) & 0.6778 $\pm$ 0.0042 & 11,636 & 11,390 & 0.8584 $\pm$ 0.0027 & 0.3755 $\pm$ 0.0010 \\
+Random: uniform over 77-element vocabulary & 0.1009 $\pm$ 0.0018 & 1,964 & 1,959 & 0.9732 $\pm$ 0.0027 & 0.3449 $\pm$ 0.0015 \\
+Random: training-frequency weighted, full vocabulary & 0.0446 $\pm$ 0.0017 & 865 & 857 & 0.9688 $\pm$ 0.0066 & 0.3469 $\pm$ 0.0017 \\
+\bottomrule
+\end{tabular}

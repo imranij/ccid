@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaLaAl3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25442725
+_cell_length_b   5.20297924
+_cell_length_c   5.56300308
+_cell_angle_alpha   92.70841252
+_cell_angle_beta   115.80052220
+_cell_angle_gamma   76.92736201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLaAl3O7
+_chemical_formula_sum   'Ba1 La1 Al3 O7'
+_cell_volume   183.82907295
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.11570598  0.74835600  -0.00296752  1
+  Al  Al1  1  0.41403295  0.73625188  0.65949707  1
+  Al  Al2  1  0.70280122  0.17731327  0.75044110  1
+  Ba  Ba3  1  0.97276611  0.40586292  0.36253816  1
+  La  La4  1  0.42031065  0.20315259  0.07594118  1
+  O  O5  1  0.07362973  0.43413885  0.89147382  1
+  O  O6  1  0.23544463  0.84013185  0.80595179  1
+  O  O7  1  0.71800446  1.18614089  0.44859864  1
+  O  O8  1  0.91669186  0.98812857  1.02600895  1
+  O  O9  1  0.61072777  0.47549785  0.88442328  1
+  O  O10  1  0.31429238  0.63712236  0.32952270  1
+  O  O11  1  0.47451876  1.04815845  0.67647331  1

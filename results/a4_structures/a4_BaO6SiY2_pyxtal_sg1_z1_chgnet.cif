@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaY2SiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.38828996
+_cell_length_b   5.59014100
+_cell_length_c   3.66938206
+_cell_angle_alpha   130.78646474
+_cell_angle_beta   133.38464117
+_cell_angle_gamma   58.42806501
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaY2SiO6
+_chemical_formula_sum   'Ba1 Y2 Si1 O6'
+_cell_volume   160.89405927
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.03035849  0.36242833  0.88760316  1
+  O  O1  1  0.77751836  0.56199387  -0.59423386  1
+  O  O2  1  0.46355456  0.61568058  0.61551812  1
+  O  O3  1  0.96418566  0.91298592  0.75013614  1
+  O  O4  1  0.27505443  0.18555250  0.18796545  1
+  O  O5  1  0.63875275  0.48033351  1.45050940  1
+  O  O6  1  0.61879170  0.08018613  -0.50310111  1
+  Si  Si7  1  0.62185542  0.47303354  0.89340681  1
+  Y  Y8  1  0.75731400  0.91467657  1.20286015  1
+  Y  Y9  1  0.38556714  1.13436059  0.93592761  1

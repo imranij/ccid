@@ -1,0 +1,155 @@
+population,canonical_formula,reduced_formula,formula,elements,n_draws,sample_id,cations,seed,n_seeds,in_training_set
+C,BaO3Zr,BaZrO3,BaZrO3,Ba Zr O,506,1,Ba Zr,0,5,True
+C,O3SrZr,SrZrO3,SrZrO3,Sr Zr O,353,5,Sr Zr,0,5,True
+C,BaMgO6Zr2,BaMgZr2O6,Zr2BaMgO6,Zr Ba Mg O,73,11,Ba Mg Zr,0,5,True
+C,Mg2O6SiSn,Mg2SiSnO6,Mg2SiSnO6,Mg Si Sn O,3,21,Mg Si Sn,0,2,False
+C,O4SiTi,TiSiO4,SiTiO4,Si Ti O,82,31,Si Ti,0,5,False
+C,BaO3Si,BaSiO3,BaSiO3,Ba Si O,503,38,Ba Si,0,5,True
+C,O3SnSr,SrSnO3,SnSrO3,Sn Sr O,638,48,Sn Sr,0,5,True
+C,BaO3Sn,BaSnO3,BaSnO3,Ba Sn O,845,57,Ba Sn,0,5,True
+C,CaO3Zr,CaZrO3,CaZrO3,Ca Zr O,257,61,Ca Zr,0,5,True
+C,LaO3Ti,LaTiO3,LaTiO3,La Ti O,113,67,La Ti,0,5,True
+C,CaO3Si,CaSiO3,CaSiO3,Ca Si O,327,79,Ca Si,0,5,True
+C,O2Ti,TiO2,TiO2,Ti O,142,90,Ti,0,5,False
+C,BaO3Ti,BaTiO3,BaTiO3,Ba Ti O,438,103,Ba Ti,0,5,True
+C,AlBaLaO4,BaLaAlO4,AlBaLaO4,Al Ba La O,79,104,Al Ba La,0,5,False
+C,MgO3Sn,MgSnO3,MgSnO3,Mg Sn O,627,109,Mg Sn,0,5,True
+C,BaHfO3,BaHfO3,BaHfO3,Ba Hf O,115,131,Ba Hf,0,5,True
+C,BaO4SiSr,BaSrSiO4,BaSiSrO4,Ba Si Sr O,427,135,Ba Si Sr,0,5,False
+C,CaO3Sn,CaSnO3,CaSnO3,Ca Sn O,559,177,Ca Sn,0,5,True
+C,O3ScY,YScO3,ScYO3,Sc Y O,189,194,Sc Y,0,5,True
+C,BaCaO4Si,BaCaSiO4,BaCaSiO4,Ba Ca Si O,261,199,Ba Ca Si,0,5,False
+C,GaO3Sc,ScGaO3,GaScO3,Ga Sc O,116,201,Ga Sc,0,5,True
+C,CaO6SrZr2,SrCaZr2O6,Zr2CaSrO6,Zr Ca Sr O,34,218,Ca Sr Zr,0,5,True
+C,O2Zr,ZrO2,ZrO2,Zr O,61,246,Zr,0,5,False
+C,MgO6SrTi2,SrMgTi2O6,Ti2MgSrO6,Ti Mg Sr O,64,273,Mg Sr Ti,0,5,True
+C,HfO6SiSr2,Sr2HfSiO6,Sr2HfSiO6,Sr Hf Si O,21,288,Hf Si Sr,0,5,True
+C,BaO6Sn2Sr,BaSr(SnO3)2,Sn2BaSrO6,Sn Ba Sr O,92,332,Ba Sn Sr,0,5,True
+C,O3SnZr,ZrSnO3,SnZrO3,Sn Zr O,217,334,Sn Zr,0,5,True
+C,Ca2O6SnZr,Ca2ZrSnO6,Ca2SnZrO6,Ca Sn Zr O,30,351,Ca Sn Zr,0,5,True
+C,HfO4Ti,HfTiO4,HfTiO4,Hf Ti O,18,365,Hf Ti,0,5,False
+C,O6SnSr2Ti,Sr2TiSnO6,Sr2SnTiO6,Sr Sn Ti O,66,382,Sn Sr Ti,0,5,True
+C,AlLaO5Sn,LaAlSnO5,AlLaSnO5,Al La Sn O,45,389,Al La Sn,0,5,False
+C,MgO3Si,MgSiO3,MgSiO3,Mg Si O,394,423,Mg Si,0,5,True
+C,O3SiSr,SrSiO3,SiSrO3,Si Sr O,381,425,Si Sr,0,5,True
+C,GaO3Ti,TiGaO3,GaTiO3,Ga Ti O,73,434,Ga Ti,0,5,True
+C,BaMgO6Ti2,BaMgTi2O6,Ti2BaMgO6,Ti Ba Mg O,47,452,Ba Mg Ti,0,5,True
+C,BaO4SnSr,BaSrSnO4,BaSnSrO4,Ba Sn Sr O,301,475,Ba Sn Sr,0,5,False
+C,LaO3Sc,LaScO3,LaScO3,La Sc O,285,502,La Sc,0,5,True
+C,BaO4SrTi,BaSrTiO4,BaSrTiO4,Ba Sr Ti O,162,507,Ba Sr Ti,0,5,False
+C,MgO6SrZr2,SrMgZr2O6,Zr2MgSrO6,Zr Mg Sr O,50,549,Mg Sr Zr,0,5,True
+C,Ba2O6SiSn,Ba2SiSnO6,Ba2SiSnO6,Ba Si Sn O,52,557,Ba Si Sn,0,5,False
+C,MgO3Zr,MgZrO3,MgZrO3,Mg Zr O,367,558,Mg Zr,0,5,True
+C,O6Sr2TiZr,Sr2ZrTiO6,Sr2TiZrO6,Sr Ti Zr O,128,559,Sr Ti Zr,0,5,True
+C,O3SrTi,SrTiO3,SrTiO3,Sr Ti O,305,581,Sr Ti,0,5,True
+C,BaCaO4Sn,BaCaSnO4,BaCaSnO4,Ba Ca Sn O,47,626,Ba Ca Sn,0,5,False
+C,AlO3Y,YAlO3,AlYO3,Al Y O,189,658,Al Y,0,5,True
+C,O3TiY,YTiO3,TiYO3,Ti Y O,48,690,Ti Y,0,5,True
+C,HfO3Sr,SrHfO3,HfSrO3,Hf Sr O,86,692,Hf Sr,0,5,True
+C,O4TiZr,ZrTiO4,TiZrO4,Ti Zr O,86,704,Ti Zr,0,5,False
+C,CaO5SiSn,CaSiSnO5,CaSiSnO5,Ca Si Sn O,28,737,Ca Si Sn,0,5,False
+C,AlO3Ti,TiAlO3,AlTiO3,Al Ti O,70,768,Al Ti,0,5,True
+C,CaO6SrTi2,SrCaTi2O6,Ti2CaSrO6,Ti Ca Sr O,40,789,Ca Sr Ti,0,5,True
+C,O4SiZr,ZrSiO4,SiZrO4,Si Zr O,68,790,Si Zr,0,5,False
+C,BaO6SnTi2,BaTi2SnO6,Ti2BaSnO6,Ti Ba Sn O,53,818,Ba Sn Ti,0,5,True
+C,Al2O6SnSr,SrAl2SnO6,Al2SnSrO6,Al Sn Sr O,5,824,Al Sn Sr,0,2,False
+C,AlLaO3,LaAlO3,AlLaO3,Al La O,216,830,Al La,0,5,True
+C,BaO6SrTi2,BaSrTi2O6,Ti2BaSrO6,Ti Ba Sr O,115,870,Ba Sr Ti,0,5,True
+C,AlGaO3,AlGaO3,AlGaO3,Al Ga O,82,882,Al Ga,0,5,True
+C,O6SnSrZr2,SrZr2SnO6,Zr2SnSrO6,Zr Sn Sr O,44,885,Sn Sr Zr,0,5,True
+C,BaO6SrZr2,BaSrZr2O6,Zr2BaSrO6,Zr Ba Sr O,187,894,Ba Sr Zr,0,5,True
+C,GaLaO3,LaGaO3,GaLaO3,Ga La O,110,900,Ga La,0,5,True
+C,O6SiSnSr2,Sr2SiSnO6,Sr2SiSnO6,Sr Si Sn O,81,939,Si Sn Sr,0,5,True
+C,HfO3Sn,HfSnO3,HfSnO3,Hf Sn O,9,946,Hf Sn,0,4,True
+C,Ba2HfO6Sn,Ba2HfSnO6,Ba2HfSnO6,Ba Hf Sn O,14,966,Ba Hf Sn,0,4,True
+C,O3SnTi,TiSnO3,SnTiO3,Sn Ti O,101,1012,Sn Ti,0,5,True
+C,BaCaO6Zr2,BaCaZr2O6,Zr2BaCaO6,Zr Ba Ca O,152,1079,Ba Ca Zr,0,5,True
+C,MgO6Sn2Sr,SrMg(SnO3)2,Sn2MgSrO6,Sn Mg Sr O,9,1100,Mg Sn Sr,0,5,False
+C,MgO3Ti,MgTiO3,MgTiO3,Mg Ti O,273,1111,Mg Ti,0,5,True
+C,AlGaLa2O6,La2AlGaO6,La2AlGaO6,La Al Ga O,51,1185,Al Ga La,0,5,True
+C,GaO3Y,YGaO3,GaYO3,Ga Y O,69,1192,Ga Y,0,5,True
+C,BaCaO6Ti2,BaCaTi2O6,Ti2BaCaO6,Ti Ba Ca O,82,1214,Ba Ca Ti,0,5,True
+C,LaO5ScSi,LaScSiO5,LaScSiO5,La Sc Si O,5,1310,La Sc Si,0,3,False
+C,LaO3Y,LaYO3,LaYO3,La Y O,239,1348,La Y,0,5,True
+C,CaHfO3,CaHfO3,CaHfO3,Ca Hf O,24,1355,Ca Hf,0,5,True
+C,BaO5SiSn,BaSiSnO5,BaSiSnO5,Ba Si Sn O,223,1359,Ba Si Sn,0,5,False
+C,BaCaO6Sn2,BaCa(SnO3)2,Sn2BaCaO6,Sn Ba Ca O,45,1461,Ba Ca Sn,0,5,True
+C,BaMgO4Si,BaMgSiO4,BaMgSiO4,Ba Mg Si O,3,1469,Ba Mg Si,0,2,False
+C,Ba2O6SiTi,Ba2TiSiO6,Ba2SiTiO6,Ba Si Ti O,59,1479,Ba Si Ti,0,5,False
+C,GaLaO5Si,LaGaSiO5,GaLaSiO5,Ga La Si O,78,1520,Ga La Si,0,5,False
+C,O6SiSr2Ti,Sr2TiSiO6,Sr2SiTiO6,Sr Si Ti O,63,1600,Si Sr Ti,0,5,True
+C,Ca2O6TiZr,Ca2ZrTiO6,Ca2TiZrO6,Ca Ti Zr O,40,1624,Ca Ti Zr,0,5,True
+C,O6SnSr2Zr,Sr2ZrSnO6,Sr2SnZrO6,Sr Sn Zr O,110,1625,Sn Sr Zr,0,5,True
+C,Ba2O6TiZr,Ba2ZrTiO6,Ba2TiZrO6,Ba Ti Zr O,134,1661,Ba Ti Zr,0,5,True
+C,AlO3Sc,ScAlO3,AlScO3,Al Sc O,197,1665,Al Sc,0,5,True
+C,O3SiSn,SiSnO3,SiSnO3,Si Sn O,72,1707,Si Sn,0,5,True
+C,BaHf2O6Sr,BaSrHf2O6,Hf2BaSrO6,Hf Ba Sr O,36,1838,Ba Hf Sr,0,5,True
+C,O7Sn3Sr,SrSn3O7,Sn3SrO7,Sn Sr O,6,1854,Sn Sr,0,3,False
+C,BaO6SnZr2,BaZr2SnO6,Zr2BaSnO6,Zr Ba Sn O,128,1890,Ba Sn Zr,0,5,True
+C,HfMgO3,HfMgO3,HfMgO3,Hf Mg O,58,1900,Hf Mg,0,5,True
+C,Ba2O6SnZr,Ba2ZrSnO6,Ba2SnZrO6,Ba Sn Zr O,154,1925,Ba Sn Zr,0,5,True
+C,O6SnSrTi2,SrTi2SnO6,Ti2SnSrO6,Ti Sn Sr O,41,2046,Sn Sr Ti,0,5,True
+C,Ga2O6SnSr,SrGa2SnO6,Ga2SnSrO6,Ga Sn Sr O,20,2167,Ga Sn Sr,0,5,False
+C,AlLaO5Si,LaAlSiO5,AlLaSiO5,Al La Si O,74,2252,Al La Si,0,5,False
+C,BaMgO6Si2,BaMg(SiO3)2,Si2BaMgO6,Si Ba Mg O,3,2264,Ba Mg Si,0,2,False
+C,MgO4SiSr,SrMgSiO4,MgSiSrO4,Mg Si Sr O,50,2335,Mg Si Sr,0,5,False
+C,CaGaLaO4,CaLaGaO4,CaGaLaO4,Ca Ga La O,3,2382,Ca Ga La,0,2,False
+C,O2Sn,SnO2,SnO2,Sn O,107,2388,Sn,0,5,False
+C,CaO3Ti,CaTiO3,CaTiO3,Ca Ti O,189,2435,Ca Ti,0,5,True
+C,Ba2O6SnTi,Ba2TiSnO6,Ba2SnTiO6,Ba Sn Ti O,61,2495,Ba Sn Ti,0,5,True
+C,Ca2O6SiZr,Ca2ZrSiO6,Ca2SiZrO6,Ca Si Zr O,41,2572,Ca Si Zr,0,5,True
+C,HfO6SnSr2,Sr2HfSnO6,Sr2HfSnO6,Sr Hf Sn O,10,2604,Hf Sn Sr,0,5,True
+C,CaO4SiSr,SrCaSiO4,CaSiSrO4,Ca Si Sr O,61,2758,Ca Si Sr,0,5,False
+C,Al2O6SiSr,SrAl2SiO6,Al2SiSrO6,Al Si Sr O,4,2801,Al Si Sr,0,2,False
+C,CaO6Sn2Sr,SrCa(SnO3)2,Sn2CaSrO6,Sn Ca Sr O,31,3085,Ca Sn Sr,0,5,True
+C,BaO6SiTi2,BaTi2SiO6,Ti2BaSiO6,Ti Ba Si O,5,3338,Ba Si Ti,0,3,False
+C,O3ScTi,ScTiO3,ScTiO3,Sc Ti O,38,3888,Sc Ti,0,5,True
+C,BaGaO4Sc,BaScGaO4,BaGaScO4,Ba Ga Sc O,8,4040,Ba Ga Sc,0,5,False
+C,O6SiSr2Zr,Sr2ZrSiO6,Sr2SiZrO6,Sr Si Zr O,72,4317,Si Sr Zr,0,5,True
+C,BaCaO6Si2,BaCa(SiO3)2,Si2BaCaO6,Si Ba Ca O,18,4528,Ba Ca Si,0,5,False
+C,BaO5SiTi,BaTiSiO5,BaSiTiO5,Ba Si Ti O,15,4913,Ba Si Ti,0,5,False
+C,GaLa2O6Sc,La2ScGaO6,La2GaScO6,La Ga Sc O,6,4949,Ga La Sc,0,4,True
+C,Al2LaO6Sc,LaScAl2O6,Al2LaScO6,Al La Sc O,4,5223,Al La Sc,0,3,False
+C,HfO4Zr,HfZrO4,HfZrO4,Hf Zr O,11,5343,Hf Zr,0,5,False
+C,Mg2O6SiTi,Mg2TiSiO6,Mg2SiTiO6,Mg Si Ti O,3,5577,Mg Si Ti,0,2,False
+C,BaO6Si2Sr,BaSr(SiO3)2,Si2BaSrO6,Si Ba Sr O,37,5639,Ba Si Sr,0,5,False
+C,Ca2O6SiTi,Ca2TiSiO6,Ca2SiTiO6,Ca Si Ti O,29,5703,Ca Si Ti,0,5,True
+C,Ca2O6SiSn,Ca2SiSnO6,Ca2SiSnO6,Ca Si Sn O,39,5759,Ca Si Sn,0,5,True
+C,Ba2O6SiZr,Ba2ZrSiO6,Ba2SiZrO6,Ba Si Zr O,40,6315,Ba Si Zr,0,5,False
+C,GaO5ScSi,ScGaSiO5,GaScSiO5,Ga Sc Si O,10,7147,Ga Sc Si,0,5,False
+C,BaHfO5Si,BaHfSiO5,BaHfSiO5,Ba Hf Si O,13,7281,Ba Hf Si,0,5,False
+C,GaO4SrTi,SrTiGaO4,GaSrTiO4,Ga Sr Ti O,11,7294,Ga Sr Ti,0,4,False
+C,BaHf2MgO6,BaHf2MgO6,Hf2BaMgO6,Hf Ba Mg O,3,7639,Ba Hf Mg,0,2,False
+C,Ba2HfO6Ti,Ba2HfTiO6,Ba2HfTiO6,Ba Hf Ti O,9,8056,Ba Hf Ti,0,4,True
+C,Ca2O6SnTi,Ca2TiSnO6,Ca2SnTiO6,Ca Sn Ti O,8,8672,Ca Sn Ti,0,5,True
+C,BaMgO6Sn2,BaMg(SnO3)2,Sn2BaMgO6,Sn Ba Mg O,10,9130,Ba Mg Sn,0,4,False
+C,Ga2LaO6Sc,LaSc(GaO3)2,Ga2LaScO6,Ga La Sc O,6,10218,Ga La Sc,0,4,False
+C,BaGa2O6Sn,BaGa2SnO6,Ga2BaSnO6,Ga Ba Sn O,2,10455,Ba Ga Sn,0,2,False
+C,O6Sc2SiSr,SrSc2SiO6,Sc2SiSrO6,Sc Si Sr O,1,10528,Sc Si Sr,0,1,False
+C,CaGaO4Sc,CaScGaO4,CaGaScO4,Ca Ga Sc O,7,11272,Ca Ga Sc,0,2,False
+C,AlO5ScSi,ScAlSiO5,AlScSiO5,Al Sc Si O,1,12092,Al Sc Si,0,1,False
+C,BaGaO4Ti,BaTiGaO4,BaGaTiO4,Ba Ga Ti O,5,13955,Ba Ga Ti,0,3,False
+C,HfO6Sr2Ti,Sr2HfTiO6,Sr2HfTiO6,Sr Hf Ti O,5,13993,Hf Sr Ti,0,4,True
+C,BaGaLaO4,BaLaGaO4,BaGaLaO4,Ba Ga La O,11,14701,Ba Ga La,0,5,False
+C,GaO4ScSr,SrScGaO4,GaScSrO4,Ga Sc Sr O,8,16518,Ga Sc Sr,0,3,False
+C,CaO6Si2Sr,SrCa(SiO3)2,Si2CaSrO6,Si Ca Sr O,18,16579,Ca Si Sr,0,5,True
+C,MgO5SiSn,MgSiSnO5,MgSiSnO5,Mg Si Sn O,9,16956,Mg Si Sn,0,5,False
+C,CaMgO6Ti2,CaMgTi2O6,Ti2CaMgO6,Ti Ca Mg O,3,18537,Ca Mg Ti,0,3,True
+C,O5SiSrTi,SrTiSiO5,SiSrTiO5,Si Sr Ti O,20,18937,Si Sr Ti,0,5,False
+C,CaHf2O6Sr,SrCaHf2O6,Hf2CaSrO6,Hf Ca Sr O,3,6,Ca Hf Sr,1,2,True
+C,Al2BaO6Sn,BaAl2SnO6,Al2BaSnO6,Al Ba Sn O,4,2681,Al Ba Sn,1,3,False
+C,BaCaHf2O6,BaCaHf2O6,Hf2BaCaO6,Hf Ba Ca O,9,7330,Ba Ca Hf,1,4,True
+C,Al2LaO6Y,LaYAl2O6,Al2LaYO6,Al La Y O,3,8125,Al La Y,1,2,True
+C,O6SiSrTi2,SrTi2SiO6,Ti2SiSrO6,Ti Si Sr O,3,13802,Si Sr Ti,1,2,False
+C,BaO6Sc2Si,BaSc2SiO6,Sc2BaSiO6,Sc Ba Si O,1,18417,Ba Sc Si,1,1,False
+C,Ba2HfO6Si,Ba2HfSiO6,Ba2HfSiO6,Ba Hf Si O,5,421,Ba Hf Si,2,2,False
+C,Ca2HfO6Si,Ca2HfSiO6,Ca2HfSiO6,Ca Hf Si O,5,452,Ca Hf Si,2,2,True
+C,BaO7Sn3,BaSn3O7,Sn3BaO7,Sn Ba O,9,2785,Ba Sn,2,3,False
+C,CaGa2O6Sn,CaGa2SnO6,Ga2CaSnO6,Ga Ca Sn O,2,3590,Ca Ga Sn,2,2,False
+C,CaO7Si2Ti,CaTiSi2O7,Si2CaTiO7,Si Ca Ti O,2,3563,Ca Si Ti,3,1,False
+C,Ga2LaO6Y,LaY(GaO3)2,Ga2LaYO6,Ga La Y O,6,5627,Ga La Y,3,2,False
+C,MgO6Si2Sr,SrMg(SiO3)2,Si2MgSrO6,Si Mg Sr O,3,10304,Mg Si Sr,3,2,False
+C,O7Si2SrTi,SrTiSi2O7,Si2SrTiO7,Si Sr Ti O,2,17860,Si Sr Ti,3,2,False
+C,Al2BaO6Si,BaAl2SiO6,Al2BaSiO6,Al Ba Si O,1,4694,Al Ba Si,4,1,False
+C,Mg2O6SiZr,Mg2ZrSiO6,Mg2SiZrO6,Mg Si Zr O,2,6518,Mg Si Zr,4,1,False
+C,Ga2O6SrTi,SrTi(GaO3)2,Ga2SrTiO6,Ga Sr Ti O,1,12193,Ga Sr Ti,4,1,False

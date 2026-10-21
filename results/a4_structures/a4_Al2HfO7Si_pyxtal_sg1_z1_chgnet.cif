@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_HfAl2SiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58941802
+_cell_length_b   6.73588010
+_cell_length_c   5.30302503
+_cell_angle_alpha   99.20279463
+_cell_angle_beta   90.34188519
+_cell_angle_gamma   85.46478981
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfAl2SiO7
+_chemical_formula_sum   'Hf1 Al2 Si1 O7'
+_cell_volume   196.46552294
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.48047205  0.87779318  0.61563576  1
+  Al  Al1  1  0.22374634  0.72195948  0.05056099  1
+  Hf  Hf2  1  0.10472811  0.22085538  -0.11770541  1
+  O  O3  1  0.95858315  0.19413211  0.53894175  1
+  O  O4  1  0.73404485  0.85238660  0.41974279  1
+  O  O5  1  1.00553256  -0.02668613  1.05220001  1
+  O  O6  1  0.42229677  0.12923658  0.77663374  1
+  O  O7  1  0.22485533  0.83681512  0.39146233  1
+  O  O8  1  0.44685379  0.72328033  -0.16096483  1
+  O  O9  1  1.08908560  0.49821430  1.03827445  1
+  Si  Si10  1  0.95661424  0.97326096  0.36595980  1

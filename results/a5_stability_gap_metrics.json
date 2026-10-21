@@ -1,0 +1,46 @@
+{
+  "stability_pooled_naive": {
+    "n": 2382,
+    "mae": 0.5205595041344021,
+    "rmse": 0.697977341340423,
+    "r2": 0.1603673153548475
+  },
+  "stability_source_means_eV_per_atom": {
+    "castelli_perovskites": 1.4709319526627218,
+    "wolverton_oxides": 0.7408292633292634
+  },
+  "stability_per_source": {
+    "castelli_perovskites": {
+      "n": 1872,
+      "mae": 0.521338705696434,
+      "rmse": 0.6979227920977166,
+      "r2": 0.07422739060729389,
+      "mean_ensemble_std": 0.13476376438133808
+    },
+    "wolverton_oxides": {
+      "n": 510,
+      "mae": 0.4303771805954977,
+      "rmse": 0.5840654747217301,
+      "r2": 0.11715939864816627,
+      "mean_ensemble_std": 0.12917833574728294
+    }
+  },
+  "gap_overall": {
+    "n": 2516,
+    "mae": 0.15617905672144608,
+    "rmse": 0.45419806886892466,
+    "r2": 0.8309933988359858,
+    "mean_ensemble_std": 0.06274960736501696
+  },
+  "gap_nonzero_subset": {
+    "n": 305,
+    "mae": 0.680547743065948,
+    "rmse": 0.9814579684336574,
+    "r2": 0.7249771611905758,
+    "mean_ensemble_std": 0.21179069425371821
+  },
+  "gap_zero_fraction": {
+    "train_val": 0.8781813361611877,
+    "test": 0.8787758346581876
+  }
+}

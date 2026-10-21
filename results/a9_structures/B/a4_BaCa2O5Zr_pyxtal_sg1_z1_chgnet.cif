@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaCa2ZrO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.85972176
+_cell_length_b   3.68821557
+_cell_length_c   6.24833883
+_cell_angle_alpha   90.58766031
+_cell_angle_beta   108.36499754
+_cell_angle_gamma   47.70228515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCa2ZrO5
+_chemical_formula_sum   'Ba1 Ca2 Zr1 O5'
+_cell_volume   199.25766309
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.40521244  0.69708107  0.64415263  1
+  Ca  Ca1  1  0.79378651  0.48647135  1.10561353  1
+  Ca  Ca2  1  0.79695871  1.07245069  0.63521714  1
+  O  O3  1  0.22472530  0.09731815  0.90359377  1
+  O  O4  1  0.23619729  0.58448687  0.33029581  1
+  O  O5  1  0.61474694  0.71303557  -0.25745206  1
+  O  O6  1  0.93753675  1.25321803  0.86603458  1
+  O  O7  1  0.79556647  0.98725374  0.29529270  1
+  Zr  Zr8  1  1.16601265  -0.26339019  0.99721648  1

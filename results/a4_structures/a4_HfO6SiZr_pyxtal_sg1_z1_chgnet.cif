@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_HfZrSiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84630280
+_cell_length_b   5.87757979
+_cell_length_c   4.99036404
+_cell_angle_alpha   85.19497480
+_cell_angle_beta   118.66871635
+_cell_angle_gamma   90.31387743
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZrSiO6
+_chemical_formula_sum   'Hf1 Zr1 Si1 O6'
+_cell_volume   124.18568867
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.48529772  0.81010580  0.91717412  1
+  O  O1  1  0.48641500  0.55208848  0.63274109  1
+  O  O2  1  0.18924828  0.54150208  0.01715194  1
+  O  O3  1  0.23290783  0.03760010  0.97567754  1
+  O  O4  1  0.58695809  0.04276938  0.68409362  1
+  O  O5  1  0.90575345  0.75365614  0.29060701  1
+  O  O6  1  0.95594037  0.31210029  0.35065793  1
+  Si  Si7  1  0.14177768  0.54051889  0.32310829  1
+  Zr  Zr8  1  0.90050196  0.26882825  0.73421784  1

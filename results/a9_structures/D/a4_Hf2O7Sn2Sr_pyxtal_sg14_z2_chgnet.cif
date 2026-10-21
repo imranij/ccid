@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SrHf2Sn2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72746785
+_cell_length_b   6.22222210
+_cell_length_c   12.06087527
+_cell_angle_alpha   90.12132300
+_cell_angle_beta   87.81461735
+_cell_angle_gamma   90.13442072
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrHf2Sn2O7
+_chemical_formula_sum   'Sr2 Hf4 Sn4 O14'
+_cell_volume   504.49618848
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  -0.09427883  0.07626423  0.04270397  1
+  Hf  Hf1  1  -0.09301733  0.42426198  0.54534206  1
+  Hf  Hf2  1  0.08770363  -0.03458327  0.52063638  1
+  Hf  Hf3  1  0.09026831  0.53427019  0.01422784  1
+  O  O4  1  0.29700430  -0.09991272  0.40728512  1
+  O  O5  1  0.31428527  0.60505971  -0.08990548  1
+  O  O6  1  0.52800811  0.34893591  0.33731010  1
+  O  O7  1  -0.33828763  1.03266450  0.13181802  1
+  O  O8  1  -0.34823441  -0.51758062  -0.37754775  1
+  O  O9  1  0.51068840  0.14693650  0.83079952  1
+  O  O10  1  -0.13199487  -0.08102954  0.90201366  1
+  O  O11  1  1.07554157  0.69040540  0.60324551  1
+  O  O12  1  1.07348729  0.80942221  0.09567184  1
+  O  O13  1  -0.09241827  0.56226789  0.39812698  1
+  O  O14  1  0.17971228  1.25462549  0.57015608  1
+  O  O15  1  0.84616315  0.38127739  0.98128085  1
+  O  O16  1  0.83378209  0.10906446  0.50088030  1
+  O  O17  1  0.17897807  0.24876403  0.06982652  1
+  Sn  Sn18  1  0.38241860  0.09325439  0.26436759  1
+  Sn  Sn19  1  0.76006453  0.50840116  0.25324215  1
+  Sn  Sn20  1  0.74659896  0.98683492  0.75101278  1
+  Sn  Sn21  1  0.37475598  0.41455873  0.76519198  1
+  Sr  Sr22  1  0.41482695  -0.04439362  -0.00725571  1
+  Sr  Sr23  1  0.40394384  0.55023064  0.48956966  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_ZrSc2SiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92921286
+_cell_length_b   6.96051064
+_cell_length_c   6.93066857
+_cell_angle_alpha   59.63256064
+_cell_angle_beta   60.07682227
+_cell_angle_gamma   60.22299641
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSc2SiO7
+_chemical_formula_sum   'Zr2 Sc4 Si2 O14'
+_cell_volume   236.23167879
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.12499943  0.12500336  0.12499775  1
+  Sc  Sc1  1  0.12500274  0.12499545  0.62499997  1
+  Zr  Zr2  1  0.12500088  0.62500025  0.12500091  1
+  Zr  Zr3  1  0.62500020  0.12499915  0.12500043  1
+  Si  Si4  1  0.62500008  0.62499993  0.62500008  1
+  Sc  Sc5  1  0.62499992  0.62500008  0.12499987  1
+  Sc  Sc6  1  0.62500032  0.12500030  0.62500008  1
+  Si  Si7  1  0.12499992  0.62499958  0.62500020  1
+  O  O8  1  0.50802104  0.99136205  0.99635994  1
+  O  O9  1  0.90483994  0.59933585  0.58756971  1
+  O  O10  1  0.98647538  0.56208718  0.94424241  1
+  O  O11  1  0.51315784  0.94697955  0.54548776  1
+  O  O12  1  0.99125394  0.94442127  0.55346758  1
+  O  O13  1  0.51033084  0.55543777  0.94537745  1
+  O  O14  1  0.73684173  0.30302081  0.70451211  1
+  O  O15  1  0.26352490  0.68791095  0.30575856  1
+  O  O16  1  0.34515918  0.65066573  0.66242996  1
+  O  O17  1  0.74197804  0.25863783  0.25364014  1
+  O  O18  1  0.25874578  0.30557844  0.69653286  1
+  O  O19  1  0.73966847  0.69456335  0.30462212  1
+  O  O20  1  0.00752738  -0.00931397  -0.00847491  1
+  O  O21  1  0.24247209  0.25931507  0.25847498  1

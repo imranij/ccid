@@ -1,0 +1,5 @@
+Validation gate,Candidates,Mean $S$,Mean $U_s$,Mean $U_g$
+Standard review,14,0.740,0.830,0.650
+Computational validation req.,3,0.703,0.500,0.906
+Priority expert review,2,0.823,0.856,0.790
+Expert review required,1,0.760,0.758,0.763

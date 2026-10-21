@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HfSnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75671422
+_cell_length_b   5.82477896
+_cell_length_c   5.94706212
+_cell_angle_alpha   90.00010260
+_cell_angle_beta   92.17635941
+_cell_angle_gamma   90.00031606
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSnO3
+_chemical_formula_sum   'Hf2 Sn2 O6'
+_cell_volume   199.27059251
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.12840812  0.61087116  0.01121114  1
+  Hf  Hf1  1  -0.12840746  1.11087080  -0.01121476  1
+  O  O2  1  0.93202019  0.84100884  0.20452222  1
+  O  O3  1  0.06797810  0.34101216  0.79547188  1
+  O  O4  1  0.45035714  0.59927535  0.10090652  1
+  O  O5  1  0.54963667  0.09927314  0.89910517  1
+  O  O6  1  0.07178014  0.88336417  0.79761176  1
+  O  O7  1  0.92822145  0.38335981  0.20238588  1
+  Sn  Sn8  1  0.31262419  0.11270223  0.63179968  1
+  Sn  Sn9  1  0.68738147  0.61269629  0.36820058  1

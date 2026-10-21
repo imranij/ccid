@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_LaHf2AlO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.23619571
+_cell_length_b   6.61221432
+_cell_length_c   6.00375856
+_cell_angle_alpha   89.99999970
+_cell_angle_beta   98.11509555
+_cell_angle_gamma   90.00000131
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaHf2AlO7
+_chemical_formula_sum   'La2 Hf4 Al2 O14'
+_cell_volume   402.28884871
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.98994921  1.03955603  0.90124655  1
+  Al  Al1  1  -0.98994909  1.53955580  -0.90124632  1
+  Hf  Hf2  1  0.74214041  0.77785970  0.14557306  1
+  Hf  Hf3  1  0.25785950  0.27785960  0.85442675  1
+  Hf  Hf4  1  0.26495888  0.74421884  1.07751211  1
+  Hf  Hf5  1  0.73504086  0.24421899  -0.07751239  1
+  La  La6  1  0.50635276  0.55307568  0.61746548  1
+  La  La7  1  0.49364731  0.05307569  0.38253461  1
+  O  O8  1  0.64821347  0.26122298  0.61388711  1
+  O  O9  1  0.35178667  0.76122251  0.38611302  1
+  O  O10  1  0.93218077  0.30102730  0.00778225  1
+  O  O11  1  0.06781950  0.80102777  0.99221822  1
+  O  O12  1  0.82407334  -0.04272552  0.89074384  1
+  O  O13  1  0.17592672  0.45727430  0.10925602  1
+  O  O14  1  0.09204565  0.15191738  0.72794502  1
+  O  O15  1  0.90795426  0.65191711  0.27205511  1
+  O  O16  1  0.32652634  0.04474886  0.04208566  1
+  O  O17  1  0.67347351  0.54474897  0.95791440  1
+  O  O18  1  0.35721546  0.57833797  0.88050012  1
+  O  O19  1  0.64278429  0.07833842  0.11949921  1
+  O  O20  1  0.63270682  0.75765487  0.39525114  1
+  O  O21  1  0.36729334  0.25765437  0.60474910  1

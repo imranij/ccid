@@ -1,0 +1,6 @@
+objective_profile,stability_weight,gap_weight,direct_gap_weight,top_formula,top_source_dataset,top_band_gap,top_stability_utility,top_gap_utility,top_score,top50_overlap_with_balanced
+balanced,0.45,0.35,0.2,LaAlO3,castelli_perovskites,6.3,0.8187919463087248,0.7217507658232848,0.8210691438770759,26
+stability_first,0.7,0.2,0.1,LaAlO3,castelli_perovskites,6.3,0.8187919463087248,0.7217507658232848,0.8175045155807642,26
+gap_first,0.25,0.65,0.1,CaSiYAlO6,double_perovskites_gap,8.343255111,0.5,1.0,0.775,30
+direct_gap_bonus,0.35,0.35,0.3,LaAlO3,castelli_perovskites,6.3,0.8187919463087248,0.7217507658232848,0.8391899492462034,10
+risk_averse,0.8,0.15,0.05,KTaO3,castelli_perovskites,4.4,1.0,0.4630099252451262,0.8694514887867689,24

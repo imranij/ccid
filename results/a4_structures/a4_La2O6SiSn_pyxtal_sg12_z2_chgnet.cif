@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La2SiSnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58665172
+_cell_length_b   6.31201311
+_cell_length_c   9.47189419
+_cell_angle_alpha   89.99912385
+_cell_angle_beta   89.63509101
+_cell_angle_gamma   89.84568336
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2SiSnO6
+_chemical_formula_sum   'La4 Si2 Sn2 O12'
+_cell_volume   393.78488898
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.01364681  0.50055473  0.50266662  1
+  La  La1  1  0.51335180  0.00107276  0.50273781  1
+  La  La2  1  0.02030061  0.49969102  -0.08804628  1
+  La  La3  1  0.52029596  -0.00020804  -0.08806207  1
+  O  O4  1  0.72564959  0.73238681  0.40570479  1
+  O  O5  1  -0.81625837  0.62051600  -0.28991470  1
+  O  O6  1  -0.81680863  -0.62295495  -0.28998486  1
+  O  O7  1  0.72593692  -0.73007475  0.40643413  1
+  O  O8  1  1.22453948  1.23077730  0.40629417  1
+  O  O9  1  -0.31609453  1.12063951  -0.28992712  1
+  O  O10  1  -0.31709395  -0.12263098  -0.29011826  1
+  O  O11  1  1.22606386  -0.23099193  0.40613646  1
+  O  O12  1  0.31145120  0.29263023  0.00841373  1
+  O  O13  1  0.81135088  0.20764573  0.00787263  1
+  O  O14  1  0.81131943  0.79264194  0.00820536  1
+  O  O15  1  0.31144043  0.70765456  0.00793446  1
+  Si  Si16  1  -0.04040094  -0.00012727  0.03067649  1
+  Si  Si17  1  0.45943250  0.49994157  0.03126137  1
+  Sn  Sn18  1  0.06560713  -0.00016897  0.30575049  1
+  Sn  Sn19  1  0.56626979  0.50100477  0.30596476  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_SrSn3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97273209
+_cell_length_b   10.87638665
+_cell_length_c   5.13695108
+_cell_angle_alpha   90.53822090
+_cell_angle_beta   97.01470996
+_cell_angle_gamma   99.98240644
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSn3O7
+_chemical_formula_sum   'Sr1 Sn3 O7'
+_cell_volume   216.85972821
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.84242405  0.37862435  0.74695442  1
+  O  O1  1  0.33435962  0.80980229  0.49850532  1
+  O  O2  1  -0.26528005  -0.04332392  0.14556751  1
+  O  O3  1  0.02898568  0.70850918  0.44188139  1
+  O  O4  1  0.48169655  0.61874279  0.01409619  1
+  O  O5  1  0.24613762  0.14884100  0.70939524  1
+  O  O6  1  0.21450820  0.35376123  0.25955978  1
+  Sn  Sn7  1  1.00283907  0.50336329  0.09714075  1
+  Sn  Sn8  1  0.64545522  0.78017618  0.20937720  1
+  Sn  Sn9  1  0.29785006  0.32348970  0.63488166  1
+  Sr  Sr10  1  0.68352561  0.02357246  0.67925103  1

@@ -1,0 +1,6 @@
+arm,label,n_sampled,n_eligible,n_chgnet_hypotheses,n_chgnet_hyp_finite,chgnet_hyp_converged_frac,n_complete,n_incomplete_dropped,n_mace_refined,mace_converged_frac
+A,A: random (uniform-41),50,331.0,374,374,0.7112299465240641,50,0,50,0.98
+B,B: element statistics (freq-41),50,680.0,372,372,0.6801075268817204,50,0,50,0.98
+C,C: ion substitution,50,154.0,331,331,0.649546827794562,50,0,50,0.98
+D,D: corrected CVAE,50,839.0,318,318,0.5911949685534591,50,0,50,0.96
+CVAE_dep,deposited CVAE (reference),66,,442,442,0.7126696832579186,66,0,67,0.9850746268656716

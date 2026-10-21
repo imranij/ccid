@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MgZrAl2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59554731
+_cell_length_b   5.59554765
+_cell_length_c   5.59554879
+_cell_angle_alpha   60.00000805
+_cell_angle_beta   59.99999713
+_cell_angle_gamma   59.99999578
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZrAl2O6
+_chemical_formula_sum   'Mg1 Zr1 Al2 O6'
+_cell_volume   123.88332769
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  -0.00000012  -0.00000015  0.00000015  1
+  Zr  Zr1  1  0.50000007  0.49999948  0.50000011  1
+  Al  Al2  1  0.25000667  0.24999123  0.24999825  1
+  Al  Al3  1  0.74999447  0.75000057  0.75000359  1
+  O  O4  1  0.75605334  0.24394779  0.24394444  1
+  O  O5  1  0.24394829  0.75605511  0.75605282  1
+  O  O6  1  0.24394758  0.75605663  0.24394431  1
+  O  O7  1  0.75605294  0.24394592  0.75605500  1
+  O  O8  1  0.24394696  0.24394535  0.75605517  1
+  O  O9  1  0.75604978  0.75605808  0.24394615  1

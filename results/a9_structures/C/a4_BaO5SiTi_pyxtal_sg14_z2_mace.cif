@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaTiSiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09627354
+_cell_length_b   7.90952489
+_cell_length_c   7.56696616
+_cell_angle_alpha   89.89138674
+_cell_angle_beta   110.14071102
+_cell_angle_gamma   91.32758487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTiSiO5
+_chemical_formula_sum   'Ba2 Ti2 Si2 O10'
+_cell_volume   286.28285563
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.20530839  0.00547660  0.95458915  1
+  Ba  Ba1  1  0.78966115  0.49418340  0.54484635  1
+  Ti  Ti2  1  0.95365225  1.00043249  0.38822351  1
+  Ti  Ti3  1  0.04469637  0.49867360  0.10997712  1
+  Si  Si4  1  0.56246404  0.99224641  0.53014373  1
+  Si  Si5  1  0.43864714  0.50953866  0.97087904  1
+  O  O6  1  0.74006135  0.01323914  0.16016291  1
+  O  O7  1  0.25799982  0.48032073  0.33758027  1
+  O  O8  1  0.77755410  0.83838783  0.51021166  1
+  O  O9  1  0.20319757  0.35208736  0.96576650  1
+  O  O10  1  0.42628789  0.99128318  0.68979826  1
+  O  O11  1  0.57997033  0.51663628  0.81372657  1
+  O  O12  1  0.22762282  0.66345442  -0.00433665  1
+  O  O13  1  0.79311222  0.15018644  0.52743476  1
+  O  O14  1  0.70925982  0.49908681  0.16953032  1
+  O  O15  1  0.29050468  0.99476665  0.33146652  1

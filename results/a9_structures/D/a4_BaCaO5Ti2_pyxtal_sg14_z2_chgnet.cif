@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaCaTi2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.32748632
+_cell_length_b   6.81046608
+_cell_length_c   6.04929236
+_cell_angle_alpha   89.95671193
+_cell_angle_beta   70.40112565
+_cell_angle_gamma   90.00472208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaTi2O5
+_chemical_formula_sum   'Ba2 Ca2 Ti4 O10'
+_cell_volume   323.20317069
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  -0.15847757  -0.06961703  0.39829900  1
+  Ba  Ba1  1  -0.15392353  0.56902952  -0.10416640  1
+  Ca  Ca2  1  0.16888770  0.06550124  -0.24614398  1
+  Ca  Ca3  1  0.16838900  0.43219896  0.25570596  1
+  O  O4  1  0.89866097  0.54747472  0.34740437  1
+  O  O5  1  -0.84924728  1.10843865  0.15559519  1
+  O  O6  1  -0.84958131  -0.61283862  -0.34651742  1
+  O  O7  1  0.89837142  -0.04674643  0.84518233  1
+  O  O8  1  0.71999105  0.25777291  0.69889850  1
+  O  O9  1  0.21028350  -0.28170873  0.97451120  1
+  O  O10  1  0.20828901  0.78281133  0.46878941  1
+  O  O11  1  0.72065847  1.24336781  0.19827860  1
+  O  O12  1  0.52372730  -0.10246265  0.04720188  1
+  O  O13  1  0.52885555  0.61044349  0.54706945  1
+  Ti  Ti14  1  0.28877708  0.89330593  0.16940533  1
+  Ti  Ti15  1  0.69107547  0.41424986  0.46114417  1
+  Ti  Ti16  1  0.69253936  0.08912313  0.96069170  1
+  Ti  Ti17  1  0.29272389  0.59965594  0.66865064  1

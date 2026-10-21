@@ -1,0 +1,67 @@
+{
+  "whitelist_cation_pool": 40,
+  "per_k": {
+    "1": {
+      "count_patterns": [
+        [
+          1
+        ]
+      ],
+      "reachable_valid_formulas": 22
+    },
+    "2": {
+      "count_patterns": [
+        [
+          1,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "reachable_valid_formulas": 3030
+    },
+    "3": {
+      "count_patterns": [
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          1
+        ],
+        [
+          3,
+          1,
+          1
+        ],
+        [
+          4,
+          1,
+          1
+        ]
+      ],
+      "reachable_valid_formulas": 126153
+    }
+  },
+  "total_reachable_valid_formulas": 129205,
+  "cation_set_combinations_k3": 9880,
+  "cvae_valid_formulas_20k": 68,
+  "coverage_fraction_of_reachable_space": 0.0005262954220037925,
+  "cvae_formulas_outside_enumerated_reachable_set": [],
+  "rand_uniform41_valid_formulas_20k": 11744,
+  "rand_uniform41_coverage_fraction": 0.0908943152354785
+}

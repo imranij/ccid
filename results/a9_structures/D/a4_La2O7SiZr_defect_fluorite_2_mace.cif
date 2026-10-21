@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La2ZrSiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71172094
+_cell_length_b   5.21266122
+_cell_length_c   5.71172139
+_cell_angle_alpha   90.13758578
+_cell_angle_beta   85.91241099
+_cell_angle_gamma   89.86241475
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2ZrSiO7
+_chemical_formula_sum   'La2 Zr1 Si1 O7'
+_cell_volume   169.62296664
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.99492807  0.00978170  0.99006050  1
+  La  La1  1  0.50993956  0.00978068  0.50507252  1
+  Zr  Zr2  1  0.48775313  0.52063862  0.01224692  1
+  Si  Si3  1  0.09467465  0.40097959  0.40532482  1
+  O  O4  1  0.28997558  0.24264581  0.21002457  1
+  O  O5  1  0.17310466  0.28449994  0.65513700  1
+  O  O6  1  0.16757778  0.69642468  0.33242179  1
+  O  O7  1  0.33067880  0.77170236  0.81717668  1
+  O  O8  1  0.84486350  0.28449940  0.32689579  1
+  O  O9  1  0.67368068  0.25734457  0.82631929  1
+  O  O10  1  0.68282369  0.77170270  0.16932026  1

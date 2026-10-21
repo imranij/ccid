@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZrScAlO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45915194
+_cell_length_b   9.75695150
+_cell_length_c   5.58416342
+_cell_angle_alpha   89.88088796
+_cell_angle_beta   117.09356173
+_cell_angle_gamma   92.98929477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrScAlO5
+_chemical_formula_sum   'Zr2 Sc2 Al2 O10'
+_cell_volume   264.36005372
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  -0.00757414  -0.02334669  0.59674067  1
+  Al  Al1  1  0.49267253  0.47596635  0.59663585  1
+  O  O2  1  0.28620004  0.08693914  0.65825668  1
+  O  O3  1  -0.34547925  0.08803009  -0.71370802  1
+  O  O4  1  -0.13416294  -0.15019681  -0.68138884  1
+  O  O5  1  0.23942959  -0.15962800  0.81766286  1
+  O  O6  1  0.78666661  0.58718656  0.65814468  1
+  O  O7  1  0.15422039  0.58879482  -0.71395031  1
+  O  O8  1  0.36560689  0.35012201  -0.68168732  1
+  O  O9  1  0.73954237  0.34065551  0.81779600  1
+  O  O10  1  -0.18412048  0.01732523  -0.21042756  1
+  O  O11  1  0.31596295  0.51770930  -0.21110895  1
+  Sc  Sc12  1  0.04771289  0.68007569  0.54470868  1
+  Sc  Sc13  1  0.54752599  0.18024217  0.54495517  1
+  Zr  Zr14  1  0.09789092  0.45973189  -0.01148865  1
+  Zr  Zr15  1  0.59790582  -0.03960742  -0.01114069  1

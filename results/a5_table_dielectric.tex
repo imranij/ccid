@@ -1,0 +1,13 @@
+\begin{table}[t]
+\centering
+\caption{Composition-only dielectric surrogate, 10-fold cross-validated on the 1,056-record Materials Project dielectric set (targets log1p-transformed; linear-space metrics are back-transformed via expm1). Non-overlapping rows of the phonon dielectric set (773 of 1,296, after dropping mp-id overlap and winsorizing $\varepsilon>1000$ soft-mode outliers) were added as auxiliary training-only rows, never scored.}
+\label{tab:a5_dielectric}
+\begin{tabular}{lrrrr}
+\toprule
+Target (linear space) & $n$ & MAE & RMSE & $R^2$ \\
+\midrule
+$\varepsilon_{\infty}$ (electronic) & 1056 & 2.030 & 11.492 & 0.224 \\
+$\varepsilon_{0}$ (total) & 1056 & 5.120 & 17.377 & 0.200 \\
+\bottomrule
+\end{tabular}
+\end{table}

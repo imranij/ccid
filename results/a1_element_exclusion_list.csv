@@ -1,0 +1,4 @@
+Group,Elements,Justification
+No stable isotope / radioactive,"Ac, Am, At, Bh, Bk, Cf, Cm, Cn, Db, Ds, Es, Fl, Fm, Fr, Hs, Lr, Lv, Mc, Md, Mt, Nh, No, Np, Og, Pa, Pm, Po, Pu, Ra, Rf, Rg, Sg, Tc, Th, Ts, U",Not available in non-nuclear ceramic processing; licensing and handling preclude synthesis.
+RoHS / REACH restricted,"As, Be, Cd, Hg, Pb, Tl",Already the Stage-2 \texttt{HIGH\_RISK\_ELEMENTS} list; applying it in Stage 1 harmonises the two stages.
+Noble gases,"Ar, He, Kr, Ne, Rn, Xe",Cannot occupy a cation site in an oxide lattice.

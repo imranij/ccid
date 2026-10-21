@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2HfTiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65601434
+_cell_length_b   5.65601426
+_cell_length_c   5.65601417
+_cell_angle_alpha   60.00000467
+_cell_angle_beta   60.00000448
+_cell_angle_gamma   60.00000347
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2HfTiO6
+_chemical_formula_sum   'Ca2 Hf1 Ti1 O6'
+_cell_volume   127.94300017
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000040  0.25000041  0.24999994  1
+  Ca  Ca1  1  0.74999967  0.75000024  0.75000013  1
+  Hf  Hf2  1  0.00000003  0.00000009  0.00000005  1
+  Ti  Ti3  1  0.50000007  0.49999994  0.49999991  1
+  O  O4  1  0.74394754  0.25605223  0.25605218  1
+  O  O5  1  0.25605258  0.74394757  0.74394765  1
+  O  O6  1  0.25605223  0.74394737  0.25605227  1
+  O  O7  1  0.74394756  0.25605247  0.74394770  1
+  O  O8  1  0.25605223  0.25605230  0.74394752  1
+  O  O9  1  0.74394768  0.74394740  0.25605266  1

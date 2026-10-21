@@ -1,0 +1,432 @@
+{
+  "A": {
+    "validity_rate": {
+      "mean": 0.7286699999999999,
+      "std": 0.001802290209705423
+    },
+    "valid_count": {
+      "mean": 14573.4,
+      "std": 36.045804194108364
+    },
+    "unique_valid_count": {
+      "mean": 11849.4,
+      "std": 35.585109245300906
+    },
+    "uniqueness_rate": {
+      "mean": 0.8130857263673521,
+      "std": 0.0022799645294949637
+    },
+    "novel_unique_count": {
+      "mean": 11821.6,
+      "std": 35.585109245300906
+    },
+    "novelty_rate": {
+      "mean": 0.997653886194471,
+      "std": 0.00018290698476076546
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.34357811212539674,
+      "std": 0.0010678499696225856
+    },
+    "n_families_unique_valid": {
+      "mean": 2030.2,
+      "std": 11.584472366059664
+    },
+    "unique_formula_count_all": {
+      "mean": 16523.0,
+      "std": 35.035696082709705
+    },
+    "whitelist_reject_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "no_charge_balance_rate": {
+      "mean": 0.27132999999999996,
+      "std": 0.0018022902097054178
+    },
+    "non_vocab_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "pooled_unique_valid": 31171,
+    "pooled_novel_unique": 31104,
+    "pooled_novelty_rate": 0.9978505662314331,
+    "pooled_n_families": 3100,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "A_dirichlet": {
+    "validity_rate": {
+      "mean": 0.67669,
+      "std": 0.0034099853372118716
+    },
+    "valid_count": {
+      "mean": 13533.8,
+      "std": 68.19970674423755
+    },
+    "unique_valid_count": {
+      "mean": 11618.6,
+      "std": 80.17356172704316
+    },
+    "uniqueness_rate": {
+      "mean": 0.8584837523104678,
+      "std": 0.0028474790209152808
+    },
+    "novel_unique_count": {
+      "mean": 11369.8,
+      "std": 84.09934601410406
+    },
+    "novelty_rate": {
+      "mean": 0.9785834253882356,
+      "std": 0.0005952670733733974
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.3752476930618286,
+      "std": 0.0010752426689558338
+    },
+    "n_families_unique_valid": {
+      "mean": 3518.8,
+      "std": 11.987493482792805
+    },
+    "unique_formula_count_all": {
+      "mean": 17311.4,
+      "std": 40.252950202438576
+    },
+    "whitelist_reject_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "no_charge_balance_rate": {
+      "mean": 0.30561999999999995,
+      "std": 0.0038040439009033446
+    },
+    "non_vocab_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "pooled_unique_valid": 41210,
+    "pooled_novel_unique": 40831,
+    "pooled_novelty_rate": 0.9908032031060422,
+    "pooled_n_families": 6816,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "B": {
+    "validity_rate": {
+      "mean": 0.66225,
+      "std": 0.002089258241577607
+    },
+    "valid_count": {
+      "mean": 13245.0,
+      "std": 41.78516483155236
+    },
+    "unique_valid_count": {
+      "mean": 8857.4,
+      "std": 53.63114766625827
+    },
+    "uniqueness_rate": {
+      "mean": 0.6687309123496172,
+      "std": 0.0021276129640139248
+    },
+    "novel_unique_count": {
+      "mean": 8799.4,
+      "std": 56.163155182023026
+    },
+    "novelty_rate": {
+      "mean": 0.9934502591691544,
+      "std": 0.0004499072738664863
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.3457202911376953,
+      "std": 0.0011291592241929327
+    },
+    "n_families_unique_valid": {
+      "mean": 2224.2,
+      "std": 25.282404948896772
+    },
+    "unique_formula_count_all": {
+      "mean": 13721.8,
+      "std": 32.90440699967103
+    },
+    "whitelist_reject_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "no_charge_balance_rate": {
+      "mean": 0.33775,
+      "std": 0.0020892582415776195
+    },
+    "non_vocab_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "pooled_unique_valid": 20034,
+    "pooled_novel_unique": 19959,
+    "pooled_novelty_rate": 0.9962563641808925,
+    "pooled_n_families": 3100,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "C": {
+    "validity_rate": {
+      "mean": 0.5785899999999999,
+      "std": 0.002262852182534231
+    },
+    "valid_count": {
+      "mean": 11571.8,
+      "std": 45.25704365068492
+    },
+    "unique_valid_count": {
+      "mean": 681.2,
+      "std": 5.890670590009257
+    },
+    "uniqueness_rate": {
+      "mean": 0.058869311681514644,
+      "std": 0.0007153937372988033
+    },
+    "novel_unique_count": {
+      "mean": 292.4,
+      "std": 6.387487769068525
+    },
+    "novelty_rate": {
+      "mean": 0.4292040211713125,
+      "std": 0.005658584490753241
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.3506912708282471,
+      "std": 0.0011355170688299905
+    },
+    "n_families_unique_valid": {
+      "mean": 162.4,
+      "std": 3.714835124201342
+    },
+    "unique_formula_count_all": {
+      "mean": 1729.4,
+      "std": 12.421755109484328
+    },
+    "whitelist_reject_rate": {
+      "mean": 0.1176,
+      "std": 0.0016136139563104933
+    },
+    "no_charge_balance_rate": {
+      "mean": 0.30381,
+      "std": 0.0019587623643515253
+    },
+    "non_vocab_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "pooled_unique_valid": 765,
+    "pooled_novel_unique": 364,
+    "pooled_novelty_rate": 0.47581699346405226,
+    "pooled_n_families": 175,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "c_frac_valid_filter_kept_substituted_formula": {
+      "mean": 0.7894518854540356,
+      "std": 0.0015000751142274428
+    },
+    "c_frac_valid_filter_output_is_parent": {
+      "mean": 0.0019013407471849676,
+      "std": 0.00035164054319950465
+    },
+    "c_frac_valid_in_training": {
+      "mean": 0.7699555374124379,
+      "std": 0.0013321846451523863
+    },
+    "c_mean_substituted_sites": {
+      "mean": 1.26289,
+      "std": 0.003457491865500245
+    }
+  },
+  "D": {
+    "validity_rate": {
+      "mean": 0.44167000000000006,
+      "std": 0.0029790099026354294
+    },
+    "valid_count": {
+      "mean": 8833.4,
+      "std": 59.58019805270875
+    },
+    "unique_valid_count": {
+      "mean": 1112.0,
+      "std": 7.905694150420948
+    },
+    "uniqueness_rate": {
+      "mean": 0.12589224521775239,
+      "std": 0.0014472176853360188
+    },
+    "novel_unique_count": {
+      "mean": 1065.6,
+      "std": 7.893034904268447
+    },
+    "novelty_rate": {
+      "mean": 0.9582718651281119,
+      "std": 0.0005579189654155427
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.3231918454170227,
+      "std": 0.00035727978968015065
+    },
+    "n_families_unique_valid": {
+      "mean": 331.6,
+      "std": 5.128352561983234
+    },
+    "unique_formula_count_all": {
+      "mean": 5388.6,
+      "std": 24.694128856876084
+    },
+    "whitelist_reject_rate": {
+      "mean": 0.035199999999999995,
+      "std": 0.0014688430821568402
+    },
+    "no_charge_balance_rate": {
+      "mean": 0.5231300000000001,
+      "std": 0.0034925993185591564
+    },
+    "non_vocab_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "pooled_unique_valid": 2135,
+    "pooled_novel_unique": 2081,
+    "pooled_novelty_rate": 0.9747072599531615,
+    "pooled_n_families": 487,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "_arm_c_parents": {
+    "threshold": 0.001,
+    "n_distinct_training_formulas": 12150,
+    "n_parents": 2200,
+    "excluded": {
+      "contains N/F/S (not a pure oxide)": 8268,
+      "no oxidation-state guess": 854,
+      "species not in Hautier lambda table": 103,
+      "no admissible substitution (threshold/charge)": 721,
+      "non-oxide anion or fractional state": 4
+    },
+    "n_replacement_species": 94,
+    "replacement_species": [
+      "Al3+",
+      "Ba2+",
+      "Bi2+",
+      "Bi3+",
+      "Bi5+",
+      "Ca2+",
+      "Ce2+",
+      "Ce3+",
+      "Ce4+",
+      "Co+",
+      "Co2+",
+      "Co3+",
+      "Co4+",
+      "Cu+",
+      "Cu2+",
+      "Cu3+",
+      "Dy2+",
+      "Dy3+",
+      "Er2+",
+      "Er3+",
+      "Fe2+",
+      "Fe3+",
+      "Fe4+",
+      "Fe5+",
+      "Fe6+",
+      "Ga2+",
+      "Ga3+",
+      "Gd2+",
+      "Gd3+",
+      "Hf4+",
+      "Ho2+",
+      "Ho3+",
+      "In+",
+      "In2+",
+      "In3+",
+      "K+",
+      "La2+",
+      "La3+",
+      "Li+",
+      "Lu3+",
+      "Mg2+",
+      "Mo2+",
+      "Mo3+",
+      "Mo4+",
+      "Mo5+",
+      "Mo6+",
+      "Na+",
+      "Nb2+",
+      "Nb3+",
+      "Nb4+",
+      "Nb5+",
+      "Nb7+",
+      "Nd2+",
+      "Nd3+",
+      "Ni+",
+      "Ni2+",
+      "Ni3+",
+      "Ni4+",
+      "Pr2+",
+      "Pr3+",
+      "Pr4+",
+      "Sc2+",
+      "Sc3+",
+      "Si4+",
+      "Sm2+",
+      "Sm3+",
+      "Sn2+",
+      "Sn3+",
+      "Sn4+",
+      "Sr2+",
+      "Ta2+",
+      "Ta3+",
+      "Ta4+",
+      "Ta5+",
+      "Tb3+",
+      "Tb4+",
+      "Ti2+",
+      "Ti3+",
+      "Ti4+",
+      "Tm2+",
+      "Tm3+",
+      "W2+",
+      "W3+",
+      "W4+",
+      "W5+",
+      "W6+",
+      "Y2+",
+      "Y3+",
+      "Yb2+",
+      "Yb3+",
+      "Zn2+",
+      "Zr2+",
+      "Zr3+",
+      "Zr4+"
+    ]
+  }
+}

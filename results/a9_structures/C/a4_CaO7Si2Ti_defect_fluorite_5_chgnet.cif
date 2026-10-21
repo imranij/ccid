@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CaTiSi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12372464
+_cell_length_b   4.84428632
+_cell_length_c   4.84305067
+_cell_angle_alpha   79.92583878
+_cell_angle_beta   86.81824776
+_cell_angle_gamma   93.18353620
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTiSi2O7
+_chemical_formula_sum   'Ca1 Ti1 Si2 O7'
+_cell_volume   117.91200145
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.02028320  0.01731163  0.09529937  1
+  Si  Si1  1  0.02236526  0.40446594  0.48182681  1
+  Ca  Ca2  1  0.51634999  -0.03520430  0.53542763  1
+  Ti  Ti3  1  0.54902384  0.50293000  -0.00365721  1
+  O  O4  1  0.29007733  0.24789648  0.25550014  1
+  O  O5  1  0.12566491  0.16244972  0.75781775  1
+  O  O6  1  0.12572698  0.74367664  0.33644727  1
+  O  O7  1  0.29147506  0.65627499  0.84188336  1
+  O  O8  1  0.84506076  0.24998579  0.24969816  1
+  O  O9  1  0.73291480  0.45678218  0.65642218  1
+  O  O10  1  0.73105786  0.84343095  0.04333452  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba2HfMgO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.65450366
+_cell_length_b   7.81799275
+_cell_length_c   7.56700590
+_cell_angle_alpha   81.49093494
+_cell_angle_beta   142.46599647
+_cell_angle_gamma   98.63626496
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2HfMgO5
+_chemical_formula_sum   'Ba4 Hf2 Mg2 O10'
+_cell_volume   343.62094684
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50671516  0.24039697  0.31104751  1
+  Ba  Ba1  1  -0.49522053  0.76826501  0.26441716  1
+  Ba  Ba2  1  -0.64032007  -0.31058591  -0.38428762  1
+  Ba  Ba3  1  0.74193998  0.16648305  1.04053006  1
+  Hf  Hf4  1  -0.01174135  -0.01435525  -0.03904693  1
+  Hf  Hf5  1  -0.15010655  0.54070219  0.35216908  1
+  Mg  Mg6  1  0.01280328  -0.11616604  0.51933713  1
+  Mg  Mg7  1  -0.00689766  0.49973652  -0.02786264  1
+  O  O8  1  0.76350509  0.51176575  0.54545757  1
+  O  O9  1  -0.08994557  1.00820237  -0.39283107  1
+  O  O10  1  -0.28930856  0.76572003  0.16233206  1
+  O  O11  1  1.09582524  -0.03328549  1.34549146  1
+  O  O12  1  0.13091700  0.75187205  0.08781319  1
+  O  O13  1  0.95218371  0.48285842  0.20808153  1
+  O  O14  1  1.07852650  0.24759389  1.03061719  1
+  O  O15  1  0.15936906  0.65988198  0.72202456  1
+  O  O16  1  0.65854387  -0.03752759  0.68644706  1
+  O  O17  1  0.58321145  0.36844210  0.06826233  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_AlGaSn2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18515548
+_cell_length_b   5.43946464
+_cell_length_c   5.63086518
+_cell_angle_alpha   57.37065357
+_cell_angle_beta   100.19029356
+_cell_angle_gamma   89.98541346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlGaSn2O5
+_chemical_formula_sum   'Al1 Ga1 Sn2 O5'
+_cell_volume   155.97991663
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.26542541  0.18942039  0.50555967  1
+  Ga  Ga1  1  1.17185752  0.46894622  0.76815012  1
+  O  O2  1  0.17869160  0.58627734  0.36894890  1
+  O  O3  1  0.06681959  0.13789213  0.73649502  1
+  O  O4  1  0.24366963  0.21895235  0.16804211  1
+  O  O5  1  0.54180531  0.25473539  0.64214775  1
+  O  O6  1  0.35030113  0.77818182  0.69957013  1
+  Sn  Sn7  1  0.46260108  0.79628858  0.34388975  1
+  Sn  Sn8  1  0.79995796  0.92436819  0.87982898  1

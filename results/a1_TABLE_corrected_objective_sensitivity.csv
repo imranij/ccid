@@ -1,0 +1,6 @@
+Profile,$w_s$,$w_g$,$w_d$,Top formula,Source,$E_g$ (eV),Top score,Top-50 ovl.
+Balanced,0.45,0.35,0.20,LaAlO$_{3}$,Castelli,6.30,0.821,26
+Stability-first,0.70,0.20,0.10,LaAlO$_{3}$,Castelli,6.30,0.818,26
+Gap-first,0.25,0.65,0.10,CaSiYAlO$_{6}$,Double perov.,8.34,0.775,30
+Direct-gap bonus,0.35,0.35,0.30,LaAlO$_{3}$,Castelli,6.30,0.839,10
+Risk-averse,0.80,0.15,0.05,KTaO$_{3}$,Castelli,4.40,0.869,24

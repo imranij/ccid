@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrGa2SnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15904017
+_cell_length_b   6.15904034
+_cell_length_c   6.15904084
+_cell_angle_alpha   60.00001106
+_cell_angle_beta   60.00001153
+_cell_angle_gamma   60.00001144
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrGa2SnO6
+_chemical_formula_sum   'Sr1 Ga2 Sn1 O6'
+_cell_volume   165.20541673
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000064  -0.00000015  -0.00000071  1
+  Ga  Ga1  1  0.25000008  0.25000001  0.24999948  1
+  Ga  Ga2  1  0.75000089  0.74999914  0.74999915  1
+  Sn  Sn3  1  0.50000033  0.50000002  0.49999973  1
+  O  O4  1  0.73350563  0.26649400  0.26649464  1
+  O  O5  1  0.26649462  0.73350536  0.73350532  1
+  O  O6  1  0.26649405  0.73350526  0.26649512  1
+  O  O7  1  0.73350485  0.26649511  0.73350618  1
+  O  O8  1  0.26649342  0.26649562  0.73350607  1
+  O  O9  1  0.73350550  0.73350561  0.26649503  1

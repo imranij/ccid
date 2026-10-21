@@ -1,0 +1,13 @@
+target,canonical_formula,style,true_stability,true_gap,reachable_in_universe,rank_of_exact_formula,universe_size,top5_nearest
+SrHfO3,HfO3Sr,castelli_perovskites,-0.16,6.9,True,65,1311,AlGdO3; CaO3Zr; O3PrSc; O3SrZr; NdO3Sc
+SrHfO3,HfO3Sr,wolverton_oxides,0.0,4.43,True,45,1311,AlCaO6YZr; AlO6SrYZr; CaMgO6Zr2; AlCeO3; LaO3Sc
+BaHfO3,BaHfO3,castelli_perovskites,-0.26,6.7,True,160,1311,AlGdO3; CaO3Zr; O3PrSc; O3SrZr; NdO3Sc
+BaHfO3,BaHfO3,wolverton_oxides,-0.247,3.687,True,53,1311,MgO6SrTiZr; Ca2O6TiZr; CaMgO6TiZr; CaO6SrTiZr; GaLaO3
+CaHfO3,CaHfO3,castelli_perovskites,0.02,7.0,True,49,1311,AlGdO3; CaO3Zr; O3PrSc; AlDyO3; O3SrZr
+CaHfO3,CaHfO3,wolverton_oxides,-0.087,4.716,True,44,1311,CaO3Zr; NdO3Sc; AlNdO3; O3PrSc; AlErO3
+BaZrO3,BaO3Zr,castelli_perovskites,-0.28,6.2,True,68,1311,AlGdO3; CaO3Zr; O3PrSc; CaO6SrZr2; O3SrZr
+BaZrO3,BaO3Zr,wolverton_oxides,-0.096,3.108,True,180,1311,CaO3Ti; MgO6SrTi2; O3SrTi; CaO6SrTi2; BaMgO6Ti2
+LaAlO3,AlLaO3,castelli_perovskites,-0.1,6.3,True,37,1311,AlGdO3; CaO3Zr; O3PrSc; O3SrZr; NdO3Sc
+LaAlO3,AlLaO3,wolverton_oxides,0.226,3.69,True,18,1311,Al2LaO6Y; HfO3Sr; AlLaMgO6Zr; O6Sr2TiZr; BaCaHf2O6
+YAlO3,AlO3Y,castelli_perovskites,0.14,6.2,True,78,1311,AlGdO3; CaO3Zr; O3PrSc; O3SrZr; NdO3Sc
+YAlO3,AlO3Y,wolverton_oxides,-0.023,5.872000000000001,True,77,1311,AlGdO3; AlDyO3; AlHoO3; AlO3Tb; AlErO3

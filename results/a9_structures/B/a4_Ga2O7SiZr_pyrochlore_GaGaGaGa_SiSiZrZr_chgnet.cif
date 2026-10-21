@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_ZrGa2SiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84621484
+_cell_length_b   6.56922988
+_cell_length_c   6.84622669
+_cell_angle_alpha   61.32667837
+_cell_angle_beta   63.19715256
+_cell_angle_gamma   61.32710063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrGa2SiO7
+_chemical_formula_sum   'Zr2 Ga4 Si2 O14'
+_cell_volume   227.06849143
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.05102152  0.12500982  0.19896194  1
+  Ga  Ga1  1  0.12408988  0.11869546  0.63888061  1
+  Ga  Ga2  1  0.05110070  0.62500381  0.19891445  1
+  Ga  Ga3  1  0.61110094  0.13130899  0.12591401  1
+  Si  Si4  1  0.63236399  0.62500149  0.61763209  1
+  Zr  Zr5  1  0.61529459  0.66076432  0.06232036  1
+  Si  Si6  1  0.63212305  0.12500205  0.61787296  1
+  Zr  Zr7  1  0.18767902  0.58922515  0.63471178  1
+  O  O8  1  0.59092349  1.02603784  0.92225146  1
+  O  O9  1  0.94706972  0.47826758  0.55425233  1
+  O  O10  1  0.98159209  0.51472528  0.98950784  1
+  O  O11  1  0.66741765  0.82496124  0.68268261  1
+  O  O12  1  0.94706345  1.02047473  0.55438491  1
+  O  O13  1  0.59112673  0.46034149  0.92194259  1
+  O  O14  1  0.56731157  0.42504151  0.58258244  1
+  O  O15  1  0.26050643  0.73524749  0.26841432  1
+  O  O16  1  0.32804711  0.78965856  0.65887614  1
+  O  O17  1  0.69558157  0.22954720  0.30293637  1
+  O  O18  1  0.32774004  0.22395095  0.65910460  1
+  O  O19  1  0.69575046  0.77173310  0.30293034  1
+  O  O20  1  -0.00426811  0.00176437  0.00064974  1
+  O  O21  1  0.24936423  0.24823751  0.25427622  1

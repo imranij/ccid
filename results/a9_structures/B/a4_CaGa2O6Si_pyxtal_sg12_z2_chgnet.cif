@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaGa2SiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70888225
+_cell_length_b   5.62989394
+_cell_length_c   9.15347113
+_cell_angle_alpha   90.00000011
+_cell_angle_beta   112.29320696
+_cell_angle_gamma   89.99999975
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaGa2SiO6
+_chemical_formula_sum   'Ca2 Ga4 Si2 O12'
+_cell_volume   272.20645238
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  -0.00001454  0.00000000  0.49990323  1
+  Ca  Ca1  1  0.49999695  0.49999999  0.50000330  1
+  Ga  Ga2  1  0.00002375  0.17074966  0.00000496  1
+  Ga  Ga3  1  0.00002377  -0.17074966  0.00000496  1
+  Ga  Ga4  1  0.49998651  0.67073981  0.00001642  1
+  Ga  Ga5  1  0.49998652  0.32926019  0.00001642  1
+  O  O6  1  0.15381631  0.00000000  0.73179451  1
+  O  O7  1  0.84623671  -0.00000000  0.26827335  1
+  O  O8  1  0.65387997  0.50000001  0.73190568  1
+  O  O9  1  0.34609800  0.49999999  0.26804163  1
+  O  O10  1  0.00002822  0.61229164  0.50004833  1
+  O  O11  1  0.00002612  0.38770841  0.50004919  1
+  O  O12  1  0.49998836  0.11230190  0.49998193  1
+  O  O13  1  0.49999090  0.88769809  0.49998489  1
+  O  O14  1  0.04379784  -0.00000001  0.69950319  1
+  O  O15  1  0.95617273  0.00000001  0.30050178  1
+  O  O16  1  0.54385782  0.49999998  0.69960164  1
+  O  O17  1  0.45612429  0.50000000  0.30037000  1
+  Si  Si18  1  0.00001302  0.49999999  0.00000008  1
+  Si  Si19  1  0.49996676  -0.00000000  -0.00000552  1

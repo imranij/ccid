@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaHf(SiO3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47570135
+_cell_length_b   6.38772733
+_cell_length_c   5.82002610
+_cell_angle_alpha   96.51538835
+_cell_angle_beta   84.98805714
+_cell_angle_gamma   105.65481008
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaHf(SiO3)3
+_chemical_formula_sum   'Ba1 Hf1 Si3 O9'
+_cell_volume   229.91228586
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.36677389  0.54676453  0.96550178  1
+  Hf  Hf1  1  0.90625556  0.96097106  0.74477433  1
+  Si  Si2  1  0.59420970  0.12001199  0.21112101  1
+  Si  Si3  1  0.91173605  0.44084100  0.56445545  1
+  Si  Si4  1  0.22216441  0.84917937  0.49719140  1
+  O  O5  1  0.96711047  0.29489969  0.75464666  1
+  O  O6  1  0.46643402  0.92917309  0.39121211  1
+  O  O7  1  0.77712128  0.61451508  0.68571147  1
+  O  O8  1  0.15266731  0.57751074  0.44868038  1
+  O  O9  1  0.67988766  0.95757829  0.00398271  1
+  O  O10  1  0.19098289  0.90651625  0.78393394  1
+  O  O11  1  0.44682808  0.25608296  0.13455574  1
+  O  O12  1  0.79787308  0.27521515  0.35260515  1
+  O  O13  1  0.03363928  0.94226325  0.41037473  1

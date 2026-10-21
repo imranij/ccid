@@ -1,0 +1,20 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Four composition-generation strategies through the identical \texttt{decode\_composition\_vector} filter. 20{,}000 proposals per run, mean $\pm$ s.d. over seeds 0--4. Uniqueness = unique valid / valid; novelty = fraction of unique valid formulas absent (exact canonical formula) from the 25{,}148-record training table; mean pairwise distance over novel unique valid formulas in the 77-element fraction space (5{,}000-pair estimate); families = distinct substitution families (same anonymised stoichiometry and cation periodic-group multiset). Pooled columns: union over the five seeds. Arms A and B keep each sample's fraction profile from the deposited CVAE and randomise element identities (the a2 design); row A$'$ draws fractions from a Dirichlet and uses no model input.}
+\label{tab:a9_counts}
+\begin{tabular}{lccccccccc}
+\toprule
+ & & & & & Mean pairwise & Families & \multicolumn{3}{c}{Pooled over 5 seeds} \\
+\cmidrule(lr){8-10}
+Arm & Validity & Unique valid & Uniqueness & Novelty & distance & per run & Unique valid & Novel & Families \\
+\midrule
+A\quad Random (uniform) & 0.7287 $\pm$ 0.0018 & 11{,}849 $\pm$ 36 & 0.813 $\pm$ 0.002 & 0.998 $\pm$ 0.000 & 0.344 $\pm$ 0.001 & 2{,}030 & 31{,}171 & 31{,}104 & 3{,}100 \\
+B\quad Element statistics & 0.6623 $\pm$ 0.0021 & 8{,}857 $\pm$ 54 & 0.669 $\pm$ 0.002 & 0.993 $\pm$ 0.000 & 0.346 $\pm$ 0.001 & 2{,}224 & 20{,}034 & 19{,}959 & 3{,}100 \\
+C\quad Ion substitution & 0.5786 $\pm$ 0.0023 & 681 $\pm$ 6 & 0.059 $\pm$ 0.001 & 0.429 $\pm$ 0.006 & 0.351 $\pm$ 0.001 & 162 & 765 & 364 & 175 \\
+D\quad Learned (corrected CVAE) & 0.4417 $\pm$ 0.0030 & 1{,}112 $\pm$ 8 & 0.126 $\pm$ 0.001 & 0.958 $\pm$ 0.001 & 0.323 $\pm$ 0.000 & 332 & 2{,}135 & 2{,}081 & 487 \\
+\midrule
+A$'$\ Random, model-free fractions (sensitivity) & 0.6767 $\pm$ 0.0034 & 11{,}619 $\pm$ 80 & 0.858 $\pm$ 0.003 & 0.979 $\pm$ 0.001 & 0.375 $\pm$ 0.001 & 3{,}519 & 41{,}210 & 40{,}831 & 6{,}816 \\
+\bottomrule
+\end{tabular}
+\end{table*}

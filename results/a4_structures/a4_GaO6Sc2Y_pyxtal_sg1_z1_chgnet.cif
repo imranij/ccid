@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_YSc2GaO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18953968
+_cell_length_b   5.91497433
+_cell_length_c   4.16398142
+_cell_angle_alpha   82.58627662
+_cell_angle_beta   110.63430882
+_cell_angle_gamma   80.70930953
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YSc2GaO6
+_chemical_formula_sum   'Y1 Sc2 Ga1 O6'
+_cell_volume   137.91367600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.43828307  -0.02070918  0.66355724  1
+  O  O1  1  0.08292781  1.06105678  0.30738639  1
+  O  O2  1  0.60140958  1.07362366  0.38191049  1
+  O  O3  1  0.38071761  0.44307340  0.55601942  1
+  O  O4  1  0.02079284  1.02102669  -0.05736281  1
+  O  O5  1  0.03064766  0.52904073  0.85050575  1
+  O  O6  1  0.71271341  0.47827214  0.20105753  1
+  Sc  Sc7  1  0.77009710  0.33850653  0.73929723  1
+  Sc  Sc8  1  0.39361672  0.37845675  0.07002771  1
+  Y  Y9  1  0.99054505  0.69144999  0.30126937  1

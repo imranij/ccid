@@ -1,0 +1,12 @@
+{
+  "total_samples": 20000,
+  "valid_count": 6768,
+  "unique_valid_count": 66,
+  "novel_unique_count": 64,
+  "validity_rate": 0.3384,
+  "uniqueness_rate": 0.00975177304964539,
+  "novelty_rate": 0.9696969696969697,
+  "mean_pairwise_composition_distance": 0.27889822271933395,
+  "target_stability": 0.9,
+  "target_gap": 0.8
+}

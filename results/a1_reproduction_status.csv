@@ -1,0 +1,9 @@
+Manuscript Stage-1 table,Status,Evidence
+Table 5 -- top dielectric candidates,DOES NOT REPRODUCE,"Neither the ordering nor the design-score column matches the deposited code (code top-3: mp-27832, mp-5606, mp-5967; manuscript top-3: mp-5606, mp-27832, mp-22908). Manuscript IDs mp-2821, mp-5683 are absent from the deposited dielectric dataset entirely. No weighting of the available columns reproduces the printed scores."
+Table 6 -- top perovskite/oxide candidates,PARTIALLY REPRODUCES,"Rows 1--12 match the deposited code exactly. Rows 13--14 of the manuscript (SrZrYAlO$_6$, YAlO$_3$) are not ranks 13--14 of the code, which returns HoAlO$_{3}$, CaHfMgZrO$_{6}$."
+Table 7 -- Pareto front,REPRODUCES,All 7 rows and all utilities reproduce exactly. See report for the floating-point fragility of the KTaO$_3$ entry.
+Table 8 -- Pareto contribution by dataset,REPRODUCES,Castelli 5 / 0.733 / 0.758 and Wolverton 2 / 0.873 / 0.888 reproduce exactly.
+Table 9 -- candidate-pool summary,REPRODUCES,"18{,}928 / 4{,}914 / 1{,}306 records and all summary statistics reproduce exactly."
+Table 10 -- objective sensitivity,REPRODUCES,"All five profiles, top formulas, scores and top-50 overlaps reproduce exactly."
+Table 11 -- diverse acquisition batch,REPRODUCES (but truncated),The 12 printed rows match rows 1--12 of the code's 20-row batch exactly. The manuscript text calls this ``the 12 candidates''; the deposited code emits 20.
+Table 12 -- validation-gate summary,"REPRODUCES THE CODE, BUT THE CODE IS WRONG","The printed counts (9/8/4/1/1) reproduce the deposited script exactly, but they sum to 23 for a 20-candidate batch because \texttt{candidate\_validation\_pack.py} re-merges the batch onto a ranked table with duplicate formulas (BaNbO$_3$, KTaO$_3$, LaScO$_3$ each appear twice)."

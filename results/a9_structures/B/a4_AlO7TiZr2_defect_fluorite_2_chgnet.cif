@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Zr2TiAlO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12058850
+_cell_length_b   5.12058873
+_cell_length_c   4.92335339
+_cell_angle_alpha   89.25545642
+_cell_angle_beta   89.25539929
+_cell_angle_gamma   92.17118589
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2TiAlO7
+_chemical_formula_sum   'Zr2 Ti1 Al1 O7'
+_cell_volume   128.97711237
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  -0.00695750  -0.00695739  0.00033293  1
+  Zr  Zr1  1  0.00952188  0.49054662  0.48904885  1
+  Zr  Zr2  1  0.49054622  0.00952160  0.48904882  1
+  Ti  Ti3  1  0.46798171  0.46798062  0.02270954  1
+  O  O4  1  0.19994852  0.19994809  0.21818931  1
+  O  O5  1  0.31335029  0.31335062  0.71058176  1
+  O  O6  1  0.31029379  0.69250373  0.26860979  1
+  O  O7  1  0.17003531  0.79483365  0.76149716  1
+  O  O8  1  0.69250422  0.31029326  0.26861036  1
+  O  O9  1  0.79483288  0.17003643  0.76149790  1
+  O  O10  1  0.80794279  0.80794279  0.25987356  1

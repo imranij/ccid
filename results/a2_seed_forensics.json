@@ -1,0 +1,29 @@
+{
+  "archived_condition_stats": {
+    "stability_mean": 0.8249468343158253,
+    "stability_std": 0.2065372318037557,
+    "frac_stability_clipped_at_1": 0.36965,
+    "gap_mean": 0.7553141413025442,
+    "gap_std": 0.2359483875993742,
+    "frac_gap_clipped_at_1": 0.25635
+  },
+  "jitter_implied_by_clipping": {
+    "from_stability": 0.3004984018613178,
+    "from_gap": 0.30551174204541737
+  },
+  "seed_search_jitter0.30_first_draw_matches": [
+    123,
+    132864
+  ],
+  "condition_reproduction_max_abs_error": {
+    "stability": 1.1102230246251565e-16,
+    "gap": 1.1102230246251565e-16
+  },
+  "per_sample_formula_agreement_with_archive": 0.5474,
+  "per_sample_validity_agreement_with_archive": 0.8167,
+  "aggregate": {
+    "rerun_valid_count": 6626,
+    "archived_valid_count": 6768
+  },
+  "interpretation": "Conditions reproduce exactly at seed=123, jitter=0.30, so the archived run used --condition-jitter 0.30 (not the deposited default 0.08). Per-sample formulas do not reproduce because the latent draw torch.randn(...) was made on a different device/RNG (almost certainly CUDA on the DGX) than the CPU replay; aggregate metrics nevertheless reproduce to within seed-to-seed variation."
+}

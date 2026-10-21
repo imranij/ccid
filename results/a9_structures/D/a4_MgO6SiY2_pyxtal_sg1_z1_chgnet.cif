@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Y2MgSiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98014617
+_cell_length_b   5.81927730
+_cell_length_c   7.93729092
+_cell_angle_alpha   98.65847667
+_cell_angle_beta   94.19492978
+_cell_angle_gamma   133.51490602
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2MgSiO6
+_chemical_formula_sum   'Y2 Mg1 Si1 O6'
+_cell_volume   127.72971615
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.57754319  0.91728756  0.80071842  1
+  O  O1  1  0.34041662  0.23680025  0.49396432  1
+  O  O2  1  0.17287638  0.46002303  0.87730011  1
+  O  O3  1  1.03791546  0.87641959  0.72654565  1
+  O  O4  1  0.73313569  0.62676440  1.30731350  1
+  O  O5  1  0.47217205  1.06129622  0.08189151  1
+  O  O6  1  0.46600932  0.82275841  0.51576839  1
+  Si  Si7  1  -0.07066585  -0.13458421  0.51689440  1
+  Y  Y8  1  0.83689646  0.27091598  0.36095413  1
+  Y  Y9  1  0.75238848  0.52602733  0.00489393  1

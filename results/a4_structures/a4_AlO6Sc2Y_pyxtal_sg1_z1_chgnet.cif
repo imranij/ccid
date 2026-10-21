@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_YSc2AlO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41770887
+_cell_length_b   4.01401335
+_cell_length_c   7.38540841
+_cell_angle_alpha   91.98649113
+_cell_angle_beta   105.00239341
+_cell_angle_gamma   85.05770058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YSc2AlO6
+_chemical_formula_sum   'Y1 Sc2 Al1 O6'
+_cell_volume   154.54477948
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.10125254  0.13577813  0.44598820  1
+  O  O1  1  1.06306319  0.60229701  0.41977559  1
+  O  O2  1  0.78723801  0.08050560  0.25599159  1
+  O  O3  1  0.61664090  0.82533627  0.87725435  1
+  O  O4  1  0.13487644  0.62830880  0.95423982  1
+  O  O5  1  0.59922973  0.34020381  0.15004504  1
+  O  O6  1  0.03760450  0.12928459  0.67439472  1
+  Sc  Sc7  1  0.32052443  1.08493455  -0.06585611  1
+  Sc  Sc8  1  0.88384611  0.64569091  0.11779056  1
+  Y  Y9  1  0.83957567  0.65812569  0.67241283  1

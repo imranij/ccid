@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaYO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.33348258
+_cell_length_b   5.69588107
+_cell_length_c   5.69018245
+_cell_angle_alpha   89.89487008
+_cell_angle_beta   152.46869565
+_cell_angle_gamma   90.07319475
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaYO3
+_chemical_formula_sum   'La2 Y2 O6'
+_cell_volume   184.77069229
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.05215873  0.00185628  -0.12706287  1
+  La  La1  1  0.55216391  0.50184579  -0.12705214  1
+  O  O2  1  0.26209345  0.25127072  0.52834372  1
+  O  O3  1  0.76155410  0.24989509  0.52821494  1
+  O  O4  1  0.76209173  0.75127517  0.52834533  1
+  O  O5  1  1.26155713  0.74989972  0.52820166  1
+  O  O6  1  -0.07282524  0.49695636  0.40327351  1
+  O  O7  1  0.42717477  -0.00301142  0.40327097  1
+  Y  Y8  1  -0.00298350  0.50000723  0.16723336  1
+  Y  Y9  1  0.49701500  0.00000490  0.16723143  1

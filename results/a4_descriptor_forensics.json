@@ -1,0 +1,155 @@
+{
+  "t_panel": [
+    {
+      "formula": "Al2BaHfO6",
+      "published_t": 0.428,
+      "std_XII_over_VI": 1.0999438818457403,
+      "std_VI_over_VI": 1.0049321179653774,
+      "big_over_mean": 0.8909707437631182,
+      "mean_over_mean": 0.7071067811865475,
+      "no_oxygen_in_numer": 0.4933303124557308,
+      "no_oxygen_at_all": 1.7842881394426897,
+      "nO_scaled": 0.21763219342618978,
+      "mean_over_big": 0.5611856545235054,
+      "small_over_big": 0.49754604421671617,
+      "ratio_only": 0.3962962962962963,
+      "mean_cation_over_O": 0.5589285714285714,
+      "sum_cat_over_sum_all": 0.2714657415437988
+    },
+    {
+      "formula": "Al2ZrHfO7",
+      "published_t": 0.316,
+      "std_XII_over_VI": 0.7747113054860365,
+      "std_VI_over_VI": 0.7747113054860365,
+      "big_over_mean": 0.7402796919088794,
+      "mean_over_mean": 0.7071067811865475,
+      "no_oxygen_in_numer": 0.2631094999763897,
+      "no_oxygen_at_all": 0.9516203410361012,
+      "nO_scaled": 0.145047544858779,
+      "mean_over_big": 0.6754203924069615,
+      "small_over_big": 0.6454017082999856,
+      "ratio_only": 0.7430555555555556,
+      "mean_cation_over_O": 0.44642857142857145,
+      "sum_cat_over_sum_all": 0.20325203252032523
+    },
+    {
+      "formula": "Al2ScLaO6",
+      "published_t": 0.359,
+      "std_XII_over_VI": 1.0085864165761607,
+      "std_VI_over_VI": 0.888725422142472,
+      "big_over_mean": 0.8143405667553847,
+      "mean_over_mean": 0.7071067811865475,
+      "no_oxygen_in_numer": 0.3771236166328253,
+      "no_oxygen_at_all": 1.3639891554850783,
+      "nO_scaled": 0.19246599796817948,
+      "mean_over_big": 0.6139937274550541,
+      "small_over_big": 0.56260346282729,
+      "ratio_only": 0.5184108527131783,
+      "mean_cation_over_O": 0.5083928571428572,
+      "sum_cat_over_sum_all": 0.2531341691117632
+    },
+    {
+      "formula": "Al2ZrSiO7",
+      "published_t": 0.277,
+      "std_XII_over_VI": 0.8328146533974894,
+      "std_VI_over_VI": 0.8328146533974894,
+      "big_over_mean": 0.7697388324084625,
+      "mean_over_mean": 0.7071067811865476,
+      "no_oxygen_in_numer": 0.282842712474619,
+      "no_oxygen_at_all": 1.2727922061357853,
+      "nO_scaled": 0.14696729177602752,
+      "mean_over_big": 0.64957096998151,
+      "small_over_big": 0.6003736821395214,
+      "ratio_only": 0.5555555555555556,
+      "mean_cation_over_O": 0.3910714285714287,
+      "sum_cat_over_sum_all": 0.18265221017514602
+    },
+    {
+      "formula": "ScAlHfO5",
+      "published_t": 0.335,
+      "std_XII_over_VI": 0.8295257846477843,
+      "std_VI_over_VI": 0.7838470520129944,
+      "big_over_mean": 0.7350940447391652,
+      "mean_over_mean": 0.7071067811865475,
+      "no_oxygen_in_numer": 0.2722452465033477,
+      "no_oxygen_at_all": 0.9846627139887435,
+      "nO_scaled": 0.2012931712866814,
+      "mean_over_big": 0.6801850777847287,
+      "small_over_big": 0.6378795438675847,
+      "ratio_only": 0.7181208053691276,
+      "mean_cation_over_O": 0.4738095238095239,
+      "sum_cat_over_sum_all": 0.221357063403782
+    },
+    {
+      "formula": "AlZrScO5",
+      "published_t": 0.337,
+      "std_XII_over_VI": 0.8295257846477843,
+      "std_VI_over_VI": 0.7838470520129944,
+      "big_over_mean": 0.7339084091831345,
+      "mean_over_mean": 0.7071067811865475,
+      "no_oxygen_in_numer": 0.2722452465033477,
+      "no_oxygen_at_all": 0.9846627139887435,
+      "nO_scaled": 0.2012931712866814,
+      "mean_over_big": 0.6812839228215375,
+      "small_over_big": 0.6378795438675847,
+      "ratio_only": 0.7181208053691276,
+      "mean_cation_over_O": 0.4761904761904762,
+      "sum_cat_over_sum_all": 0.2222222222222222
+    }
+  ],
+  "t_definition_max_abs_error": {
+    "std_XII_over_VI": 0.6719438818457404,
+    "std_VI_over_VI": 0.5769321179653775,
+    "big_over_mean": 0.4927388324084625,
+    "mean_over_mean": 0.43010678118654755,
+    "no_oxygen_in_numer": 0.06533031245573079,
+    "no_oxygen_at_all": 1.3562881394426898,
+    "nO_scaled": 0.2103678065738102,
+    "mean_over_big": 0.37257096998150996,
+    "small_over_big": 0.32940170829998555,
+    "ratio_only": 0.4270555555555556,
+    "mean_cation_over_O": 0.14939285714285722,
+    "sum_cat_over_sum_all": 0.15653425845620117
+  },
+  "t_reproducible": false,
+  "t_best_definition": "no_oxygen_in_numer",
+  "dchi_check": {
+    "Al2BaHfO6": {
+      "published": 2.087,
+      "recomputed": 2.087
+    },
+    "Al2ZrHfO7": {
+      "published": 1.977,
+      "recomputed": 1.977
+    },
+    "Al2ScLaO6": {
+      "published": 2.02,
+      "recomputed": 2.02
+    },
+    "Al2ZrSiO7": {
+      "published": 1.827,
+      "recomputed": 1.827
+    },
+    "ScAlHfO5": {
+      "published": 2.017,
+      "recomputed": 2.017
+    },
+    "AlZrScO5": {
+      "published": 2.007,
+      "recomputed": 2.007
+    }
+  },
+  "dchi_reproducible": true,
+  "composite_lstsq_on_t_and_dchi": {
+    "intercept": 0.4994277904563634,
+    "coef_t": 0.35018255736695936,
+    "coef_dchi": 0.08075899870505379,
+    "r2": 0.9998023139216597,
+    "residual_max": 0.0005226226900716391
+  },
+  "composite_lstsq_on_dchi_only": {
+    "intercept": 0.26210907976266007,
+    "coef_dchi": 0.2602719330895719,
+    "r2": 0.8875886675681264
+  }
+}

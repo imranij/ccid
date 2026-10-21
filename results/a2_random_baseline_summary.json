@@ -1,0 +1,254 @@
+{
+  "cvae": {
+    "validity_rate": {
+      "mean": 0.33019,
+      "std": 0.001840652058374967
+    },
+    "uniqueness_rate": {
+      "mean": 0.010448422306997066,
+      "std": 0.00022637253185078164
+    },
+    "novelty_rate": {
+      "mean": 0.9855011539123149,
+      "std": 0.0003323885017391469
+    },
+    "unique_valid_count": {
+      "mean": 69.0,
+      "std": 1.5811388300841898
+    },
+    "novel_unique_count": {
+      "mean": 68.0,
+      "std": 1.5811388300841898
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.27846883986613774,
+      "std": 0.0012356860833726327
+    },
+    "unique_formula_count_all": {
+      "mean": 305.0,
+      "std": 9.055385138137417
+    },
+    "modal_formula_share_all": {
+      "mean": 0.23502,
+      "std": 0.002825906934065586
+    },
+    "whitelist_reject_rate": {
+      "mean": 0.00506,
+      "std": 0.0005378196723809942
+    },
+    "no_charge_balance_rate": {
+      "mean": 0.6647500000000001,
+      "std": 0.0017471405209656234
+    }
+  },
+  "rand_dirichlet41": {
+    "validity_rate": {
+      "mean": 0.67781,
+      "std": 0.004200952272997157
+    },
+    "uniqueness_rate": {
+      "mean": 0.8583607651186582,
+      "std": 0.002743153237739656
+    },
+    "novelty_rate": {
+      "mean": 0.9788716771242016,
+      "std": 0.0007403420688836365
+    },
+    "unique_valid_count": {
+      "mean": 11636.2,
+      "std": 95.82379662693397
+    },
+    "novel_unique_count": {
+      "mean": 11390.4,
+      "std": 101.92791570516881
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.37546139359474184,
+      "std": 0.0009528921823711795
+    },
+    "unique_formula_count_all": {
+      "mean": 17305.4,
+      "std": 41.06458328048636
+    },
+    "modal_formula_share_all": {
+      "mean": 0.01737,
+      "std": 0.0008159350464344567
+    },
+    "whitelist_reject_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "no_charge_balance_rate": {
+      "mean": 0.30482,
+      "std": 0.004539906386700057
+    }
+  },
+  "rand_freq41": {
+    "validity_rate": {
+      "mean": 0.66059,
+      "std": 0.002787113201863197
+    },
+    "uniqueness_rate": {
+      "mean": 0.6698313290753524,
+      "std": 0.003788400859471182
+    },
+    "novelty_rate": {
+      "mean": 0.9934223811495999,
+      "std": 0.0004150417030939955
+    },
+    "unique_valid_count": {
+      "mean": 8849.6,
+      "std": 46.629389873769526
+    },
+    "novel_unique_count": {
+      "mean": 8791.4,
+      "std": 48.60349781651522
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.34570462703704835,
+      "std": 0.0011342567636358077
+    },
+    "unique_formula_count_all": {
+      "mean": 13738.8,
+      "std": 61.04260807010134
+    },
+    "modal_formula_share_all": {
+      "mean": 0.00039,
+      "std": 2.2360679774997908e-05
+    },
+    "whitelist_reject_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "no_charge_balance_rate": {
+      "mean": 0.33941,
+      "std": 0.002787113201863186
+    }
+  },
+  "rand_freq77": {
+    "validity_rate": {
+      "mean": 0.04464,
+      "std": 0.0017049193529313936
+    },
+    "uniqueness_rate": {
+      "mean": 0.9688227890216211,
+      "std": 0.00658912645630368
+    },
+    "novelty_rate": {
+      "mean": 0.9912367070239367,
+      "std": 0.0031009289909832947
+    },
+    "unique_valid_count": {
+      "mean": 865.0,
+      "std": 34.734708865916815
+    },
+    "novel_unique_count": {
+      "mean": 857.4,
+      "std": 33.871817193649356
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.3468724608421326,
+      "std": 0.0017327637520072451
+    },
+    "unique_formula_count_all": {
+      "mean": 16748.6,
+      "std": 57.7174150495325
+    },
+    "modal_formula_share_all": {
+      "mean": 0.00078,
+      "std": 6.708203932499367e-05
+    },
+    "whitelist_reject_rate": {
+      "mean": 0.04226,
+      "std": 0.001563809451307927
+    },
+    "no_charge_balance_rate": {
+      "mean": 0.9131,
+      "std": 0.0020691181696558475
+    }
+  },
+  "rand_uniform41": {
+    "validity_rate": {
+      "mean": 0.72737,
+      "std": 0.0016809967281348254
+    },
+    "uniqueness_rate": {
+      "mean": 0.8125566801462352,
+      "std": 0.00266903215455167
+    },
+    "novelty_rate": {
+      "mean": 0.9976823764449835,
+      "std": 0.00020700090106341146
+    },
+    "unique_valid_count": {
+      "mean": 11820.6,
+      "std": 51.325432292383084
+    },
+    "novel_unique_count": {
+      "mean": 11793.2,
+      "std": 50.01699711098218
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.3436658978462219,
+      "std": 0.0010164294686205834
+    },
+    "unique_formula_count_all": {
+      "mean": 16512.0,
+      "std": 30.4138126514911
+    },
+    "modal_formula_share_all": {
+      "mean": 0.00026,
+      "std": 2.236067977499788e-05
+    },
+    "whitelist_reject_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "no_charge_balance_rate": {
+      "mean": 0.27263,
+      "std": 0.0016809967281348316
+    }
+  },
+  "rand_uniform77": {
+    "validity_rate": {
+      "mean": 0.10089,
+      "std": 0.001808797943386713
+    },
+    "uniqueness_rate": {
+      "mean": 0.9731639236590885,
+      "std": 0.0027199643442674423
+    },
+    "novelty_rate": {
+      "mean": 0.9976584765517236,
+      "std": 0.0015860086891658725
+    },
+    "unique_valid_count": {
+      "mean": 1963.6,
+      "std": 31.981244503614928
+    },
+    "novel_unique_count": {
+      "mean": 1959.0,
+      "std": 31.898275815473163
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.34494990706443784,
+      "std": 0.0015320993541276422
+    },
+    "unique_formula_count_all": {
+      "mean": 19554.4,
+      "std": 26.866335812685733
+    },
+    "modal_formula_share_all": {
+      "mean": 0.00015,
+      "std": 0.0
+    },
+    "whitelist_reject_rate": {
+      "mean": 0.07004,
+      "std": 0.001010816501646067
+    },
+    "no_charge_balance_rate": {
+      "mean": 0.82907,
+      "std": 0.0019289245708425063
+    }
+  }
+}

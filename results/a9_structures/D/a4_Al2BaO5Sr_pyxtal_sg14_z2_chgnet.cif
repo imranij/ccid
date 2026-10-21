@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaSrAl2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26724797
+_cell_length_b   7.42317173
+_cell_length_c   7.72805084
+_cell_angle_alpha   90.00496780
+_cell_angle_beta   71.42691120
+_cell_angle_gamma   90.02492111
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrAl2O5
+_chemical_formula_sum   'Ba2 Sr2 Al4 O10'
+_cell_volume   340.80592662
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.45816255  0.69809006  0.10535624  1
+  Al  Al1  1  -0.45750893  1.21711275  0.39925117  1
+  Al  Al2  1  -0.45694305  -0.71688979  -0.10055922  1
+  Al  Al3  1  0.45789643  -0.19782014  0.60502548  1
+  Ba  Ba4  1  0.00279143  0.02226325  0.48546827  1
+  Ba  Ba5  1  0.00174528  0.47637327  -0.01098510  1
+  O  O6  1  0.69935732  0.70966095  0.61285412  1
+  O  O7  1  0.29002188  0.19751682  -0.09424383  1
+  O  O8  1  0.29058088  0.30271219  0.40431384  1
+  O  O9  1  0.69909014  0.79148219  1.11348321  1
+  O  O10  1  0.81498372  0.29298293  0.32070787  1
+  O  O11  1  0.17967810  0.75466816  0.20797244  1
+  O  O12  1  0.17982648  0.74509580  0.70832087  1
+  O  O13  1  0.81556788  0.20820517  0.81920515  1
+  O  O14  1  0.49936439  0.00672171  0.49653229  1
+  O  O15  1  0.50081132  0.49353211  -0.00340406  1
+  Sr  Sr16  1  0.01311500  -0.03087332  -0.03632879  1
+  Sr  Sr17  1  0.01145921  0.52916588  0.46703007  1

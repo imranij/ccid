@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_ScTi2GaO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10827359
+_cell_length_b   5.26955618
+_cell_length_c   5.10827381
+_cell_angle_alpha   102.56118118
+_cell_angle_beta   88.20339965
+_cell_angle_gamma   102.56111134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTi2GaO7
+_chemical_formula_sum   'Sc1 Ti2 Ga1 O7'
+_cell_volume   130.98407968
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  -0.03806655  0.02911821  -0.03806674  1
+  Ti  Ti1  1  0.07891967  0.45211769  0.53451113  1
+  Sc  Sc2  1  0.46677296  0.02408694  0.46677270  1
+  Ti  Ti3  1  0.53451085  0.45211812  0.07891981  1
+  O  O4  1  0.23122912  0.16002355  0.23122961  1
+  O  O5  1  0.32441905  0.34271096  0.74594189  1
+  O  O6  1  0.28637160  0.62827436  0.28637143  1
+  O  O7  1  0.12580801  0.80273963  0.71449346  1
+  O  O8  1  0.74594160  0.34271154  0.32441902  1
+  O  O9  1  0.77960108  0.21335924  0.77960041  1
+  O  O10  1  0.71449271  0.80273982  0.12580744  1

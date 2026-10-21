@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrMg(SnO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05722158
+_cell_length_b   5.79517784
+_cell_length_c   6.88219875
+_cell_angle_alpha   111.56394516
+_cell_angle_beta   78.71038354
+_cell_angle_gamma   104.45966443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMg(SnO3)2
+_chemical_formula_sum   'Sr1 Mg1 Sn2 O6'
+_cell_volume   144.74870554
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.86674920  0.75360653  0.71102804  1
+  Mg  Mg1  1  0.27337447  0.21802630  0.62661632  1
+  Sn  Sn2  1  0.87299129  0.11402749  0.25181961  1
+  Sn  Sn3  1  0.20803844  0.58957390  0.09384517  1
+  O  O4  1  0.06874141  0.18477369  0.95995227  1
+  O  O5  1  0.32888980  0.02258379  0.27123056  1
+  O  O6  1  0.04983245  0.50345086  0.35999582  1
+  O  O7  1  0.76015516  0.12521411  0.56549208  1
+  O  O8  1  0.30070197  0.57733418  0.78980716  1
+  O  O9  1  0.75340296  0.71121202  0.10047295  1

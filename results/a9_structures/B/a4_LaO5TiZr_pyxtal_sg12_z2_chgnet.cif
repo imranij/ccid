@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LaZrTiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.79517661
+_cell_length_b   6.36383481
+_cell_length_c   5.46101211
+_cell_angle_alpha   90.20163332
+_cell_angle_beta   115.04487566
+_cell_angle_gamma   89.77768017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaZrTiO5
+_chemical_formula_sum   'La2 Zr2 Ti2 O10'
+_cell_volume   276.91681960
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  -0.07022108  0.00893044  -0.05401566  1
+  La  La1  1  0.43005098  0.49182452  -0.05716915  1
+  O  O2  1  0.51058270  0.78349529  0.24153281  1
+  O  O3  1  -0.41771928  0.78361867  -0.18383760  1
+  O  O4  1  -0.41652880  -0.80323681  -0.19025882  1
+  O  O5  1  0.49356012  -0.80610265  0.22699561  1
+  O  O6  1  1.00132481  1.30344710  0.23412056  1
+  O  O7  1  0.08490453  1.30203432  -0.18626353  1
+  O  O8  1  0.08201621  -0.28527602  -0.18486948  1
+  O  O9  1  1.00337710  -0.28679344  0.23779230  1
+  O  O10  1  -0.17929008  0.00757960  0.35273453  1
+  O  O11  1  0.32143208  0.50454581  0.35609166  1
+  Ti  Ti12  1  0.11634318  0.50734947  0.11007184  1
+  Ti  Ti13  1  0.61525827  -0.00506526  0.10814689  1
+  Zr  Zr14  1  -0.03756788  0.50960649  0.49529390  1
+  Zr  Zr15  1  0.46247720  -0.01595755  0.49363416  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SrMg2ZrO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.91391048
+_cell_length_b   5.57817942
+_cell_length_c   6.04408396
+_cell_angle_alpha   86.67025445
+_cell_angle_beta   45.79627285
+_cell_angle_gamma   78.19544306
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMg2ZrO5
+_chemical_formula_sum   'Sr1 Mg2 Zr1 O5'
+_cell_volume   185.86285699
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.91166434  0.18103818  -0.00129785  1
+  Mg  Mg1  1  0.10988688  0.66515577  0.47066992  1
+  O  O2  1  0.29659580  0.89359695  1.13833680  1
+  O  O3  1  1.09811887  0.35606538  0.64663929  1
+  O  O4  1  0.99452840  0.52870850  0.31323168  1
+  O  O5  1  0.87993864  0.95994865  0.79513250  1
+  O  O6  1  0.77203506  0.14614661  0.40629158  1
+  Sr  Sr7  1  0.61106694  0.78947852  0.59344425  1
+  Zr  Zr8  1  0.02064827  0.18014595  0.42768939  1

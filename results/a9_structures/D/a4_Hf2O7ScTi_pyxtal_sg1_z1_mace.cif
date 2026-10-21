@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Hf2ScTiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56430406
+_cell_length_b   8.32286634
+_cell_length_c   3.27604690
+_cell_angle_alpha   78.61152427
+_cell_angle_beta   104.47726546
+_cell_angle_gamma   84.55516661
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2ScTiO7
+_chemical_formula_sum   'Hf2 Sc1 Ti1 O7'
+_cell_volume   167.91425742
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.11498698  0.60596297  0.20579582  1
+  Hf  Hf1  1  0.48454041  0.76708738  0.81133341  1
+  Sc  Sc2  1  0.83558788  0.93890142  0.40013384  1
+  Ti  Ti3  1  0.11571289  0.20911868  0.90616725  1
+  O  O4  1  0.23751581  0.15763039  0.49298046  1
+  O  O5  1  0.14455446  0.77530655  0.63632347  1
+  O  O6  1  0.89711403  0.08139922  0.85953324  1
+  O  O7  1  0.81568525  0.74431122  0.98788074  1
+  O  O8  1  0.43249857  0.61197596  0.36281532  1
+  O  O9  1  0.07649502  0.45018915  0.76438354  1
+  O  O10  1  0.51918411  0.91763960  0.25306967  1

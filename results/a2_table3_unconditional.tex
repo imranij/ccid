@@ -1,0 +1,13 @@
+% Table A2-3: condition-destroyed controls (same checkpoint, same latent draw)
+\begin{tabular}{lccccc}
+\toprule
+Condition signal & Validity & Unique valid & Distinct formulas & Modal share & Mean pairwise dist. \\
+\midrule
+Conditioned, archived path ($c\sim N(0.9,0.30),N(0.8,0.30)$) & 0.3302 & 69.0 & 305.0 & 0.235 & 0.2785 \\
+Conditions shuffled across samples & 0.3299 & 73.2 & 295.2 & 0.236 & 0.2777 \\
+Conditions $\sim U(0,1)^2$ & 0.3749 & 76.4 & 497.6 & 0.057 & 0.2762 \\
+Condition held at $(0.5,0.5)$ & 0.9887 & 6.0 & 8.4 & 0.911 & 0.1624 \\
+Condition held at $(0.9,0.8)$ & 0.0713 & 1.0 & 3.8 & 0.912 & 0.0000 \\
+Condition held at the training-set mean & 0.0000 & 0.0 & 27.6 & 0.496 & 0.0000 \\
+\bottomrule
+\end{tabular}

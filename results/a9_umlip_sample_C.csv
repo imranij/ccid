@@ -1,0 +1,51 @@
+population,canonical_formula,reduced_formula,formula,elements,n_draws,sample_id,cations,seed,n_seeds,in_training_set
+C,BaO3Si,BaSiO3,BaSiO3,Ba Si O,503,38,Ba Si,0,5,True
+C,BaO3Ti,BaTiO3,BaTiO3,Ba Ti O,438,103,Ba Ti,0,5,True
+C,AlBaLaO4,BaLaAlO4,AlBaLaO4,Al Ba La O,79,104,Al Ba La,0,5,False
+C,MgO3Sn,MgSnO3,MgSnO3,Mg Sn O,627,109,Mg Sn,0,5,True
+C,BaHfO3,BaHfO3,BaHfO3,Ba Hf O,115,131,Ba Hf,0,5,True
+C,GaO3Sc,ScGaO3,GaScO3,Ga Sc O,116,201,Ga Sc,0,5,True
+C,O2Zr,ZrO2,ZrO2,Zr O,61,246,Zr,0,5,False
+C,Ca2O6SnZr,Ca2ZrSnO6,Ca2SnZrO6,Ca Sn Zr O,30,351,Ca Sn Zr,0,5,True
+C,O3SiSr,SrSiO3,SiSrO3,Si Sr O,381,425,Si Sr,0,5,True
+C,GaO3Ti,TiGaO3,GaTiO3,Ga Ti O,73,434,Ga Ti,0,5,True
+C,BaO4SnSr,BaSrSnO4,BaSnSrO4,Ba Sn Sr O,301,475,Ba Sn Sr,0,5,False
+C,MgO6SrZr2,SrMgZr2O6,Zr2MgSrO6,Zr Mg Sr O,50,549,Mg Sr Zr,0,5,True
+C,Ba2O6SiSn,Ba2SiSnO6,Ba2SiSnO6,Ba Si Sn O,52,557,Ba Si Sn,0,5,False
+C,O4TiZr,ZrTiO4,TiZrO4,Ti Zr O,86,704,Ti Zr,0,5,False
+C,AlLaO3,LaAlO3,AlLaO3,Al La O,216,830,Al La,0,5,True
+C,BaO6SrTi2,BaSrTi2O6,Ti2BaSrO6,Ti Ba Sr O,115,870,Ba Sr Ti,0,5,True
+C,AlGaO3,AlGaO3,AlGaO3,Al Ga O,82,882,Al Ga,0,5,True
+C,O6SnSrZr2,SrZr2SnO6,Zr2SnSrO6,Zr Sn Sr O,44,885,Sn Sr Zr,0,5,True
+C,HfO3Sn,HfSnO3,HfSnO3,Hf Sn O,9,946,Hf Sn,0,4,True
+C,MgO6Sn2Sr,SrMg(SnO3)2,Sn2MgSrO6,Sn Mg Sr O,9,1100,Mg Sn Sr,0,5,False
+C,GaO3Y,YGaO3,GaYO3,Ga Y O,69,1192,Ga Y,0,5,True
+C,LaO3Y,LaYO3,LaYO3,La Y O,239,1348,La Y,0,5,True
+C,GaLaO5Si,LaGaSiO5,GaLaSiO5,Ga La Si O,78,1520,Ga La Si,0,5,False
+C,Ca2O6TiZr,Ca2ZrTiO6,Ca2TiZrO6,Ca Ti Zr O,40,1624,Ca Ti Zr,0,5,True
+C,Ba2O6TiZr,Ba2ZrTiO6,Ba2TiZrO6,Ba Ti Zr O,134,1661,Ba Ti Zr,0,5,True
+C,O7Sn3Sr,SrSn3O7,Sn3SrO7,Sn Sr O,6,1854,Sn Sr,0,3,False
+C,BaO6SnZr2,BaZr2SnO6,Zr2BaSnO6,Zr Ba Sn O,128,1890,Ba Sn Zr,0,5,True
+C,Ga2O6SnSr,SrGa2SnO6,Ga2SnSrO6,Ga Sn Sr O,20,2167,Ga Sn Sr,0,5,False
+C,AlLaO5Si,LaAlSiO5,AlLaSiO5,Al La Si O,74,2252,Al La Si,0,5,False
+C,CaGaLaO4,CaLaGaO4,CaGaLaO4,Ca Ga La O,3,2382,Ca Ga La,0,2,False
+C,Ba2O6SnTi,Ba2TiSnO6,Ba2SnTiO6,Ba Sn Ti O,61,2495,Ba Sn Ti,0,5,True
+C,CaO4SiSr,SrCaSiO4,CaSiSrO4,Ca Si Sr O,61,2758,Ca Si Sr,0,5,False
+C,BaO5SiTi,BaTiSiO5,BaSiTiO5,Ba Si Ti O,15,4913,Ba Si Ti,0,5,False
+C,GaLa2O6Sc,La2ScGaO6,La2GaScO6,La Ga Sc O,6,4949,Ga La Sc,0,4,True
+C,Mg2O6SiTi,Mg2TiSiO6,Mg2SiTiO6,Mg Si Ti O,3,5577,Mg Si Ti,0,2,False
+C,BaO6Si2Sr,BaSr(SiO3)2,Si2BaSrO6,Si Ba Sr O,37,5639,Ba Si Sr,0,5,False
+C,BaHfO5Si,BaHfSiO5,BaHfSiO5,Ba Hf Si O,13,7281,Ba Hf Si,0,5,False
+C,Ba2HfO6Ti,Ba2HfTiO6,Ba2HfTiO6,Ba Hf Ti O,9,8056,Ba Hf Ti,0,4,True
+C,BaMgO6Sn2,BaMg(SnO3)2,Sn2BaMgO6,Sn Ba Mg O,10,9130,Ba Mg Sn,0,4,False
+C,BaGa2O6Sn,BaGa2SnO6,Ga2BaSnO6,Ga Ba Sn O,2,10455,Ba Ga Sn,0,2,False
+C,CaGaO4Sc,CaScGaO4,CaGaScO4,Ca Ga Sc O,7,11272,Ca Ga Sc,0,2,False
+C,MgO5SiSn,MgSiSnO5,MgSiSnO5,Mg Si Sn O,9,16956,Mg Si Sn,0,5,False
+C,CaHf2O6Sr,SrCaHf2O6,Hf2CaSrO6,Hf Ca Sr O,3,6,Ca Hf Sr,1,2,True
+C,Al2BaO6Sn,BaAl2SnO6,Al2BaSnO6,Al Ba Sn O,4,2681,Al Ba Sn,1,3,False
+C,O6SiSrTi2,SrTi2SiO6,Ti2SiSrO6,Ti Si Sr O,3,13802,Si Sr Ti,1,2,False
+C,BaO6Sc2Si,BaSc2SiO6,Sc2BaSiO6,Sc Ba Si O,1,18417,Ba Sc Si,1,1,False
+C,CaO7Si2Ti,CaTiSi2O7,Si2CaTiO7,Si Ca Ti O,2,3563,Ca Si Ti,3,1,False
+C,MgO6Si2Sr,SrMg(SiO3)2,Si2MgSrO6,Si Mg Sr O,3,10304,Mg Si Sr,3,2,False
+C,O7Si2SrTi,SrTiSi2O7,Si2SrTiO7,Si Sr Ti O,2,17860,Si Sr Ti,3,2,False
+C,Ga2O6SrTi,SrTi(GaO3)2,Ga2SrTiO6,Ga Sr Ti O,1,12193,Ga Sr Ti,4,1,False

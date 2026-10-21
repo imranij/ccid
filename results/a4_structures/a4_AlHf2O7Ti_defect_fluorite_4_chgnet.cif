@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Hf2TiAlO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04941548
+_cell_length_b   5.04918312
+_cell_length_c   4.97730328
+_cell_angle_alpha   93.23082066
+_cell_angle_beta   86.73209654
+_cell_angle_gamma   86.82668490
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2TiAlO7
+_chemical_formula_sum   'Hf2 Ti1 Al1 O7'
+_cell_volume   126.27219710
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00917170  0.01020384  0.01064871  1
+  Al  Al1  1  0.05934642  0.44033584  0.45450277  1
+  Ti  Ti2  1  0.49885543  0.00138798  0.49733571  1
+  Hf  Hf3  1  0.48974126  0.49088177  0.01070068  1
+  O  O4  1  0.28963659  0.21018292  0.23578497  1
+  O  O5  1  0.19115703  0.30900797  0.75181559  1
+  O  O6  1  0.19185635  0.71025919  0.27904086  1
+  O  O7  1  0.33002192  0.79483775  0.77757895  1
+  O  O8  1  0.78951932  0.30796960  0.27894001  1
+  O  O9  1  0.70544758  0.17026860  0.77744868  1
+  O  O10  1  0.69524650  0.80466448  0.17620305  1

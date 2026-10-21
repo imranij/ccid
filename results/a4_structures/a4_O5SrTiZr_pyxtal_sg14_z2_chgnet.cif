@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SrZrTiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64503123
+_cell_length_b   6.03850241
+_cell_length_c   6.66589796
+_cell_angle_alpha   89.08827837
+_cell_angle_beta   99.80897566
+_cell_angle_gamma   90.00327196
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrZrTiO5
+_chemical_formula_sum   'Sr2 Zr2 Ti2 O10'
+_cell_volume   263.53157197
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.10684410  -0.13302292  0.53134092  1
+  O  O1  1  0.10541930  0.64307136  0.03766581  1
+  O  O2  1  0.67313446  0.65150535  0.67405071  1
+  O  O3  1  -0.63837080  1.38903033  -0.18216273  1
+  O  O4  1  -0.66073923  -0.90391632  -0.71925243  1
+  O  O5  1  0.65634532  -0.15102524  1.18717091  1
+  O  O6  1  0.64611405  0.36220153  0.14406642  1
+  O  O7  1  0.37162130  0.57127365  0.38531741  1
+  O  O8  1  0.38412859  0.91470688  0.86976676  1
+  O  O9  1  0.64066813  0.13959657  0.62328250  1
+  Sr  Sr10  1  -0.05224944  -0.07147415  -0.18746946  1
+  Sr  Sr11  1  -0.05682965  0.57759668  0.32013830  1
+  Ti  Ti12  1  0.50780735  0.09903820  0.09737658  1
+  Ti  Ti13  1  0.51499091  0.40876228  0.61651972  1
+  Zr  Zr14  1  0.40026592  -0.11270190  0.54275049  1
+  Zr  Zr15  1  0.40084967  0.61535771  0.05943813  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrSc2SiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41323525
+_cell_length_b   5.20287985
+_cell_length_c   6.86767261
+_cell_angle_alpha   82.14425967
+_cell_angle_beta   55.30315702
+_cell_angle_gamma   92.02591349
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSc2SiO6
+_chemical_formula_sum   'Sr1 Sc2 Si1 O6'
+_cell_volume   184.82798912
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.57541526  0.50494912  0.51190602  1
+  O  O1  1  -0.29828080  0.73282295  1.07034168  1
+  O  O2  1  0.84529222  0.03149936  0.52349144  1
+  O  O3  1  0.39122460  0.19548495  0.96608384  1
+  O  O4  1  0.37604577  0.94159745  0.46796577  1
+  O  O5  1  0.22250338  0.49344592  0.41960116  1
+  Sc  Sc6  1  0.50356728  0.12476309  0.64690350  1
+  Sc  Sc7  1  1.21578532  1.15399184  0.31311919  1
+  Si  Si8  1  0.48658309  0.66903185  0.35383264  1
+  Sr  Sr9  1  0.78420020  0.57408895  0.73611515  1

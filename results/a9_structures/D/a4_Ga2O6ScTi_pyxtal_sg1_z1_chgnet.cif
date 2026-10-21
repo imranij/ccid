@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ScTi(GaO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71531164
+_cell_length_b   6.34807932
+_cell_length_c   5.86077467
+_cell_angle_alpha   117.65307443
+_cell_angle_beta   77.30610093
+_cell_angle_gamma   99.13941086
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTi(GaO3)2
+_chemical_formula_sum   'Sc1 Ti1 Ga2 O6'
+_cell_volume   119.18639864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.48496542  0.75520206  0.50294944  1
+  Ga  Ga1  1  0.15600150  0.21116507  0.46300050  1
+  O  O2  1  -0.02254799  0.79621829  0.63973938  1
+  O  O3  1  0.77926775  0.53360195  0.91438071  1
+  O  O4  1  0.99619977  0.81233776  0.63982663  1
+  O  O5  1  0.48924018  0.46546705  0.53914376  1
+  O  O6  1  0.53567379  0.90151589  0.25645113  1
+  O  O7  1  0.11492113  0.22815287  0.83676182  1
+  Sc  Sc8  1  0.56870920  0.22779729  0.92545711  1
+  Ti  Ti9  1  0.31725293  0.66123388  -0.06839509  1

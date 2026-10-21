@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaSr2CaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91880135
+_cell_length_b   6.95360204
+_cell_length_c   7.15003147
+_cell_angle_alpha   90.95431585
+_cell_angle_beta   88.32147835
+_cell_angle_gamma   91.31766207
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSr2CaO4
+_chemical_formula_sum   'Ba2 Sr4 Ca2 O8'
+_cell_volume   343.70975106
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.43525009  -0.02638667  0.03116940  1
+  Ba  Ba1  1  0.43488287  0.51346723  0.46038230  1
+  Ca  Ca2  1  0.61228798  -0.00723073  0.55590479  1
+  Ca  Ca3  1  0.57135424  0.46002304  -0.05784849  1
+  O  O4  1  -0.06134686  0.01782186  0.52260121  1
+  O  O5  1  -0.10360241  0.46492555  0.00163799  1
+  O  O6  1  0.45832713  0.23759318  0.72387407  1
+  O  O7  1  -0.40776498  0.74412745  -0.23383020  1
+  O  O8  1  -0.40362298  -0.19529846  -0.70649890  1
+  O  O9  1  0.37221064  0.32509161  1.16263810  1
+  O  O10  1  0.04955893  -0.02616786  0.00985482  1
+  O  O11  1  0.05219206  0.51088019  0.50685320  1
+  Sr  Sr12  1  1.07746616  0.24210956  0.75819599  1
+  Sr  Sr13  1  -0.04910211  0.73734758  0.76081063  1
+  Sr  Sr14  1  -0.06435410  0.74762499  0.25691653  1
+  Sr  Sr15  1  1.02626348  0.25407144  0.24733835  1

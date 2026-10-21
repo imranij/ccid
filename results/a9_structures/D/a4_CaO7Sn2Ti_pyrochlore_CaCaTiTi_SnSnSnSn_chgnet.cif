@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CaTiSn2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30492513
+_cell_length_b   7.24656870
+_cell_length_c   7.30492539
+_cell_angle_alpha   60.26391812
+_cell_angle_beta   59.69743166
+_cell_angle_gamma   60.26391788
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTiSn2O7
+_chemical_formula_sum   'Ca2 Ti2 Sn4 O14'
+_cell_volume   273.87931160
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.12497267  0.12499331  0.12504848  1
+  Ti  Ti1  1  0.12506011  0.12511300  0.62515105  1
+  Ca  Ca2  1  0.12498515  0.62500340  0.12500638  1
+  Ti  Ti3  1  0.62486155  0.12505250  0.12497057  1
+  Sn  Sn4  1  0.62499344  0.62499476  0.62499818  1
+  Sn  Sn5  1  0.62500448  0.62499336  0.12500341  1
+  Sn  Sn6  1  0.62501666  0.12498699  0.62499399  1
+  Sn  Sn7  1  0.12499374  0.62501397  0.62499538  1
+  O  O8  1  0.54762584  0.97784990  0.97124050  1
+  O  O9  1  0.97123782  0.50329951  0.54762519  1
+  O  O10  1  0.96572814  0.53427668  0.96571117  1
+  O  O11  1  0.55009375  0.94990188  0.55008997  1
+  O  O12  1  0.97119846  0.97778797  0.54760493  1
+  O  O13  1  0.54763516  0.50328988  0.97123458  1
+  O  O14  1  0.69991077  0.30008513  0.69990599  1
+  O  O15  1  0.28428979  0.71571505  0.28427308  1
+  O  O16  1  0.27877488  0.74667621  0.70237510  1
+  O  O17  1  0.70237554  0.27218563  0.27877774  1
+  O  O18  1  0.27873418  0.27212315  0.70235468  1
+  O  O19  1  0.70238476  0.74666725  0.27877147  1
+  O  O20  1  -0.04195349  0.04200974  -0.04207964  1
+  O  O21  1  0.29207657  0.20798074  0.29194778  1

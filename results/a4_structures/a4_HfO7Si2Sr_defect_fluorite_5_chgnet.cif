@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_SrHfSi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05157037
+_cell_length_b   5.79648936
+_cell_length_c   5.29650734
+_cell_angle_alpha   79.22034221
+_cell_angle_beta   98.09648187
+_cell_angle_gamma   93.92604096
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrHfSi2O7
+_chemical_formula_sum   'Sr1 Hf1 Si2 O7'
+_cell_volume   150.69210101
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.10580818  0.09444364  -0.13623666  1
+  Si  Si1  1  -0.04259119  0.51079506  0.44694609  1
+  Hf  Hf2  1  0.55593370  -0.00334561  0.45952087  1
+  Sr  Sr3  1  0.48069286  0.57547126  -0.00338034  1
+  O  O4  1  0.30056225  0.11071749  0.13450159  1
+  O  O5  1  0.09700177  0.38570080  0.73995115  1
+  O  O6  1  0.18156606  0.63465552  0.27886107  1
+  O  O7  1  0.27425969  0.95955776  0.69283082  1
+  O  O8  1  0.77065396  0.29506796  0.33694892  1
+  O  O9  1  0.79891639  -0.01110569  0.83926941  1
+  O  O10  1  0.72719664  0.69804176  0.46078720  1

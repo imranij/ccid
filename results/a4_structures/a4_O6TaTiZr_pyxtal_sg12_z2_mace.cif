@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_ZrTaTiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47759737
+_cell_length_b   8.28279543
+_cell_length_c   5.34872591
+_cell_angle_alpha   90.33887667
+_cell_angle_beta   69.34453897
+_cell_angle_gamma   90.01902924
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTaTiO6
+_chemical_formula_sum   'Zr2 Ta2 Ti2 O12'
+_cell_volume   227.06712003
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.88790690  0.57633508  0.03529363  1
+  Zr  Zr1  1  0.38688879  0.92371875  0.03612442  1
+  Ta  Ta2  1  0.09229943  0.34475769  0.40280841  1
+  Ta  Ta3  1  0.59190649  0.15612847  0.40741480  1
+  Ti  Ti4  1  0.99089460  0.91893773  0.71371415  1
+  Ti  Ti5  1  0.49138803  0.58139690  0.71229407  1
+  O  O6  1  0.73174822  0.99989134  0.12402886  1
+  O  O7  1  0.33207660  0.03808953  0.70404271  1
+  O  O8  1  0.23248497  0.50004628  0.12215078  1
+  O  O9  1  0.83168762  0.46176779  0.70344248  1
+  O  O10  1  0.84431746  0.12988363  0.58671000  1
+  O  O11  1  0.32312857  0.16565306  0.21300917  1
+  O  O12  1  0.11694843  0.84969524  0.37324734  1
+  O  O13  1  0.68006447  0.75428580  0.84795795  1
+  O  O14  1  0.17988561  0.74547061  0.84794878  1
+  O  O15  1  0.61677707  0.65004796  0.37311251  1
+  O  O16  1  0.82429161  0.33371953  0.21176419  1
+  O  O17  1  0.34530486  0.37017463  0.58493584  1

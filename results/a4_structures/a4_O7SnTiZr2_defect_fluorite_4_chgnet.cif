@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Zr2TiSnO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08244750
+_cell_length_b   5.26607037
+_cell_length_c   5.08244641
+_cell_angle_alpha   89.31120708
+_cell_angle_beta   93.12583419
+_cell_angle_gamma   89.31126630
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2TiSnO7
+_chemical_formula_sum   'Zr2 Ti1 Sn1 O7'
+_cell_volume   135.80612286
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.05565603  -0.01608535  0.05565642  1
+  Zr  Zr1  1  0.01842285  0.48568245  0.48724908  1
+  Sn  Sn2  1  0.53843368  -0.00233541  0.53843313  1
+  Zr  Zr3  1  0.48724872  0.48568282  0.01842290  1
+  O  O4  1  0.27467561  0.24481589  0.27467550  1
+  O  O5  1  0.18091782  0.20885636  0.78324473  1
+  O  O6  1  0.27612715  0.75217166  0.27612687  1
+  O  O7  1  0.17689552  0.71459076  0.79168314  1
+  O  O8  1  0.78324532  0.20885718  0.18091857  1
+  O  O9  1  0.66669459  0.45317206  0.66669457  1
+  O  O10  1  0.79168277  0.71459159  0.17689503  1

@@ -1,0 +1,8 @@
+source_dataset,formula,stability_metric,stability_metric_type,band_gap,direct_gap,stability_known,stability_utility,gap_utility,direct_gap_utility,candidate_score,excluded_elements,process_risk_elements
+castelli_perovskites,BaHfO3,-0.26,e_form,6.7,0,1,0.87248322147651,0.7762225217344763,0.0,0.8243528716054931,,
+castelli_perovskites,SrHfO3,-0.16,e_form,6.9,0,1,0.8389261744966443,0.8034583996900719,0.0,0.8211922870933581,,
+castelli_perovskites,CaHfO3,0.02,e_form,7.0,0,1,0.7785234899328859,0.8170763386678697,0.0,0.7977999143003778,,
+castelli_perovskites,BaZrO3,-0.28,e_form,6.2,0,1,0.8791946308724832,0.7081328268454871,0.0,0.7936637288589852,,
+castelli_perovskites,NaTaO3,-0.58,e_form,4.6,0,1,0.9798657718120805,0.49024580320072175,0.0,0.7350557875064011,,
+castelli_perovskites,KTaO3,-0.64,e_form,4.4,0,1,1.0,0.4630099252451262,0.0,0.7315049626225631,,
+castelli_perovskites,LiTaO3,-0.32,e_form,4.7,0,1,0.8926174496644295,0.5038637421785197,0.0,0.6982405959214746,,

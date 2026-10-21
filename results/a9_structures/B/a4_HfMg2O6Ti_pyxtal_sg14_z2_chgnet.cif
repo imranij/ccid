@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HfMg2TiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.37743730
+_cell_length_b   6.38082209
+_cell_length_c   5.59466215
+_cell_angle_alpha   87.82935938
+_cell_angle_beta   104.58018149
+_cell_angle_gamma   95.71922763
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfMg2TiO6
+_chemical_formula_sum   'Hf2 Mg4 Ti2 O12'
+_cell_volume   287.96526417
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.47598464  -0.00139434  0.53000106  1
+  Hf  Hf1  1  0.53366661  0.46875227  -0.20157867  1
+  Mg  Mg2  1  0.07673864  0.41718041  0.83122969  1
+  Mg  Mg3  1  -0.09104412  0.87562185  -0.26854327  1
+  Mg  Mg4  1  -0.06710896  -0.38687160  -0.74561257  1
+  Mg  Mg5  1  0.04334957  0.14580225  1.31773057  1
+  O  O6  1  -0.11636947  -0.09985895  0.36619099  1
+  O  O7  1  0.00792236  0.66175807  -0.04934242  1
+  O  O8  1  0.25751050  1.05450188  0.44287747  1
+  O  O9  1  0.67634447  0.54681820  1.13687191  1
+  O  O10  1  0.67222465  -0.19770917  0.77872474  1
+  O  O11  1  0.34315225  0.45321156  -0.02143940  1
+  O  O12  1  0.56334471  0.15094997  0.88054544  1
+  O  O13  1  0.39732449  0.65359145  0.52416105  1
+  O  O14  1  0.54591799  0.87813637  0.24016607  1
+  O  O15  1  0.55292718  0.33174503  0.47284526  1
+  O  O16  1  -0.08987150  0.12309877  -0.03906261  1
+  O  O17  1  0.01242558  0.39152256  0.48013683  1
+  Ti  Ti18  1  0.71987419  -0.03206183  0.06039454  1
+  Ti  Ti19  1  0.48568633  0.56520531  0.26370322  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La2MgZrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56984639
+_cell_length_b   8.25417584
+_cell_length_c   7.20956201
+_cell_angle_alpha   99.95282612
+_cell_angle_beta   32.46717256
+_cell_angle_gamma   101.18061102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2MgZrO6
+_chemical_formula_sum   'La2 Mg1 Zr1 O6'
+_cell_volume   174.52709174
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.44758823  0.75626701  0.27763589  1
+  La  La1  1  0.39930590  0.50099756  0.81399677  1
+  Mg  Mg2  1  0.63886572  0.14684370  0.32025501  1
+  O  O3  1  -0.11489013  0.95576170  0.24205302  1
+  O  O4  1  0.17429024  1.03600198  0.44127774  1
+  O  O5  1  1.13185458  0.50025976  0.28888808  1
+  O  O6  1  0.63950245  0.76831539  0.82476978  1
+  O  O7  1  0.30667841  1.19121163  0.79165316  1
+  O  O8  1  0.25288428  0.71687020  0.73067591  1
+  Zr  Zr9  1  0.57071265  -0.04678340  -0.29556577  1

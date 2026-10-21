@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_HfSc2SiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52757173
+_cell_length_b   7.95889078
+_cell_length_c   5.81232367
+_cell_angle_alpha   90.00039188
+_cell_angle_beta   89.75885842
+_cell_angle_gamma   90.00068951
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSc2SiO7
+_chemical_formula_sum   'Hf2 Sc4 Si2 O14'
+_cell_volume   301.96050413
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.34013517  0.03056138  0.89415865  1
+  Hf  Hf1  1  -0.34013576  0.53055124  -0.89415724  1
+  O  O2  1  0.81698462  0.36646951  0.28535278  1
+  O  O3  1  0.18301310  0.86646795  0.71465264  1
+  O  O4  1  0.58647522  0.41881668  0.82744881  1
+  O  O5  1  0.41352991  0.91883753  0.17256457  1
+  O  O6  1  0.09799584  0.67769761  0.26601401  1
+  O  O7  1  0.90201044  0.17769908  0.73398133  1
+  O  O8  1  0.05509963  0.48893478  0.67319278  1
+  O  O9  1  0.94489906  0.98892368  0.32680663  1
+  O  O10  1  0.20061937  0.26143795  1.01962957  1
+  O  O11  1  0.79937033  0.76142984  -0.01963505  1
+  O  O12  1  0.57294224  1.01570391  0.67696490  1
+  O  O13  1  0.42705331  0.51571414  0.32302581  1
+  O  O14  1  0.28244034  0.23524486  0.57917683  1
+  O  O15  1  0.71755702  0.73524355  0.42082063  1
+  Sc  Sc16  1  0.37475945  0.77332981  0.43292216  1
+  Sc  Sc17  1  0.62524840  0.27331856  0.56707664  1
+  Sc  Sc18  1  0.86747411  0.92029034  0.66774819  1
+  Sc  Sc19  1  0.13252888  0.42029459  0.33224676  1
+  Si  Si20  1  0.89886279  0.80362829  0.23592970  1
+  Si  Si21  1  0.10113658  0.30361654  0.76407906  1

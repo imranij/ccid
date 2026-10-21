@@ -1,0 +1,18 @@
+% Table A2-5: diversity / mode-concentration sweeps
+\begin{tabular}{llccccc}
+\toprule
+Sweep & Setting & Validity & Unique valid & per 1{,}000 valid & Element entropy (bits) & Stoich. classes \\
+\midrule
+Latent $\sigma$ & 0.08 & 0.2631 & 43.3 & 8.2 & 3.12 & 12.0 \\
+Latent $\sigma$ & 0.3 & 0.2696 & 47.0 & 8.7 & 3.15 & 12.0 \\
+Latent $\sigma$ & 0.5 & 0.2811 & 51.0 & 9.1 & 3.17 & 12.0 \\
+Latent $\sigma$ & 1 & 0.3298 & 69.3 & 10.5 & 3.16 & 12.0 \\
+Latent $\sigma$ & 2 & 0.4094 & 130.0 & 15.9 & 3.06 & 18.7 \\
+\midrule
+Condition jitter & 0.08 & 0.2215 & 7.7 & 1.7 & 1.85 & 4.0 \\
+Condition jitter & 0.3 & 0.3298 & 69.3 & 10.5 & 3.16 & 12.0 \\
+Condition jitter & 0.5 & 0.3084 & 71.0 & 11.5 & 3.30 & 12.3 \\
+Condition jitter & 1 & 0.1996 & 60.0 & 15.0 & 3.18 & 12.7 \\
+\bottomrule
+\end{tabular}
+\vspace{0.3em}\footnotesize{Decoder reachability: the top-3-cation / max-count-4 / oxygen-1--12 decoder can emit 129,205 distinct charge-balanced whitelist formulas. The CVAE reaches 68 of them (0.05\%) in 20{,}000 samples; uniform random element selection through the same decoder reaches 11,744 (9.1\%).}

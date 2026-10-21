@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HfGa2SnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25070446
+_cell_length_b   6.56688347
+_cell_length_c   7.49159323
+_cell_angle_alpha   90.50645921
+_cell_angle_beta   69.40591646
+_cell_angle_gamma   88.43332912
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfGa2SnO6
+_chemical_formula_sum   'Hf2 Ga4 Sn2 O12'
+_cell_volume   287.69739222
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.54495791  0.12837844  0.50482596  1
+  Ga  Ga1  1  0.65376085  0.44172227  -0.01886243  1
+  Ga  Ga2  1  0.03661709  -0.01712253  0.48428894  1
+  Ga  Ga3  1  0.09984718  0.44388174  0.04932926  1
+  Hf  Hf4  1  -0.09018817  -0.08372950  0.01133277  1
+  Hf  Hf5  1  0.03486744  0.46361119  0.51003796  1
+  O  O6  1  0.86352963  0.26967998  0.04241644  1
+  O  O7  1  -0.78849349  0.73108856  0.46384299  1
+  O  O8  1  -0.84146029  -0.30598657  -0.07889594  1
+  O  O9  1  0.82332177  0.21942938  0.49779834  1
+  O  O10  1  0.95112212  0.55490914  0.29250283  1
+  O  O11  1  0.09100705  0.98025982  0.19630172  1
+  O  O12  1  -0.19167226  0.54140319  0.74914255  1
+  O  O13  1  0.92814518  -0.01867978  0.75927555  1
+  O  O14  1  0.61659839  0.86920327  0.54619170  1
+  O  O15  1  0.38337391  0.31782569  1.00629626  1
+  O  O16  1  0.27600330  0.21051694  0.47310919  1
+  O  O17  1  0.64456502  0.70796823  0.11832232  1
+  Sn  Sn18  1  0.40861072  -0.06674029  -0.03261226  1
+  Sn  Sn19  1  0.55548671  0.61238075  0.42535603  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sc2TiAlO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.25998137
+_cell_length_b   9.32672385
+_cell_length_c   11.88933348
+_cell_angle_alpha   89.99999176
+_cell_angle_beta   68.95764233
+_cell_angle_gamma   90.00000694
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2TiAlO6
+_chemical_formula_sum   'Sc4 Ti2 Al2 O12'
+_cell_volume   337.38836500
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.62777740  0.65483317  0.86479678  1
+  Al  Al1  1  -0.62777709  1.15483278  -0.86479693  1
+  O  O2  1  0.49556132  0.83516955  0.85601384  1
+  O  O3  1  0.50443843  0.33516951  0.14398633  1
+  O  O4  1  0.35658446  0.57376747  0.00797804  1
+  O  O5  1  0.64341523  0.07376754  0.99202184  1
+  O  O6  1  0.31477607  0.79680954  0.62309284  1
+  O  O7  1  0.68522406  0.29680923  0.37690707  1
+  O  O8  1  1.01203489  0.03710890  0.50025631  1
+  O  O9  1  -0.01203474  0.53710889  0.49974380  1
+  O  O10  1  0.32461869  0.05525192  0.26183733  1
+  O  O11  1  0.67538186  0.55525199  0.73816260  1
+  O  O12  1  0.60325475  0.58521135  0.24043038  1
+  O  O13  1  0.39674436  0.08521138  0.75956956  1
+  Sc  Sc14  1  0.65484972  1.08189786  0.38958262  1
+  Sc  Sc15  1  0.34515077  0.58189784  0.61041735  1
+  Sc  Sc16  1  1.22740176  0.42262990  0.35121817  1
+  Sc  Sc17  1  -0.22740176  0.92263003  0.64878191  1
+  Ti  Ti18  1  0.74593181  0.51655445  0.09541480  1
+  Ti  Ti19  1  0.25406802  0.01655453  0.90458539  1

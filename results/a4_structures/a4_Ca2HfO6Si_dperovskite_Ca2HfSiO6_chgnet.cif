@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2HfSiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45882505
+_cell_length_b   5.45882520
+_cell_length_c   5.45882497
+_cell_angle_alpha   60.00000391
+_cell_angle_beta   60.00000387
+_cell_angle_gamma   60.00000666
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2HfSiO6
+_chemical_formula_sum   'Ca2 Hf1 Si1 O6'
+_cell_volume   115.02244160
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.24999990  0.25000015  0.25000032  1
+  Ca  Ca1  1  0.74999958  0.75000025  0.75000036  1
+  Hf  Hf2  1  -0.00000007  0.00000028  0.00000013  1
+  Si  Si3  1  0.49999998  0.49999997  0.50000005  1
+  O  O4  1  0.73396724  0.26603266  0.26603272  1
+  O  O5  1  0.26603262  0.73396743  0.73396705  1
+  O  O6  1  0.26603324  0.73396724  0.26603215  1
+  O  O7  1  0.73396772  0.26603262  0.73396710  1
+  O  O8  1  0.26603244  0.26603253  0.73396737  1
+  O  O9  1  0.73396734  0.73396687  0.26603277  1

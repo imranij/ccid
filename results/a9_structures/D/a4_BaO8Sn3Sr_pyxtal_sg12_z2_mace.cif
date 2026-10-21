@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaSrSn3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.77486401
+_cell_length_b   6.96449236
+_cell_length_c   10.23582274
+_cell_angle_alpha   83.20827702
+_cell_angle_beta   38.24357734
+_cell_angle_gamma   84.69813120
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrSn3O8
+_chemical_formula_sum   'Ba2 Sr2 Sn6 O16'
+_cell_volume   515.94621422
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.73171331  0.49675430  0.37895357  1
+  Ba  Ba1  1  0.49700059  0.98189411  0.06294537  1
+  Sr  Sr2  1  0.01403053  0.74842490  0.42109287  1
+  Sr  Sr3  1  0.26528678  0.51514763  0.58912456  1
+  Sn  Sn4  1  0.74904379  0.31624511  0.05445753  1
+  Sn  Sn5  1  0.30152843  0.73762912  0.90012064  1
+  Sn  Sn6  1  0.25024680  0.23919003  0.00788590  1
+  Sn  Sn7  1  0.89222347  0.83981578  0.88053976  1
+  Sn  Sn8  1  0.08530788  0.04754903  0.92199847  1
+  Sn  Sn9  1  0.45500124  0.49952327  0.02299410  1
+  O  O10  1  0.83151669  0.84481379  0.75132935  1
+  O  O11  1  0.19010844  0.02186604  0.20134006  1
+  O  O12  1  0.37164544  0.54299736  0.72083934  1
+  O  O13  1  0.55435825  0.35474022  0.35737491  1
+  O  O14  1  0.14688364  0.86686933  0.72081286  1
+  O  O15  1  1.02575129  0.80857004  0.11291153  1
+  O  O16  1  0.01861025  0.25266314  0.10595643  1
+  O  O17  1  0.02884713  0.24697620  0.81582095  1
+  O  O18  1  0.50171817  0.28513443  0.85925766  1
+  O  O19  1  0.65996515  0.36174353  -0.05313730  1
+  O  O20  1  0.30958206  0.62484686  0.28785910  1
+  O  O21  1  0.52699281  0.72988426  0.82330695  1
+  O  O22  1  0.34020257  1.03591560  0.78821262  1
+  O  O23  1  0.85004355  0.57958564  1.01406115  1
+  O  O24  1  0.70751076  0.01315511  0.11490612  1
+  O  O25  1  0.19488087  0.50806528  0.13903549  1

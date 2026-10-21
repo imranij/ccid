@@ -1,0 +1,25 @@
+{
+  "n_samples": 20000,
+  "frac_samples_with_nonwhitelist_element": 0.1652,
+  "n_flagged_risk_elements_present": 108,
+  "status_breakdown_of_nonwhitelist_samples": {
+    "no charge-balanced oxygen count found": 3196,
+    "risk elements present": 108
+  },
+  "nonwhitelist_element_counts": {
+    "Ac": 2184,
+    "Pa": 1646,
+    "Eu": 820,
+    "V": 174,
+    "F": 134,
+    "N": 133,
+    "Np": 129,
+    "S": 117,
+    "Cs": 79,
+    "Mn": 15,
+    "Tl": 9,
+    "Rb": 7,
+    "Cr": 7,
+    "Hg": 1
+  }
+}

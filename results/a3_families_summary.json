@@ -1,0 +1,10 @@
+{
+  "n_unique_valid_formulas": 66,
+  "n_substitution_families": 46,
+  "family_size_distribution": {
+    "1": 32,
+    "2": 12,
+    "4": 1,
+    "6": 1
+  }
+}

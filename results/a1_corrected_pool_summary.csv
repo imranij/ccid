@@ -1,0 +1,4 @@
+source_dataset,candidates,stability_known,mean_band_gap,max_band_gap,mean_candidate_score,max_candidate_score
+double_perovskites_gap,1048,0,4.152278363295802,8.343255111,0.46463767196197314,0.75
+wolverton_oxides,444,444,2.393015765765766,6.221,0.40131569394378197,0.7569280150770863
+castelli_perovskites,398,398,2.617713567839196,7.0,0.4135542301792026,0.8243528716054931

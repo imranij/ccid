@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_HfZrTiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65085056
+_cell_length_b   10.76488608
+_cell_length_c   5.46723545
+_cell_angle_alpha   90.02322583
+_cell_angle_beta   127.91404709
+_cell_angle_gamma   90.03072180
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZrTiO6
+_chemical_formula_sum   'Hf2 Zr2 Ti2 O12'
+_cell_volume   308.81225644
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  -0.00056724  0.02486348  0.50144172  1
+  Hf  Hf1  1  0.50035442  0.48560836  0.50392520  1
+  O  O2  1  0.22203341  0.12761150  0.45394410  1
+  O  O3  1  -0.22249565  0.12732094  -0.45486413  1
+  O  O4  1  -0.27860376  -0.11413537  -0.56993877  1
+  O  O5  1  0.28395229  -0.11333048  0.56839695  1
+  O  O6  1  0.80840174  0.62039592  0.61792317  1
+  O  O7  1  0.19315425  0.62117912  -0.61555247  1
+  O  O8  1  0.20471992  0.38738325  -0.59198287  1
+  O  O9  1  0.79165562  0.38588811  0.59110912  1
+  O  O10  1  0.72404822  -0.00109792  1.00219581  1
+  O  O11  1  0.27553934  -0.00285067  -0.00312043  1
+  O  O12  1  0.27713599  0.49660246  1.00671328  1
+  O  O13  1  0.72513985  0.49670858  -0.00477556  1
+  Ti  Ti14  1  0.00381777  0.54701672  0.00267039  1
+  Ti  Ti15  1  0.50100163  -0.10215590  -0.00056005  1
+  Zr  Zr16  1  -0.00742543  0.48348806  0.49346472  1
+  Zr  Zr17  1  0.49813756  0.02950387  0.49900974  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sc2AlGaO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23720141
+_cell_length_b   5.23720059
+_cell_length_c   5.23720150
+_cell_angle_alpha   59.99999517
+_cell_angle_beta   59.99999930
+_cell_angle_gamma   59.99997815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2AlGaO6
+_chemical_formula_sum   'Sc2 Al1 Ga1 O6'
+_cell_volume   101.57402918
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.25020769  0.25000443  0.24990105  1
+  Sc  Sc1  1  0.75020683  0.75001760  0.74989650  1
+  Al  Al2  1  0.50034792  0.50001446  0.49982898  1
+  Ga  Ga3  1  0.00029940  0.00001315  -0.00014762  1
+  O  O4  1  0.74478839  0.25487797  0.25509762  1
+  O  O5  1  0.25476781  0.74490672  0.74506791  1
+  O  O6  1  0.25478122  0.74486898  0.25524720  1
+  O  O7  1  0.74482168  0.25495104  0.74520575  1
+  O  O8  1  0.25492424  0.25513853  0.74498657  1
+  O  O9  1  0.74485478  0.74520713  0.25491603  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HfMg2ZrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79335071
+_cell_length_b   5.79335114
+_cell_length_c   5.79335072
+_cell_angle_alpha   60.00000061
+_cell_angle_beta   59.99999966
+_cell_angle_gamma   59.99999999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfMg2ZrO6
+_chemical_formula_sum   'Hf1 Mg2 Zr1 O6'
+_cell_volume   137.49107122
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.50000009  0.49999975  0.50000004  1
+  Mg  Mg1  1  0.24999994  0.24999997  0.24999999  1
+  Mg  Mg2  1  0.75000051  0.75000002  0.75000001  1
+  Zr  Zr3  1  -0.00000009  0.00000007  0.00000005  1
+  O  O4  1  0.74796598  0.25203416  0.25203405  1
+  O  O5  1  0.25203403  0.74796609  0.74796574  1
+  O  O6  1  0.25203405  0.74796570  0.25203418  1
+  O  O7  1  0.74796590  0.25203394  0.74796596  1
+  O  O8  1  0.25203383  0.25203432  0.74796578  1
+  O  O9  1  0.74796576  0.74796599  0.25203419  1

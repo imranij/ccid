@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ga2SiSnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.32441776
+_cell_length_b   3.41791141
+_cell_length_c   8.74109329
+_cell_angle_alpha   123.45248835
+_cell_angle_beta   82.83309480
+_cell_angle_gamma   57.18703093
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2SiSnO6
+_chemical_formula_sum   'Ga2 Si1 Sn1 O6'
+_cell_volume   155.69874348
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  -0.18089612  0.87758550  1.18174231  1
+  Ga  Ga1  1  0.39142160  0.53759514  0.20829631  1
+  O  O2  1  0.93976872  0.15566963  0.15271173  1
+  O  O3  1  0.87953971  0.11217032  0.41305446  1
+  O  O4  1  0.44900141  0.73919249  0.05674482  1
+  O  O5  1  0.10052600  0.32674350  0.44520804  1
+  O  O6  1  0.53331806  0.52512596  0.34513926  1
+  O  O7  1  0.62596698  0.31061645  0.63760552  1
+  Si  Si8  1  0.90338260  0.59580096  0.42720096  1
+  Sn  Sn9  1  0.42392516  0.27804571  0.75070837  1

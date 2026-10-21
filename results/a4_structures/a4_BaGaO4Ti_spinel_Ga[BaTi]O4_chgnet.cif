@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaTiGaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57752628
+_cell_length_b   6.57752681
+_cell_length_c   6.60127688
+_cell_angle_alpha   59.88048124
+_cell_angle_beta   59.88047980
+_cell_angle_gamma   60.58555343
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTiGaO4
+_chemical_formula_sum   'Ba2 Ti2 Ga2 O8'
+_cell_volume   202.45535826
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.72312638  0.72312644  0.77687357  1
+  Ga  Ga1  1  0.52687353  0.52687368  0.47312641  1
+  Ba  Ba2  1  0.12499998  0.12499999  0.12500009  1
+  Ba  Ba3  1  0.12499996  0.12500001  0.62499998  1
+  Ti  Ti4  1  0.12499992  0.62500003  0.12499994  1
+  Ti  Ti5  1  0.62499989  0.12500009  0.12500008  1
+  O  O6  1  0.84829847  0.84829855  0.89913370  1
+  O  O7  1  0.84829838  0.84829848  0.40426911  1
+  O  O8  1  0.80216331  0.37195359  0.91294154  1
+  O  O9  1  0.37195362  0.80216338  0.91294157  1
+  O  O10  1  0.40170162  0.40170153  0.84573097  1
+  O  O11  1  0.40170183  0.40170134  0.35086600  1
+  O  O12  1  0.44783665  0.87804637  0.33705859  1
+  O  O13  1  0.87804643  0.44783649  0.33705855  1

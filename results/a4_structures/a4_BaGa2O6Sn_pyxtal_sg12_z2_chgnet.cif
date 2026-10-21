@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaGa2SnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66485650
+_cell_length_b   7.74572018
+_cell_length_c   7.21859931
+_cell_angle_alpha   89.89168228
+_cell_angle_beta   71.16725929
+_cell_angle_gamma   90.36204819
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaGa2SnO6
+_chemical_formula_sum   'Ba2 Ga4 Sn2 O12'
+_cell_volume   405.61208763
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  -0.00573433  0.46348646  0.06424688  1
+  Ba  Ba1  1  0.49235979  0.05836716  -0.01681699  1
+  Ga  Ga2  1  -0.16283331  0.72386309  0.69536211  1
+  Ga  Ga3  1  -0.16195104  0.27585499  0.68317246  1
+  Ga  Ga4  1  0.63967679  0.17578716  0.40666591  1
+  Ga  Ga5  1  0.64218017  0.78504838  0.38713288  1
+  O  O6  1  0.24415537  0.25649845  0.00456971  1
+  O  O7  1  0.76722353  0.28254492  -0.05535884  1
+  O  O8  1  0.75247649  0.74614866  -0.04571142  1
+  O  O9  1  0.25573438  0.75527901  0.00111914  1
+  O  O10  1  0.08146303  0.20838904  0.58600027  1
+  O  O11  1  -0.11678414  0.19822192  -0.63390181  1
+  O  O12  1  -0.12287269  -0.16339808  -0.64508481  1
+  O  O13  1  0.06667414  -0.17135082  0.60175937  1
+  O  O14  1  0.62590715  0.65340741  0.62292067  1
+  O  O15  1  0.44103197  0.67671243  -0.62714184  1
+  O  O16  1  0.47088224  0.30081496  -0.65436109  1
+  O  O17  1  0.58968709  0.28552315  0.65806196  1
+  Sn  Sn18  1  0.07267209  0.00988486  0.39875229  1
+  Sn  Sn19  1  0.42805126  0.47891669  0.56861324  1

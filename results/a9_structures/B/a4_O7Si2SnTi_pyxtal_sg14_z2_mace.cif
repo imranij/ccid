@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_TiSi2SnO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47519686
+_cell_length_b   7.42056150
+_cell_length_c   7.87035379
+_cell_angle_alpha   90.39445860
+_cell_angle_beta   87.59611335
+_cell_angle_gamma   90.22382686
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiSi2SnO7
+_chemical_formula_sum   'Ti2 Si4 Sn2 O14'
+_cell_volume   377.82310112
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.52320954  0.86147486  0.98868426  1
+  Ti  Ti1  1  0.52570781  0.63891235  0.48660436  1
+  Si  Si2  1  0.31875882  0.98372292  0.62826358  1
+  Si  Si3  1  0.66384940  0.47854840  0.86182650  1
+  Si  Si4  1  0.66123809  0.02437507  0.36486225  1
+  Si  Si5  1  0.32178867  0.51350827  0.12603113  1
+  Sn  Sn6  1  0.99987169  0.17622938  0.05885062  1
+  Sn  Sn7  1  0.00636571  0.32225635  0.56180960  1
+  O  O8  1  0.61112025  0.49511885  0.65775593  1
+  O  O9  1  0.45110138  0.98474631  0.80376425  1
+  O  O10  1  0.45607677  0.51315085  0.30041709  1
+  O  O11  1  0.60568518  0.00816695  0.16098380  1
+  O  O12  1  0.30417660  0.72780744  0.06877100  1
+  O  O13  1  0.85199886  0.16530953  0.36605904  1
+  O  O14  1  0.85452235  0.33838862  0.86242207  1
+  O  O15  1  0.30430325  0.76938938  0.56737700  1
+  O  O16  1  0.45687397  0.09245206  0.47921105  1
+  O  O17  1  0.45911017  0.40754320  0.97389822  1
+  O  O18  1  0.71161974  0.68649632  0.92851877  1
+  O  O19  1  0.09911766  0.07873219  0.66400149  1
+  O  O20  1  0.10250258  0.41699053  0.16223561  1
+  O  O21  1  0.71101918  0.81668031  0.42765231  1

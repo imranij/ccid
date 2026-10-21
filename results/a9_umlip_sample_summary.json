@@ -1,0 +1,36 @@
+{
+  "reference_cations": [
+    "Al",
+    "Ba",
+    "Ca",
+    "Ga",
+    "Hf",
+    "La",
+    "Mg",
+    "Sc",
+    "Si",
+    "Sn",
+    "Sr",
+    "Ti",
+    "Y",
+    "Zr"
+  ],
+  "seed": 20260913,
+  "pool": "pooled unique valid, seeds 0-4",
+  "C": {
+    "n_unique_valid": 765,
+    "n_eligible": 154,
+    "frac_eligible": 0.20130718954248367,
+    "n_sampled": 50,
+    "n_sampled_in_training": 23,
+    "n_eligible_in_training": 85
+  },
+  "D": {
+    "n_unique_valid": 2135,
+    "n_eligible": 839,
+    "frac_eligible": 0.39297423887587823,
+    "n_sampled": 50,
+    "n_sampled_in_training": 2,
+    "n_eligible_in_training": 47
+  }
+}

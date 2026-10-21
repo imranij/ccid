@@ -1,0 +1,121 @@
+\begin{table}[t]
+\centering
+\small
+\caption{Quality of the CVAE candidate population against random-baseline populations produced by the identical rule-based filter. All values are medians (properties) or percentages of the population. $\hat{E}_g$ and $\hat\varepsilon_0$ are composition-only surrogate predictions; open-shell and reduced-cation fractions are exact electron-counting results, not predictions.}
+\label{tab:a7_overview}
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Population & $n$ & $\hat{E}_g$ & $\hat\varepsilon_0$ & $\hat{E}_{\mathrm{hull}}$ & open-shell & Ti$^{3+}$/Sn$^{2+}$ & gate & Hf/Zr/Al \\
+ & & (eV) & & (eV/at) & (\%) & (\%) & (\%) & (\%) \\
+\midrule
+CVAE & 66 & 1.74 & 17.6 & 0.615 & 27.3 & 36.4 & 63.6 & 53.0 \\
+Random, size-matched ($n=66$) & 66 & 1.66 & 17.0 & 0.557 & 84.8 & 7.6 & 12.1 & 15.2 \\
+Random, training-frequency weighted & 8870 & 1.49 & 16.6 & 0.557 & 62.9 & 13.0 & 31.8 & 25.8 \\
+Random (uniform, 41-el.) & 11744 & 1.69 & 17.4 & 0.551 & 82.1 & 8.3 & 15.9 & 18.7 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[t]
+\centering
+\small
+\caption{Distributional comparison of surrogate-predicted properties and distance-to-training-data. $\delta$ is Cliff's delta (CVAE minus random; $|\delta|<0.147$ negligible, $<0.33$ small, $<0.474$ medium, else large) with a 2{,}000-resample percentile bootstrap 95\,\% CI; $p$ is a two-sided Mann--Whitney $U$ test.}
+\label{tab:a7_continuous}
+\begin{tabular}{llrrrrl}
+\toprule
+Comparison & Axis & med. CVAE & med. random & $\delta$ & 95\,\% CI & $p$ \\
+\midrule
+cvae vs full random pool & predicted band gap (eV) & 1.741 & 1.691 & +0.120 & [-0.011, 0.254] & 0.091 \\
+cvae vs full random pool & predicted eps\_0 (total) & 17.635 & 17.440 & +0.176 & [0.063, 0.287] & 0.014 \\
+cvae vs full random pool & predicted eps\_inf (electronic) & 5.026 & 5.133 & -0.153 & [-0.256, -0.059] & 0.031 \\
+cvae vs full random pool & predicted E\_hull-like (eV/atom) & 0.615 & 0.551 & +0.066 & [-0.095, 0.217] & 0.36 \\
+cvae vs full random pool & predicted E\_form-like (eV/atom) & 0.825 & 0.961 & -0.473 & [-0.551, -0.392] & 3.1e-11 \\
+cvae vs full random pool & composite predicted-property score & 0.563 & 0.565 & +0.072 & [-0.061, 0.220] & 0.31 \\
+cvae vs full random pool & Euclidean distance to nearest training composition & 0.145 & 0.151 & -0.228 & [-0.399, -0.064] & 0.0012 \\
+\midrule
+cvae vs size-matched random (n=66) & predicted band gap (eV) & 1.741 & 1.658 & +0.142 & [-0.050, 0.350] & 0.16 \\
+cvae vs size-matched random (n=66) & predicted eps\_0 (total) & 17.635 & 16.991 & +0.273 & [0.081, 0.465] & 0.0069 \\
+cvae vs size-matched random (n=66) & predicted eps\_inf (electronic) & 5.026 & 5.049 & -0.028 & [-0.235, 0.163] & 0.78 \\
+cvae vs size-matched random (n=66) & predicted E\_hull-like (eV/atom) & 0.615 & 0.557 & +0.015 & [-0.183, 0.211] & 0.89 \\
+cvae vs size-matched random (n=66) & predicted E\_form-like (eV/atom) & 0.825 & 0.970 & -0.514 & [-0.681, -0.339] & 3.5e-07 \\
+cvae vs size-matched random (n=66) & composite predicted-property score & 0.563 & 0.552 & +0.152 & [-0.050, 0.352] & 0.13 \\
+cvae vs size-matched random (n=66) & Euclidean distance to nearest training composition & 0.145 & 0.151 & -0.194 & [-0.388, 0.007] & 0.052 \\
+\midrule
+cvae vs training-frequency-weighted random & predicted band gap (eV) & 1.741 & 1.493 & +0.390 & [0.270, 0.506] & 4.6e-08 \\
+cvae vs training-frequency-weighted random & predicted eps\_0 (total) & 17.635 & 16.555 & +0.358 & [0.261, 0.454] & 5.1e-07 \\
+cvae vs training-frequency-weighted random & predicted eps\_inf (electronic) & 5.026 & 5.199 & -0.207 & [-0.302, -0.114] & 0.0037 \\
+cvae vs training-frequency-weighted random & predicted E\_hull-like (eV/atom) & 0.615 & 0.557 & +0.041 & [-0.107, 0.178] & 0.57 \\
+cvae vs training-frequency-weighted random & predicted E\_form-like (eV/atom) & 0.825 & 0.972 & -0.536 & [-0.615, -0.454] & 5.5e-14 \\
+cvae vs training-frequency-weighted random & composite predicted-property score & 0.563 & 0.530 & +0.266 & [0.144, 0.394] & 0.00019 \\
+cvae vs training-frequency-weighted random & Euclidean distance to nearest training composition & 0.145 & 0.151 & -0.250 & [-0.410, -0.097] & 0.0004 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[t]
+\centering
+\small
+\caption{Chemical-sanity comparison. Proportions with Wilson 95\,\% intervals; the difference carries a Newcombe hybrid-score 95\,\% CI and a Fisher exact $p$.}
+\label{tab:a7_proportions}
+\begin{tabular}{llrrrl}
+\toprule
+Comparison & Property & CVAE (\%) & Random (\%) & $\Delta$ (pp) & 95\,\% CI, $p$ \\
+\midrule
+cvae vs full random pool & requires Ti(3+)/Sn(2+) to charge balance & 36.4 & 8.3 & +28.1 & [+17.5, +40.1], $p=3e-10$ \\
+cvae vs full random pool & contains an open-shell d/f cation & 27.3 & 82.1 & -54.8 & [-64.1, -43.0], $p=4e-22$ \\
+cvae vs full random pool & passes combined wide-gap-dielectric gate & 63.6 & 15.9 & +47.7 & [+35.7, +58.3], $p=4e-18$ \\
+cvae vs full random pool & contains Hf, Zr or Al (Stage-1 favoured) & 53.0 & 18.7 & +34.4 & [+22.5, +45.9], $p=5e-10$ \\
+cvae vs full random pool & all cations in {Hf, Zr, Al} & 1.5 & 0.0 & +1.5 & [+0.3, +8.1], $p=0.006$ \\
+\midrule
+cvae vs size-matched random (n=66) & requires Ti(3+)/Sn(2+) to charge balance & 36.4 & 7.6 & +28.8 & [+14.9, +41.6], $p=0.0001$ \\
+cvae vs size-matched random (n=66) & contains an open-shell d/f cation & 27.3 & 84.8 & -57.6 & [-69.0, -41.8], $p=2e-11$ \\
+cvae vs size-matched random (n=66) & passes combined wide-gap-dielectric gate & 63.6 & 12.1 & +51.5 & [+35.8, +63.6], $p=1e-09$ \\
+cvae vs size-matched random (n=66) & contains Hf, Zr or Al (Stage-1 favoured) & 53.0 & 15.2 & +37.9 & [+22.0, +51.2], $p=7e-06$ \\
+cvae vs size-matched random (n=66) & all cations in {Hf, Zr, Al} & 1.5 & 0.0 & +1.5 & [-4.1, +8.1], $p=1$ \\
+\midrule
+cvae vs training-frequency-weighted random & requires Ti(3+)/Sn(2+) to charge balance & 36.4 & 13.0 & +23.3 & [+12.8, +35.4], $p=2e-06$ \\
+cvae vs training-frequency-weighted random & contains an open-shell d/f cation & 27.3 & 62.9 & -35.6 & [-45.0, -23.8], $p=9e-09$ \\
+cvae vs training-frequency-weighted random & passes combined wide-gap-dielectric gate & 63.6 & 31.8 & +31.8 & [+19.7, +42.4], $p=2e-07$ \\
+cvae vs training-frequency-weighted random & contains Hf, Zr or Al (Stage-1 favoured) & 53.0 & 25.8 & +27.2 & [+15.3, +38.8], $p=3e-06$ \\
+cvae vs training-frequency-weighted random & all cations in {Hf, Zr, Al} & 1.5 & 0.0 & +1.5 & [+0.3, +8.1], $p=0.01$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[t]
+\centering
+\small
+\caption{Size-controlled steelman. For each of 2{,}000 random subsamples of the same budget as the CVAE ($n=66$), the median composite predicted-property score of the top $N$ is computed; $p$ is the fraction of those equal-budget random draws whose top-$N$ is at least as good as the CVAE's.}
+\label{tab:a7_steelman}
+\begin{tabular}{lrrrr}
+\toprule
+Random pool & $N$ & CVAE top-$N$ & random top-$N$ & $p$ \\
+\midrule
+random & 1 & 0.830 & 0.773 & 0.0655 \\
+random & 5 & 0.789 & 0.717 & 0.0110 \\
+random & 10 & 0.728 & 0.686 & 0.0270 \\
+random & 20 & 0.685 & 0.653 & 0.0195 \\
+random\_freq & 1 & 0.830 & 0.766 & 0.1005 \\
+random\_freq & 5 & 0.789 & 0.694 & 0.0075 \\
+random\_freq & 10 & 0.728 & 0.661 & 0.0040 \\
+random\_freq & 20 & 0.685 & 0.627 & 0.0005 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[t]
+\centering
+\small
+\caption{Decomposition energy into binary oxides, $\Delta E_{\mathrm{dec}}$, under a single consistent potential (lower is better). \emph{full} uses every structure hypothesis; \emph{pyxtal\_only} restricts both arms to the random symmetric search that every stoichiometry receives, removing the prototype-availability bias.}
+\label{tab:a7_energetics}
+\begin{tabular}{llrrrrrrrl}
+\toprule
+Potential & Protocol & $n_{\mathrm{CVAE}}$ & $n_{\mathrm{rand}}$ & med. CVAE & med. rand & $\delta$ & $p$ & \%$\le 0$ CVAE & \%$\le 0$ rand \\
+\midrule
+chgnet & full & 53 & 50 & +0.0861 & +0.0864 & +0.040 & 0.73 & 9.4 & 24.0 \\
+chgnet & pyxtal\_only & 53 & 50 & +0.0884 & +0.1081 & -0.084 & 0.47 & 5.7 & 16.0 \\
+mace & full & 53 & 50 & +0.0996 & +0.0955 & +0.115 & 0.32 & 7.5 & 24.0 \\
+mace & pyxtal\_only & 41 & 36 & +0.1171 & +0.1162 & +0.070 & 0.6 & 2.4 & 16.7 \\
+\bottomrule
+\end{tabular}
+\end{table}

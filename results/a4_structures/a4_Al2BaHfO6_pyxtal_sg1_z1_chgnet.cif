@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaHfAl2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52920077
+_cell_length_b   5.03775385
+_cell_length_c   8.97510398
+_cell_angle_alpha   109.01855427
+_cell_angle_beta   73.92858400
+_cell_angle_gamma   111.18693483
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaHfAl2O6
+_chemical_formula_sum   'Ba1 Hf1 Al2 O6'
+_cell_volume   177.55669023
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.90606787  -0.01347475  0.46968678  1
+  Al  Al1  1  0.54757720  0.43889400  0.56891567  1
+  Ba  Ba2  1  0.41754836  0.71585698  0.10249784  1
+  Hf  Hf3  1  0.20916018  0.92356891  0.75367633  1
+  O  O4  1  0.86119333  0.81891919  0.27548775  1
+  O  O5  1  0.85164847  0.07621644  0.92562398  1
+  O  O6  1  0.29545588  0.57582901  0.75831622  1
+  O  O7  1  0.14735578  0.12361102  0.99317969  1
+  O  O8  1  -0.07041187  0.74958074  0.58041264  1
+  O  O9  1  0.61542331  0.14620792  0.62335777  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CaTi2SnO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07479671
+_cell_length_b   5.00882107
+_cell_length_c   5.07479696
+_cell_angle_alpha   89.55883819
+_cell_angle_beta   91.74027675
+_cell_angle_gamma   89.55890344
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTi2SnO7
+_chemical_formula_sum   'Ca1 Ti2 Sn1 O7'
+_cell_volume   128.92760841
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  -0.03618129  -0.03128860  -0.03618098  1
+  Ti  Ti1  1  -0.02448039  0.45098671  0.43624099  1
+  Sn  Sn2  1  0.48039972  -0.00756104  0.48039934  1
+  Ti  Ti3  1  0.43624268  0.45098460  -0.02448287  1
+  O  O4  1  0.23253884  0.20607494  0.23253702  1
+  O  O5  1  0.18117291  0.30847589  0.73455179  1
+  O  O6  1  0.28351422  0.67047796  0.28351524  1
+  O  O7  1  0.44199387  0.79987870  0.83634873  1
+  O  O8  1  0.73455244  0.30847667  0.18117460  1
+  O  O9  1  0.68389917  0.29361408  0.68390144  1
+  O  O10  1  0.83634788  0.79988012  0.44199473  1

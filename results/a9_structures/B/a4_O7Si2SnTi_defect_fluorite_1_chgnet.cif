@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_TiSi2SnO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08128270
+_cell_length_b   5.25192616
+_cell_length_c   5.25213668
+_cell_angle_alpha   66.97485725
+_cell_angle_beta   83.05901359
+_cell_angle_gamma   97.01449889
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiSi2SnO7
+_chemical_formula_sum   'Ti1 Si2 Sn1 O7'
+_cell_volume   175.35613680
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  -0.06111249  -0.01399916  0.15936343  1
+  Si  Si1  1  -0.06100536  0.33953140  0.51302573  1
+  Ti  Ti2  1  0.53846566  0.05586047  0.44241687  1
+  Sn  Sn3  1  0.60693362  0.58284868  -0.07660268  1
+  O  O4  1  0.40164749  0.27452954  0.22753915  1
+  O  O5  1  0.01288322  0.18306328  0.81641675  1
+  O  O6  1  0.01288657  0.68273298  0.31642896  1
+  O  O7  1  0.39214157  0.77030148  0.73180340  1
+  O  O8  1  1.00795853  0.18158618  0.31794359  1
+  O  O9  1  0.69973868  0.27756967  0.58163145  1
+  O  O10  1  0.69946237  0.91597546  0.22003329  1

@@ -1,0 +1,4 @@
+validation_gate,candidates,mean_candidate_score,mean_stability_utility,mean_gap_utility
+computational_validation_required,11,0.9305873674701934,0.5,0.9305873674701934
+standard_review,5,0.7326893657176083,0.8739430269343347,0.40669862575902843
+priority_expert_review,4,0.8469311131971341,0.8214380746829081,0.8683884627676575

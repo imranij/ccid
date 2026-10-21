@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MgScGaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06882959
+_cell_length_b   6.06882876
+_cell_length_c   6.09456386
+_cell_angle_alpha   59.85962437
+_cell_angle_beta   59.85962559
+_cell_angle_gamma   59.85118038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgScGaO4
+_chemical_formula_sum   'Mg2 Sc2 Ga2 O8'
+_cell_volume   158.20637030
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.75467250  0.75467232  0.74532769  1
+  Ga  Ga1  1  0.49532769  0.49532774  0.50467208  1
+  Sc  Sc2  1  0.12499995  0.12499967  0.12500026  1
+  Sc  Sc3  1  0.12499967  0.12499945  0.62500032  1
+  Mg  Mg4  1  0.12499972  0.62500007  0.12500012  1
+  Mg  Mg5  1  0.62500000  0.12500069  0.12499986  1
+  O  O6  1  0.88010820  0.88011015  0.87697666  1
+  O  O7  1  0.88010963  0.88010968  0.36280447  1
+  O  O8  1  0.87950895  0.36495005  0.87777040  1
+  O  O9  1  0.36495131  0.87950802  0.87777027  1
+  O  O10  1  0.36989118  0.36989018  0.88719517  1
+  O  O11  1  0.36988947  0.36989106  0.37302439  1
+  O  O12  1  0.37049230  0.88504898  0.37222920  1
+  O  O13  1  0.88504940  0.37049196  0.37222912  1

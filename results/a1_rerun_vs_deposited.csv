@@ -1,0 +1,7 @@
+Artifact,Re-run vs deposited CSV
+ceramic\_ranked\_real\_candidates.csv,identical (max |delta| = 1.2e-15)
+ceramic\_pareto\_perovskite\_candidates.csv,identical (max |delta| = 0.0e+00)
+ceramic\_candidate\_pool\_summary.csv,identical (max |delta| = 0.0e+00)
+ceramic\_objective\_sensitivity.csv,identical (max |delta| = 0.0e+00)
+ceramic\_diverse\_acquisition\_batch.csv,identical (max |delta| = 0.0e+00)
+ceramic\_validation\_gate\_summary.csv,identical (max |delta| = 0.0e+00)

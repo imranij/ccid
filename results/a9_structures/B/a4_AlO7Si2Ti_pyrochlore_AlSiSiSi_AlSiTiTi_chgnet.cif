@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_TiAlSi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83174563
+_cell_length_b   6.16210532
+_cell_length_c   7.75171753
+_cell_angle_alpha   55.97074004
+_cell_angle_beta   55.81107981
+_cell_angle_gamma   57.06211786
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAlSi2O7
+_chemical_formula_sum   'Ti2 Al2 Si4 O14'
+_cell_volume   241.69001351
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.19457979  0.08998064  0.03000219  1
+  Si  Si1  1  0.17769625  0.19312150  0.57259114  1
+  Si  Si2  1  0.00427850  0.73338357  0.02737442  1
+  Si  Si3  1  0.65623183  0.10567831  0.23684753  1
+  Ti  Ti4  1  0.66761800  0.51021309  0.70216352  1
+  Al  Al5  1  0.58290799  0.67188153  0.11558999  1
+  Si  Si6  1  0.64310413  0.10952231  0.60383302  1
+  Ti  Ti7  1  0.17172783  0.68663118  0.58862654  1
+  O  O8  1  0.49338184  0.95298037  0.87990233  1
+  O  O9  1  0.95390427  0.39793296  0.52381346  1
+  O  O10  1  1.10407930  0.41384958  1.05505309  1
+  O  O11  1  0.63585886  0.88596932  0.52436510  1
+  O  O12  1  0.88789183  0.93927458  0.60973314  1
+  O  O13  1  0.66342685  0.40017309  0.98812497  1
+  O  O14  1  0.52077879  0.42402747  0.63921566  1
+  O  O15  1  0.29200906  0.80506193  0.27162840  1
+  O  O16  1  0.15096690  0.87929555  0.75426537  1
+  O  O17  1  0.66489303  0.31557646  0.31911332  1
+  O  O18  1  0.19241766  0.28456157  0.72509324  1
+  O  O19  1  0.72938685  0.84289837  0.11676034  1
+  O  O20  1  -0.01534145  -0.07185067  0.13017428  1
+  O  O21  1  0.37820185  0.17983703  0.33572904  1

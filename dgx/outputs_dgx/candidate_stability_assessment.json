@@ -1,0 +1,68 @@
+[
+  {
+    "formula": "Al2BaHfO6",
+    "candidate_score": 0.902,
+    "charge_balanced": true,
+    "oxidation_sum": 0.0,
+    "goldschmidt_tolerance": 0.428,
+    "electronegativity_diff": 2.087,
+    "stability_score": 0.818,
+    "stability_class": "Thermodynamically favorable",
+    "structural_prototype": "Complex oxide (O:4 ratio = 1.50)"
+  },
+  {
+    "formula": "Al2ZrHfO7",
+    "candidate_score": 0.869,
+    "charge_balanced": true,
+    "oxidation_sum": 0.0,
+    "goldschmidt_tolerance": 0.316,
+    "electronegativity_diff": 1.977,
+    "stability_score": 0.77,
+    "stability_class": "Thermodynamically favorable",
+    "structural_prototype": "Fluorite/Pyrochlore-like A2B2O7 or ABO4"
+  },
+  {
+    "formula": "Al2ScLaO6",
+    "candidate_score": 0.861,
+    "charge_balanced": true,
+    "oxidation_sum": 0.0,
+    "goldschmidt_tolerance": 0.359,
+    "electronegativity_diff": 2.02,
+    "stability_score": 0.788,
+    "stability_class": "Thermodynamically favorable",
+    "structural_prototype": "Complex oxide (O:4 ratio = 1.50)"
+  },
+  {
+    "formula": "Al2ZrSiO7",
+    "candidate_score": 0.805,
+    "charge_balanced": true,
+    "oxidation_sum": 0.0,
+    "goldschmidt_tolerance": 0.277,
+    "electronegativity_diff": 1.827,
+    "stability_score": 0.744,
+    "stability_class": "Thermodynamically favorable",
+    "structural_prototype": "Fluorite/Pyrochlore-like A2B2O7 or ABO4"
+  },
+  {
+    "formula": "ScAlHfO5",
+    "candidate_score": 0.693,
+    "charge_balanced": true,
+    "oxidation_sum": 0.0,
+    "goldschmidt_tolerance": 0.335,
+    "electronegativity_diff": 2.017,
+    "stability_score": 0.78,
+    "stability_class": "Thermodynamically favorable",
+    "structural_prototype": "Complex oxide (O:3 ratio = 1.67)"
+  },
+  {
+    "formula": "AlZrScO5",
+    "candidate_score": 0.685,
+    "charge_balanced": true,
+    "oxidation_sum": 0.0,
+    "goldschmidt_tolerance": 0.337,
+    "electronegativity_diff": 2.007,
+    "stability_score": 0.779,
+    "stability_class": "Thermodynamically favorable",
+    "structural_prototype": "Complex oxide (O:3 ratio = 1.67)"
+  }
+]

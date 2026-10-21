@@ -1,0 +1,15 @@
+# Versions used for the analyses in analysis/ (tested on Python 3.11, CPU)
+torch==2.14.0
+numpy==2.4.4
+pandas==2.3.3
+scikit-learn==1.8.0
+scipy==1.17.1
+matplotlib==3.10.9
+seaborn==0.13.2
+pymatgen==2026.5.4
+matminer==0.10.1
+ase==3.29.0
+chgnet==0.4.2
+mace-torch==0.3.16
+pyxtal==1.1.5
+ElMD==0.5.15

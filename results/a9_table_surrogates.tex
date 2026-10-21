@@ -1,0 +1,23 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Composition-only surrogate predictions (a5 models, retrained) on each arm's pooled unique valid set: medians of predicted band gap $\hat E_g$ (eV), static permittivity $\hat\varepsilon_0$, Wolverton-head $\hat E_{\mathrm{hull}}$-like stability (eV/atom, lower is better) and the a7 composite score (normalised over the pooled four arms). Last two columns: size-controlled steelman, fraction of 2{,}000 equal-budget draws from arm A whose top-$N$ median composite is at least the arm's own top-$N$ median (budget = the arm's pooled unique valid count). Restricted to novel formulas (not in the training table, on which the surrogates were fitted), the same $p$ values ($N=5$/$N=20$) are B 0.302/0.086; C 0.588/0.993; D 0.112/0.002.}
+\label{tab:a9_surrogates}
+\begin{tabular}{lrcccccc}
+\toprule
+ & & & & & & \multicolumn{2}{c}{$p$(A $\geq$ arm), top-$N$} \\
+\cmidrule(lr){7-8}
+Arm & $n$ & $\hat E_g$ & $\hat\varepsilon_0$ & $\hat E_{\mathrm{hull}}$ & Composite & $N=5$ & $N=20$ \\
+\midrule
+A\quad Random (uniform) & 31{,}171 & 1.68 & 17.6 & 0.548 & 0.520 & -- & -- \\
+B\quad Element statistics & 20{,}034 & 1.54 & 16.8 & 0.549 & 0.498 & 0.297 & 0.105 \\
+C\quad Ion substitution & 765 & 1.72 & 16.6 & 0.612 & 0.525 & $<$0.0005 & $<$0.0005 \\
+D\quad Learned (corrected CVAE) & 2{,}135 & 1.67 & 16.7 & 0.507 & 0.507 & 0.004 & $<$0.0005 \\
+\midrule
+\multicolumn{8}{l}{\emph{Cliff's $\delta$, D vs X [bootstrap 95\% CI]; positive = D larger (for $\hat E_{\mathrm{hull}}$ larger is worse)}} \\
+D vs A &  & $-$0.02 [$-$0.04, +0.01] & $-$0.17 [$-$0.20, $-$0.15] & $-$0.07 [$-$0.10, $-$0.04] & $-$0.03 [$-$0.06, $-$0.00] &  &  \\
+D vs B &  & +0.16 [+0.14, +0.19] & $-$0.03 [$-$0.05, $-$0.01] & $-$0.07 [$-$0.10, $-$0.04] & +0.10 [+0.07, +0.13] &  &  \\
+D vs C &  & $-$0.09 [$-$0.14, $-$0.03] & +0.00 [$-$0.05, +0.05] & $-$0.07 [$-$0.12, $-$0.02] & $-$0.02 [$-$0.07, +0.03] &  &  \\
+\bottomrule
+\end{tabular}
+\end{table*}

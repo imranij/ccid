@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+
+# Public source datasets are downloaded by the user (see README), not redistributed
+shared_datasets/
+datasets/
+Paper_1_Uncertainty_Calibrated_Data_Repair_for_Ceramic_Materials/
+
+# Regenerated working copies and large regenerable model files
+analysis/a1_stage1/repro/
+analysis/a5_surrogate/*.pkl
+analysis/a5_surrogate/*.npz
+results/*.pkl
+
+# Local-only folders from the original working tree
+dgx/data/
+dgx/figures/
+dgx_sync/
+figures/
+manuscript/

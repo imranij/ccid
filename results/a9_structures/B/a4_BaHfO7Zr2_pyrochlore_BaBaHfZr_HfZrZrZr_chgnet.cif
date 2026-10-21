@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_BaHfZr2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57524576
+_cell_length_b   7.80732533
+_cell_length_c   7.84911764
+_cell_angle_alpha   57.86134838
+_cell_angle_beta   60.80040451
+_cell_angle_gamma   60.24209699
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaHfZr2O7
+_chemical_formula_sum   'Ba2 Hf2 Zr4 O14'
+_cell_volume   325.04350818
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.12367358  0.10763617  0.12533663  1
+  Hf  Hf1  1  0.12165669  0.13237522  0.61144585  1
+  Zr  Zr2  1  0.17335999  0.60562218  0.03031661  1
+  Ba  Ba3  1  0.63893556  0.11179436  0.10395138  1
+  Zr  Zr4  1  0.63081589  0.62447863  0.61364773  1
+  Hf  Hf5  1  0.61848221  0.61709088  0.13489893  1
+  Zr  Zr6  1  0.61200929  0.06348534  0.61340515  1
+  Zr  Zr7  1  0.12457811  0.61236175  0.62319571  1
+  O  O8  1  0.56017981  0.95097931  0.92915360  1
+  O  O9  1  0.82913555  0.77483368  0.55973601  1
+  O  O10  1  0.95500918  0.55891028  0.96252840  1
+  O  O11  1  0.44667042  0.95864811  0.55923816  1
+  O  O12  1  1.01584142  0.96713250  0.57673879  1
+  O  O13  1  0.49796098  0.57839828  0.96835350  1
+  O  O14  1  0.84293187  0.33684536  0.71229544  1
+  O  O15  1  0.30860443  0.69663777  0.32235442  1
+  O  O16  1  0.34831198  0.54784977  0.75483377  1
+  O  O17  1  0.69251223  0.28972149  0.31856422  1
+  O  O18  1  0.26356264  0.28282669  0.67608401  1
+  O  O19  1  0.69366619  0.68498326  0.31092634  1
+  O  O20  1  0.06214685  -0.07742559  -0.04641683  1
+  O  O21  1  0.18995494  0.32481468  0.28941209  1

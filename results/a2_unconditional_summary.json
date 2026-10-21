@@ -1,0 +1,210 @@
+{
+  "conditioned": {
+    "validity_rate": {
+      "mean": 0.33019,
+      "std": 0.001840652058374967
+    },
+    "uniqueness_rate": {
+      "mean": 0.010448422306997066,
+      "std": 0.00022637253185078164
+    },
+    "novelty_rate": {
+      "mean": 0.9855011539123149,
+      "std": 0.0003323885017391469
+    },
+    "unique_valid_count": {
+      "mean": 69.0,
+      "std": 1.5811388300841898
+    },
+    "novel_unique_count": {
+      "mean": 68.0,
+      "std": 1.5811388300841898
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.27846883986613774,
+      "std": 0.0012356860833726327
+    },
+    "unique_formula_count_all": {
+      "mean": 305.0,
+      "std": 9.055385138137417
+    },
+    "modal_formula_share_all": {
+      "mean": 0.23502,
+      "std": 0.002825906934065586
+    }
+  },
+  "const_mid": {
+    "validity_rate": {
+      "mean": 0.98873,
+      "std": 0.0004367493560384379
+    },
+    "uniqueness_rate": {
+      "mean": 0.00030341140495681294,
+      "std": 3.5665588814815e-05
+    },
+    "novelty_rate": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "unique_valid_count": {
+      "mean": 6.0,
+      "std": 0.7071067811865476
+    },
+    "novel_unique_count": {
+      "mean": 6.0,
+      "std": 0.7071067811865476
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.1624382417542594,
+      "std": 0.0072173718569855105
+    },
+    "unique_formula_count_all": {
+      "mean": 8.4,
+      "std": 0.5477225575051662
+    },
+    "modal_formula_share_all": {
+      "mean": 0.9106,
+      "std": 0.0020408331631958316
+    }
+  },
+  "const_target": {
+    "validity_rate": {
+      "mean": 0.0713,
+      "std": 0.0027376997644007633
+    },
+    "uniqueness_rate": {
+      "mean": 0.0007020689586846954,
+      "std": 2.627006115364841e-05
+    },
+    "novelty_rate": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "unique_valid_count": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "novel_unique_count": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "unique_formula_count_all": {
+      "mean": 3.8,
+      "std": 0.44721359549995787
+    },
+    "modal_formula_share_all": {
+      "mean": 0.91197,
+      "std": 0.002959645249012129
+    }
+  },
+  "const_train_mean": {
+    "validity_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "uniqueness_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "novelty_rate": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "unique_valid_count": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "novel_unique_count": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "unique_formula_count_all": {
+      "mean": 27.6,
+      "std": 1.140175425099138
+    },
+    "modal_formula_share_all": {
+      "mean": 0.49643,
+      "std": 0.003874048270220688
+    }
+  },
+  "shuffled": {
+    "validity_rate": {
+      "mean": 0.32991000000000004,
+      "std": 0.0020824864945540407
+    },
+    "uniqueness_rate": {
+      "mean": 0.011094424783669957,
+      "std": 0.0002863994859550957
+    },
+    "novelty_rate": {
+      "mean": 0.9810692271218586,
+      "std": 0.011484986803618038
+    },
+    "unique_valid_count": {
+      "mean": 73.2,
+      "std": 1.7888543819998317
+    },
+    "novel_unique_count": {
+      "mean": 71.8,
+      "std": 1.0954451150103321
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.27771507216394314,
+      "std": 0.0009216717564913572
+    },
+    "unique_formula_count_all": {
+      "mean": 295.2,
+      "std": 9.959919678390987
+    },
+    "modal_formula_share_all": {
+      "mean": 0.23567,
+      "std": 0.0035595996965951037
+    }
+  },
+  "uniform_random": {
+    "validity_rate": {
+      "mean": 0.37493,
+      "std": 0.00197249841571545
+    },
+    "uniqueness_rate": {
+      "mean": 0.010188636077485463,
+      "std": 0.00011459401576167622
+    },
+    "novelty_rate": {
+      "mean": 0.9790480747322853,
+      "std": 0.007198749888366137
+    },
+    "unique_valid_count": {
+      "mean": 76.4,
+      "std": 0.8944271909999159
+    },
+    "novel_unique_count": {
+      "mean": 74.8,
+      "std": 1.0954451150103321
+    },
+    "mean_pairwise_composition_distance": {
+      "mean": 0.276152018775639,
+      "std": 0.0005649044210263354
+    },
+    "unique_formula_count_all": {
+      "mean": 497.6,
+      "std": 6.387487769068525
+    },
+    "modal_formula_share_all": {
+      "mean": 0.05687000000000001,
+      "std": 0.002165236707614205
+    }
+  },
+  "_training_mean_conditions": {
+    "stability_utility": 0.6535783410072327,
+    "gap_utility": 0.039795372635126114
+  }
+}

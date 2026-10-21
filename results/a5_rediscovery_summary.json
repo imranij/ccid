@@ -1,0 +1,7 @@
+{
+  "n_target_source_pairs": 12,
+  "n_reachable_in_search_universe": 12,
+  "n_exact_formula_ranked_top1": 0,
+  "n_exact_formula_ranked_top10": 0,
+  "interpretation": "See a5_REPORT.md for the full discussion. Reported straight, including if negative."
+}

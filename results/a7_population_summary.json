@@ -1,0 +1,9 @@
+{
+  "n_cvae": 66,
+  "n_random_uniform41": 11744,
+  "n_random_dirichlet41": 11734,
+  "n_random_freq41": 8870,
+  "n_matched": 66,
+  "overlap_cvae_random": 19,
+  "seed": 20260913
+}

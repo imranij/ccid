@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2ZrTiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70086638
+_cell_length_b   5.70086667
+_cell_length_c   5.70086652
+_cell_angle_alpha   60.00000263
+_cell_angle_beta   59.99999578
+_cell_angle_gamma   60.00000238
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2ZrTiO6
+_chemical_formula_sum   'Ca2 Zr1 Ti1 O6'
+_cell_volume   131.01095825
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000018  0.24999973  0.24999995  1
+  Ca  Ca1  1  0.75000021  0.75000015  0.74999976  1
+  Zr  Zr2  1  0.99999997  0.00000003  0.00000006  1
+  Ti  Ti3  1  0.49999993  0.50000005  0.49999999  1
+  O  O4  1  0.74224851  0.25775135  0.25775174  1
+  O  O5  1  0.25775120  0.74224894  0.74224843  1
+  O  O6  1  0.25775157  0.74224860  0.25775149  1
+  O  O7  1  0.74224856  0.25775099  0.74224850  1
+  O  O8  1  0.25775156  0.25775130  0.74224873  1
+  O  O9  1  0.74224830  0.74224886  0.25775137  1

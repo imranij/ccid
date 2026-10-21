@@ -1,0 +1,20 @@
+% Table A2-4: condition grid, shared fixed latent draw, 4000 samples per cell
+\begin{tabular}{cccccl}
+\toprule
+$U_{\mathrm{stab}}$ & $U_{\mathrm{gap}}$ & Validity & Distinct formulas & Modal share & Modal decoded formula \\
+\midrule
+0.2 & 0.5 & 0.006 & 5 & 0.929 & \ce{CsNb2O4Ta2} \\
+0.2 & 0.8 & 0.009 & 11 & 0.964 & \ce{BaO4Sr2Ta} \\
+0.2 & 1.0 & 0.999 & 2 & 0.999 & \ce{BaCaO4Sr2} \\
+0.5 & 0.5 & 0.990 & 7 & 0.917 & \ce{NbO7TaTi} \\
+0.5 & 0.8 & 1.000 & 4 & 0.863 & \ce{CaO6SrZr2} \\
+0.5 & 1.0 & 0.971 & 4 & 0.910 & \ce{CaO6SrZr2} \\
+0.8 & 0.5 & 0.764 & 9 & 0.360 & \ce{AlO5ScZr} \\
+0.8 & 0.8 & 0.746 & 6 & 0.746 & \ce{Al2HfO7Zr} \\
+0.8 & 1.0 & 0.993 & 4 & 0.993 & \ce{Al2HfO7Zr} \\
+1.0 & 0.5 & 0.035 & 27 & 0.639 & \ce{AcBaO4Pa} \\
+1.0 & 0.8 & 0.107 & 12 & 0.286 & \ce{Al2HfO4Sc} \\
+1.0 & 1.0 & 0.191 & 5 & 0.800 & \ce{Al2O4ScZr} \\
+\bottomrule
+\end{tabular}
+\vspace{0.3em}\footnotesize{Effect size of conditioning: $I(\text{cell};\text{formula}) = 3.04$ bits (label-permutation null 0.012 bits; maximum possible 3.58 bits), normalised MI $= 0.77$; mean Jensen--Shannon distance between per-cell element-frequency distributions 0.82; mean Jaccard overlap of decoded formula sets 0.034; paired formula-switch rate 0.959.}

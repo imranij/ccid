@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_HfZr2SnO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24369870
+_cell_length_b   5.18117657
+_cell_length_c   5.24369751
+_cell_angle_alpha   86.09541124
+_cell_angle_beta   93.42349445
+_cell_angle_gamma   86.09542868
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZr2SnO7
+_chemical_formula_sum   'Hf1 Zr2 Sn1 O7'
+_cell_volume   141.50627910
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.01356794  0.01888447  0.01356793  1
+  Zr  Zr1  1  0.03455861  0.47250441  0.50178606  1
+  Sn  Sn2  1  0.51721461  -0.04093336  0.51721466  1
+  Zr  Zr3  1  0.50178608  0.47250414  0.03455893  1
+  O  O4  1  0.26323424  0.22601343  0.26323414  1
+  O  O5  1  0.27531374  0.25673873  0.77443012  1
+  O  O6  1  0.24219841  0.71846763  0.24219786  1
+  O  O7  1  0.11349797  0.77545171  0.73317816  1
+  O  O8  1  0.77443013  0.25673826  0.27531374  1
+  O  O9  1  0.78101937  0.31817944  0.78101919  1
+  O  O10  1  0.73317888  0.77545110  0.11349918  1

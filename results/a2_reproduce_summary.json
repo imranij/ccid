@@ -1,0 +1,155 @@
+{
+  "archived_metrics_json": {
+    "total_samples": 20000,
+    "valid_count": 6768,
+    "unique_valid_count": 66,
+    "novel_unique_count": 64,
+    "validity_rate": 0.3384,
+    "uniqueness_rate": 0.00975177304964539,
+    "novelty_rate": 0.9696969696969697,
+    "mean_pairwise_composition_distance": 0.27889822271933395,
+    "target_stability": 0.9,
+    "target_gap": 0.8
+  },
+  "manuscript_reported": {
+    "valid_count": 6577,
+    "validity_rate": 0.329,
+    "unique_valid_count": 71,
+    "novel_unique_count": 69,
+    "novelty_rate": 0.972,
+    "mean_pairwise_composition_distance": 0.278,
+    "note": "read from the manuscript by the coordinating agent, not computed here"
+  },
+  "by_jitter": {
+    "0.08": {
+      "validity_rate": {
+        "mean": 0.22288125,
+        "std": 0.0021350706746415446,
+        "min": 0.22035,
+        "max": 0.22655,
+        "n_seeds": 8
+      },
+      "uniqueness_rate": {
+        "mean": 0.0015987367596459415,
+        "std": 0.00018928826525680195,
+        "min": 0.0013351134846461949,
+        "max": 0.0018152938506920807,
+        "n_seeds": 8
+      },
+      "novelty_rate": {
+        "mean": 1.0,
+        "std": 0.0,
+        "min": 1.0,
+        "max": 1.0,
+        "n_seeds": 8
+      },
+      "valid_count": {
+        "mean": 4457.625,
+        "std": 42.701413492830824,
+        "min": 4407.0,
+        "max": 4531.0,
+        "n_seeds": 8
+      },
+      "unique_valid_count": {
+        "mean": 7.125,
+        "std": 0.8345229603962802,
+        "min": 6.0,
+        "max": 8.0,
+        "n_seeds": 8
+      },
+      "novel_unique_count": {
+        "mean": 7.125,
+        "std": 0.8345229603962802,
+        "min": 6.0,
+        "max": 8.0,
+        "n_seeds": 8
+      },
+      "mean_pairwise_composition_distance": {
+        "mean": 0.21826792480867532,
+        "std": 0.004911736416257439,
+        "min": 0.21045641501744589,
+        "max": 0.22572329427514756,
+        "n_seeds": 8
+      },
+      "unique_formula_count_all": {
+        "mean": 29.5,
+        "std": 1.7728105208558367,
+        "min": 26.0,
+        "max": 32.0,
+        "n_seeds": 8
+      },
+      "modal_formula_share_all": {
+        "mean": 0.5465374999999999,
+        "std": 0.0038577149046701447,
+        "min": 0.54045,
+        "max": 0.55255,
+        "n_seeds": 8
+      }
+    },
+    "0.3": {
+      "validity_rate": {
+        "mean": 0.3303875,
+        "std": 0.001421957905746261,
+        "min": 0.32825,
+        "max": 0.3327,
+        "n_seeds": 8
+      },
+      "uniqueness_rate": {
+        "mean": 0.01046110883636202,
+        "std": 0.00030034057116648153,
+        "min": 0.009977324263038548,
+        "max": 0.010879419764279238,
+        "n_seeds": 8
+      },
+      "novelty_rate": {
+        "mean": 0.985522456404432,
+        "std": 0.00042790986221163886,
+        "min": 0.9848484848484849,
+        "max": 0.9861111111111112,
+        "n_seeds": 8
+      },
+      "valid_count": {
+        "mean": 6607.75,
+        "std": 28.439158114925174,
+        "min": 6565.0,
+        "max": 6654.0,
+        "n_seeds": 8
+      },
+      "unique_valid_count": {
+        "mean": 69.125,
+        "std": 2.03100960115899,
+        "min": 66.0,
+        "max": 72.0,
+        "n_seeds": 8
+      },
+      "novel_unique_count": {
+        "mean": 68.125,
+        "std": 2.03100960115899,
+        "min": 65.0,
+        "max": 71.0,
+        "n_seeds": 8
+      },
+      "mean_pairwise_composition_distance": {
+        "mean": 0.27824386594177675,
+        "std": 0.0014093579912715563,
+        "min": 0.2756912640792503,
+        "max": 0.2793447812264888,
+        "n_seeds": 8
+      },
+      "unique_formula_count_all": {
+        "mean": 303.5,
+        "std": 8.315218406202998,
+        "min": 292.0,
+        "max": 319.0,
+        "n_seeds": 8
+      },
+      "modal_formula_share_all": {
+        "mean": 0.23560625000000002,
+        "std": 0.0024180035300694963,
+        "min": 0.23125,
+        "max": 0.2387,
+        "n_seeds": 8
+      }
+    }
+  }
+}

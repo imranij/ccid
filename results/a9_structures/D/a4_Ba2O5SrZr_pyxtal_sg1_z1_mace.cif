@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ba2SrZrO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87743331
+_cell_length_b   7.42938727
+_cell_length_c   7.42733653
+_cell_angle_alpha   32.74397041
+_cell_angle_beta   86.10607690
+_cell_angle_gamma   96.12952659
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2SrZrO5
+_chemical_formula_sum   'Ba2 Sr1 Zr1 O5'
+_cell_volume   195.11902045
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.47055412  0.70335343  0.02879497  1
+  Ba  Ba1  1  0.35567454  0.40104456  0.82567615  1
+  Sr  Sr2  1  0.90424253  0.53666740  0.41870596  1
+  Zr  Zr3  1  0.98210478  0.85182668  0.65711161  1
+  O  O4  1  0.69417586  0.66910925  0.76026000  1
+  O  O5  1  0.08591188  0.42418745  0.11836656  1
+  O  O6  1  0.53693984  0.32803666  0.58830771  1
+  O  O7  1  0.13079106  0.79680297  0.44795786  1
+  O  O8  1  0.94403155  0.97884182  0.81898041  1

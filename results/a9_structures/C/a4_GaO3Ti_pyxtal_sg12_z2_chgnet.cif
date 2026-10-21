@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TiGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82588007
+_cell_length_b   7.82823154
+_cell_length_c   3.42187764
+_cell_angle_alpha   87.99320107
+_cell_angle_beta   101.93294467
+_cell_angle_gamma   94.56784776
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiGaO3
+_chemical_formula_sum   'Ti2 Ga2 O6'
+_cell_volume   152.17439486
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.04677920  -0.03332101  0.53382394  1
+  Ga  Ga1  1  0.34524753  0.54336070  0.18713807  1
+  O  O2  1  1.31596391  0.11542169  0.48472552  1
+  O  O3  1  -1.18174704  0.15396794  -0.44824400  1
+  O  O4  1  1.65036616  0.49020784  0.37863753  1
+  O  O5  1  -0.77206982  0.58803856  -0.35641437  1
+  O  O6  1  0.05711792  0.37785574  0.09114037  1
+  O  O7  1  0.55722167  -0.11773162  0.05111462  1
+  Ti  Ti8  1  -0.07815169  0.39222052  0.53654067  1
+  Ti  Ti9  1  0.55927211  -0.01002031  0.54153761  1

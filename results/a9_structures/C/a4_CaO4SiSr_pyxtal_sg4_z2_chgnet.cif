@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrCaSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96196378
+_cell_length_b   8.76255063
+_cell_length_c   6.42915772
+_cell_angle_alpha   90.00003518
+_cell_angle_beta   57.44052807
+_cell_angle_gamma   89.99999333
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaSiO4
+_chemical_formula_sum   'Sr2 Ca2 Si2 O8'
+_cell_volume   235.60249685
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.49798495  0.25721825  0.17131304  1
+  Ca  Ca1  1  -0.49798769  0.75721756  -0.17131275  1
+  O  O2  1  1.07541189  0.85346284  0.79009542  1
+  O  O3  1  -0.07541678  0.35346107  0.20990869  1
+  O  O4  1  0.28303085  0.47491890  0.35415985  1
+  O  O5  1  0.71697352  0.97491827  0.64583924  1
+  O  O6  1  0.33124749  0.03845147  0.37221283  1
+  O  O7  1  0.66875504  0.53845177  0.62778530  1
+  O  O8  1  0.96177389  0.16098149  0.83914304  1
+  O  O9  1  0.03822532  0.66097865  0.16085400  1
+  Si  Si10  1  0.96925860  0.50955604  0.33703465  1
+  Si  Si11  1  0.03074253  1.00955721  0.66296608  1
+  Sr  Sr12  1  0.13026014  0.45207100  0.77470588  1
+  Sr  Sr13  1  0.86974019  -0.04792681  0.22529487  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sr2TaNbO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61544426
+_cell_length_b   7.82161960
+_cell_length_c   7.96744494
+_cell_angle_alpha   59.51010265
+_cell_angle_beta   58.98888965
+_cell_angle_gamma   58.49464739
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2TaNbO7
+_chemical_formula_sum   'Sr4 Ta2 Nb2 O14'
+_cell_volume   327.85576195
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.12218691  0.14379443  0.06610910  1
+  Sr  Sr1  1  0.10162310  0.13023622  0.59115014  1
+  Sr  Sr2  1  0.12444174  0.66210650  0.11724628  1
+  Ta  Ta3  1  0.60948142  0.20646677  0.04660723  1
+  Nb  Nb4  1  0.63147292  0.61183379  0.59226882  1
+  Sr  Sr5  1  0.62270284  0.65132868  0.12694450  1
+  Sr  Sr6  1  0.60104011  0.12809056  0.58617335  1
+  Ta  Ta7  1  0.11107825  0.59052563  0.66303524  1
+  O  O8  1  0.42487755  1.10901635  1.03533272  1
+  O  O9  1  0.93410920  0.57864695  0.55613002  1
+  O  O10  1  1.07178272  0.50281105  0.94746959  1
+  O  O11  1  0.40042701  0.82861843  0.69724567  1
+  O  O12  1  0.94154000  0.86825794  0.66815330  1
+  O  O13  1  0.57204908  0.49484855  0.95539043  1
+  O  O14  1  0.70028531  0.30131527  0.71221676  1
+  O  O15  1  0.21904221  0.84942513  0.20061129  1
+  O  O16  1  0.41015435  0.56519968  0.52072372  1
+  O  O17  1  0.87679671  0.25427290  0.27057257  1
+  O  O18  1  0.19923218  0.25423736  0.76013373  1
+  O  O19  1  0.72278697  0.74061648  0.30302049  1
+  O  O20  1  -0.08687618  0.05920287  0.01665072  1
+  O  O21  1  0.43976538  0.21914859  0.31681449  1

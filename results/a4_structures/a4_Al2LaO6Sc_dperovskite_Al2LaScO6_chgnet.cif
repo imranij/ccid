@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaScAl2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06614752
+_cell_length_b   6.06614629
+_cell_length_c   6.06614783
+_cell_angle_alpha   60.00001514
+_cell_angle_beta   59.99999777
+_cell_angle_gamma   59.99999463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaScAl2O6
+_chemical_formula_sum   'La1 Sc1 Al2 O6'
+_cell_volume   157.84246843
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00009375  -0.00005924  0.00001960  1
+  Sc  Sc1  1  0.50028195  0.49982177  0.50005732  1
+  Al  Al2  1  0.25004846  0.24996557  0.25001547  1
+  Al  Al3  1  0.75004969  0.74997117  0.75000663  1
+  O  O4  1  0.73764873  0.26228665  0.26217528  1
+  O  O5  1  0.26213519  0.73780228  0.73769233  1
+  O  O6  1  0.26220976  0.73774113  0.26233435  1
+  O  O7  1  0.73774470  0.26222034  0.73783931  1
+  O  O8  1  0.26214110  0.26236199  0.73768715  1
+  O  O9  1  0.73764668  0.73788836  0.26217255  1

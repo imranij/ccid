@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CaScGaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31319856
+_cell_length_b   6.31319867
+_cell_length_c   6.33779277
+_cell_angle_alpha   59.87104890
+_cell_angle_beta   59.87104703
+_cell_angle_gamma   59.64696993
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaScGaO4
+_chemical_formula_sum   'Ca2 Sc2 Ga2 O8'
+_cell_volume   177.78908225
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.76223535  0.76223544  0.73776457  1
+  Ga  Ga1  1  0.48776455  0.48776458  0.51223550  1
+  Sc  Sc2  1  0.12499987  0.12500013  0.12499988  1
+  Sc  Sc3  1  0.12500035  0.12500013  0.62499986  1
+  Ca  Ca4  1  0.12499900  0.62499997  0.12500074  1
+  Ca  Ca5  1  0.62500016  0.12499962  0.12499984  1
+  O  O6  1  0.88806542  0.88806527  0.85136827  1
+  O  O7  1  0.88806531  0.88806567  0.37250095  1
+  O  O8  1  0.89342290  0.37622410  0.86517629  1
+  O  O9  1  0.37622408  0.89342208  0.86517712  1
+  O  O10  1  0.36193468  0.36193517  0.87749917  1
+  O  O11  1  0.36193489  0.36193494  0.39863101  1
+  O  O12  1  0.35657760  0.87377572  0.38482328  1
+  O  O13  1  0.87377585  0.35657716  0.38482352  1

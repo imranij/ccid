@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrCaHfO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77955984
+_cell_length_b   6.10968176
+_cell_length_c   6.82325731
+_cell_angle_alpha   87.02777674
+_cell_angle_beta   54.75634765
+_cell_angle_gamma   88.30723219
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaHfO4
+_chemical_formula_sum   'Sr2 Ca2 Hf2 O8'
+_cell_volume   230.51153058
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  -0.03555438  0.02680014  0.36104662  1
+  Ca  Ca1  1  0.52593106  0.48240702  0.70411683  1
+  Hf  Hf2  1  0.00498228  0.58154612  0.04052114  1
+  Hf  Hf3  1  0.56282271  -0.07854798  -0.00850919  1
+  O  O4  1  0.15337548  0.30717289  0.84597807  1
+  O  O5  1  -0.18447769  0.37312987  -0.66557090  1
+  O  O6  1  -0.26092008  -0.18423369  -0.86397017  1
+  O  O7  1  0.22212421  -0.29013033  0.69622051  1
+  O  O8  1  0.74709760  0.75191038  0.67613564  1
+  O  O9  1  0.23444206  0.72138676  -0.89020887  1
+  O  O10  1  0.31712777  0.11433273  -0.72472729  1
+  O  O11  1  0.69593000  0.17554739  0.76624063  1
+  Sr  Sr12  1  0.09946834  0.48193009  0.50722921  1
+  Sr  Sr13  1  0.41765076  0.03674873  0.55549786  1

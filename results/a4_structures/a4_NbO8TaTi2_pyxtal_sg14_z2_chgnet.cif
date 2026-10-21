@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TaTi2NbO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81058058
+_cell_length_b   10.26307743
+_cell_length_c   5.23508536
+_cell_angle_alpha   89.99924606
+_cell_angle_beta   90.06443008
+_cell_angle_gamma   89.99832494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTi2NbO8
+_chemical_formula_sum   'Ta2 Ti4 Nb2 O16'
+_cell_volume   312.19117797
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.49764992  -0.00062835  0.00471295  1
+  Nb  Nb1  1  0.49707859  0.50098368  0.50599865  1
+  O  O2  1  1.00844637  0.81780740  0.64960454  1
+  O  O3  1  -1.00620108  1.31811909  -0.15223357  1
+  O  O4  1  -1.00637030  -0.81821938  -0.65225300  1
+  O  O5  1  1.00833433  -0.31776548  1.14953030  1
+  O  O6  1  0.17017877  0.95335599  0.17516518  1
+  O  O7  1  0.83411615  0.45341094  0.33034658  1
+  O  O8  1  0.83399378  0.04655099  0.83015586  1
+  O  O9  1  0.16991604  0.54679500  0.67536430  1
+  O  O10  1  0.58447275  0.67580696  0.38558057  1
+  O  O11  1  0.41635450  0.17873021  1.10380077  1
+  O  O12  1  0.41604652  0.32154962  0.60334814  1
+  O  O13  1  0.58458541  0.82422404  -0.11383390  1
+  O  O14  1  0.27085578  0.45329963  1.20375662  1
+  O  O15  1  0.72685249  0.95428000  0.29930672  1
+  O  O16  1  0.72704638  0.54578337  -0.20047725  1
+  O  O17  1  0.27079898  0.04670865  0.70366289  1
+  Ta  Ta18  1  0.00050535  -0.00209794  0.50181765  1
+  Ta  Ta19  1  0.00026087  0.50181220  0.00214138  1
+  Ti  Ti20  1  0.88154099  0.84431278  0.00384227  1
+  Ti  Ti21  1  0.11580393  0.34206627  0.49317049  1
+  Ti  Ti22  1  0.11550490  0.15777273  0.99302172  1
+  Ti  Ti23  1  0.88222852  0.65534162  0.50447003  1

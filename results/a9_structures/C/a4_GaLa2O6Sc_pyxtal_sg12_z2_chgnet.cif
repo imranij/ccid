@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La2ScGaO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.81856837
+_cell_length_b   7.71046279
+_cell_length_c   5.70192640
+_cell_angle_alpha   90.92914418
+_cell_angle_beta   75.62138382
+_cell_angle_gamma   90.40956680
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2ScGaO6
+_chemical_formula_sum   'La4 Sc2 Ga2 O12'
+_cell_volume   418.08959317
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  -0.00291987  0.33966344  0.00835888  1
+  Ga  Ga1  1  0.49854183  -0.15970776  0.00786417  1
+  La  La2  1  0.31567946  0.27826733  0.04595646  1
+  La  La3  1  0.68376331  0.27530513  -0.05878077  1
+  La  La4  1  0.81666476  0.77903065  0.04200228  1
+  La  La5  1  0.18371203  0.77471011  -0.05656989  1
+  O  O6  1  1.03615992  0.84477531  0.72205179  1
+  O  O7  1  -1.03172379  0.85841055  -0.74579343  1
+  O  O8  1  -0.93171487  -0.78335007  -0.76173835  1
+  O  O9  1  0.92982442  -0.80173088  0.78693795  1
+  O  O10  1  1.53398084  1.34494286  0.72233901  1
+  O  O11  1  -0.53078707  1.35910965  -0.74604430  1
+  O  O12  1  -0.43049833  -0.28188377  -0.76107512  1
+  O  O13  1  1.42963101  -0.30118707  0.78776590  1
+  O  O14  1  0.66025623  -0.02413986  -0.09280445  1
+  O  O15  1  0.33502042  -0.02140869  1.09899068  1
+  O  O16  1  0.16030138  0.47544380  -0.09082769  1
+  O  O17  1  0.83528069  0.47933108  1.09477737  1
+  Sc  Sc18  1  0.00406667  0.03180915  0.49850289  1
+  Sc  Sc19  1  0.50476105  0.53260902  0.49808664  1

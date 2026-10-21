@@ -1,0 +1,21 @@
+formula,source_dataset,band_gap,stability_known,stability_utility,gap_utility,candidate_score,excluded_elements,process_risk_elements,validation_gate,review_rationale
+BaHfO3,castelli_perovskites,6.7,1,0.87248322147651,0.7762225217344763,0.8243528716054931,,,priority_expert_review,high score with acceptable band-gap utility and no hazard flag
+LaAlO3,castelli_perovskites,6.3,1,0.8187919463087248,0.7217507658232848,0.7702713560660048,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+CaSiYAlO6,double_perovskites_gap,8.343255111,0,0.5,1.0,0.75,,,computational_validation_required,"stability metric imputed, not present in the source record"
+KTaO3,wolverton_oxides,2.324,1,1.0,0.18030151206604322,0.5901507560330216,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+NaTaO3,castelli_perovskites,4.6,1,0.9798657718120805,0.49024580320072175,0.7350557875064011,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+CaHfO3,castelli_perovskites,7.0,1,0.7785234899328859,0.8170763386678697,0.7977999143003778,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+CsTaO3,castelli_perovskites,3.5,1,0.912751677852349,0.3404484744449457,0.6266000761486473,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+SrHfO3,castelli_perovskites,6.9,1,0.8389261744966443,0.8034583996900719,0.8211922870933581,,,priority_expert_review,high score with acceptable band-gap utility and no hazard flag
+BaZrO3,castelli_perovskites,6.2,1,0.8791946308724832,0.7081328268454871,0.7936637288589852,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+SrZrO3,castelli_perovskites,6.5,1,0.8456375838926175,0.7489866437788805,0.797312113835749,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+CaZrO3,castelli_perovskites,6.5,1,0.7785234899328859,0.7489866437788805,0.7637550668558832,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+MgSiO3,castelli_perovskites,6.9,1,0.6912751677852349,0.8034583996900719,0.7473667837376534,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+GdAlO3,wolverton_oxides,5.604,1,0.8133259911894274,0.626969910537812,0.7201479508636197,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+HoAlO3,wolverton_oxides,6.1370000000000005,1,0.8045154185022027,0.6995535252894745,0.7520344718958385,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+LaScO3,castelli_perovskites,6.4,1,0.7583892617449665,0.7353687048010827,0.7468789832730246,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+CaSiO3,castelli_perovskites,6.6,1,0.7516778523489933,0.7626045827566783,0.7571412175528358,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+BaZrLaScO6,double_perovskites_gap,6.949118842,0,0.5,0.8101473736202327,0.6550736868101164,,,computational_validation_required,"stability metric imputed, not present in the source record"
+SrAlO2F,castelli_perovskites,6.6,1,0.7583892617449665,0.7626045827566783,0.7604969222508224,,F,expert_review_required,contains volatile/process-sensitive element(s): F
+ErAlO3,wolverton_oxides,6.221,1,0.8028634361233481,0.7109925940308246,0.7569280150770863,,,standard_review,"no hazard flag, but candidate needs expert assessment"
+CaHfMgZrO6,double_perovskites_gap,7.657304806,0,0.5,0.906587706047082,0.7032938530235411,,,computational_validation_required,"stability metric imputed, not present in the source record"

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CaHfZr2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08726289
+_cell_length_b   5.31113871
+_cell_length_c   5.31113838
+_cell_angle_alpha   89.78092683
+_cell_angle_beta   90.42630600
+_cell_angle_gamma   90.42630939
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaHfZr2O7
+_chemical_formula_sum   'Ca1 Hf1 Zr2 O7'
+_cell_volume   143.49352865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.99180274  0.94969126  0.94969149  1
+  Hf  Hf1  1  0.01267346  0.47879923  0.47879926  1
+  Zr  Zr2  1  0.44815725  0.97950821  0.44136259  1
+  Zr  Zr3  1  0.44815743  0.44136253  0.97950826  1
+  O  O4  1  0.20429754  0.21516965  0.21516969  1
+  O  O5  1  0.26996108  0.21071391  0.70859865  1
+  O  O6  1  0.26996117  0.70859869  0.21071407  1
+  O  O7  1  0.29204695  0.70853223  0.70853220  1
+  O  O8  1  0.69342762  0.29864083  0.29864088  1
+  O  O9  1  0.80975743  0.44321915  0.81576427  1
+  O  O10  1  0.80975737  0.81576418  0.44321854  1

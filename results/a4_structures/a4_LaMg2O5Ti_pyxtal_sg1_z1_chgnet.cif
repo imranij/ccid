@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LaMg2TiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19899657
+_cell_length_b   12.32435810
+_cell_length_c   4.04576124
+_cell_angle_alpha   89.59555069
+_cell_angle_beta   108.63614009
+_cell_angle_gamma   38.28778726
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaMg2TiO5
+_chemical_formula_sum   'La1 Mg2 Ti1 O5'
+_cell_volume   163.03211816
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.61331210  1.03281758  -0.08841918  1
+  Mg  Mg1  1  0.53462260  0.28793833  1.36919975  1
+  Mg  Mg2  1  0.34044907  0.87396899  0.77114296  1
+  O  O3  1  0.83280604  0.54484542  0.02005156  1
+  O  O4  1  0.38726697  0.32097358  0.79626639  1
+  O  O5  1  0.77369231  0.03662212  0.49075399  1
+  O  O6  1  0.42838531  0.81109616  0.31594020  1
+  O  O7  1  0.10377398  0.11871361  0.65258350  1
+  Ti  Ti8  1  0.81655109  0.55153129  0.51072122  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Sr2CaMgO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56581773
+_cell_length_b   3.99713428
+_cell_length_c   6.82604489
+_cell_angle_alpha   90.24750259
+_cell_angle_beta   121.28135608
+_cell_angle_gamma   71.63213090
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CaMgO4
+_chemical_formula_sum   'Sr2 Ca1 Mg1 O4'
+_cell_volume   142.47275717
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.56949151  0.61402889  -0.10565947  1
+  Mg  Mg1  1  0.15200729  0.32958288  0.86589250  1
+  O  O2  1  0.54171319  0.12886126  0.04420429  1
+  O  O3  1  0.08976347  0.85858521  0.70094307  1
+  O  O4  1  0.04327255  0.38477614  1.08936607  1
+  O  O5  1  0.51892237  0.63745314  0.55244729  1
+  Sr  Sr6  1  0.61940805  0.08570056  0.44116285  1
+  Sr  Sr7  1  0.06824544  0.87040431  0.29895142  1

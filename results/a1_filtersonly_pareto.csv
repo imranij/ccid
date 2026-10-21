@@ -1,0 +1,10 @@
+source_dataset,formula,stability_metric,stability_metric_type,band_gap,direct_gap,stability_known,stability_utility,gap_utility,direct_gap_utility,candidate_score,excluded_elements,process_risk_elements
+wolverton_oxides,ErAlO3,-0.022000000000000002,e_hull,6.221,0,1,0.8028634361233481,1.0,0.0,0.8718612334801763,,
+wolverton_oxides,HoAlO3,-0.025,e_hull,6.1370000000000005,0,1,0.8045154185022027,0.9838926174496646,0.0,0.8672974381338143,,
+wolverton_oxides,EuHfO3,-0.182,e_hull,4.521,0,1,0.8909691629955947,0.6740172579098753,0.0,0.8150359962155929,,
+castelli_perovskites,BaHfO3,-0.26,e_form,6.7,0,1,0.87248322147651,0.9500000000000001,0.0,0.7251174496644295,,
+castelli_perovskites,SrHfO3,-0.16,e_form,6.9,0,1,0.8389261744966443,0.9833333333333333,0.0,0.7216834451901566,,
+castelli_perovskites,BaZrO3,-0.28,e_form,6.2,0,1,0.8791946308724832,0.8666666666666666,0.0,0.6989709172259507,,
+castelli_perovskites,NaTaO3,-0.58,e_form,4.6,0,1,0.9798657718120805,0.6,0.0,0.6509395973154362,,
+castelli_perovskites,KTaO3,-0.64,e_form,4.4,0,1,1.0,0.5666666666666668,0.0,0.6483333333333334,,
+castelli_perovskites,LiTaO3,-0.32,e_form,4.7,0,1,0.8926174496644295,0.6166666666666667,0.0,0.6175111856823265,,

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaScTiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68616662
+_cell_length_b   6.68616668
+_cell_length_c   6.72841447
+_cell_angle_alpha   59.79075675
+_cell_angle_beta   59.79075660
+_cell_angle_gamma   59.43943006
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaScTiO4
+_chemical_formula_sum   'Ba2 Sc2 Ti2 O8'
+_cell_volume   211.11019003
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.74999446  0.74999432  0.75000560  1
+  Ba  Ba1  1  0.50000568  0.50000554  0.49999437  1
+  Sc  Sc2  1  0.12500001  0.12499994  0.12499993  1
+  Sc  Sc3  1  0.12499995  0.12499999  0.62500020  1
+  Ti  Ti4  1  0.12499998  0.62499992  0.12500003  1
+  Ti  Ti5  1  0.62500002  0.12499999  0.12499998  1
+  O  O6  1  0.89459751  0.89459757  0.91278408  1
+  O  O7  1  0.89459764  0.89459751  0.29802087  1
+  O  O8  1  0.88996637  0.29809270  0.90597054  1
+  O  O9  1  0.29809266  0.88996643  0.90597049  1
+  O  O10  1  0.35540249  0.35540246  0.95197918  1
+  O  O11  1  0.35540239  0.35540252  0.33721582  1
+  O  O12  1  0.36003346  0.95190747  0.34402949  1
+  O  O13  1  0.95190741  0.36003370  0.34402944  1

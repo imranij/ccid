@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sr2CaSiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82987371
+_cell_length_b   4.86225877
+_cell_length_c   7.24942957
+_cell_angle_alpha   81.17855496
+_cell_angle_beta   83.56481161
+_cell_angle_gamma   57.45628914
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CaSiO5
+_chemical_formula_sum   'Sr2 Ca1 Si1 O5'
+_cell_volume   171.07127119
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.39485584  0.34682460  1.09862746  1
+  O  O1  1  0.49792572  0.48136064  0.81279256  1
+  O  O2  1  0.51612327  -0.10917082  0.29914255  1
+  O  O3  1  0.77798142  0.29879017  0.21603713  1
+  O  O4  1  0.05587057  0.51991689  0.37870543  1
+  O  O5  1  -0.06610505  0.67623891  0.02147259  1
+  Si  Si6  1  0.82325979  0.60268078  0.23557841  1
+  Sr  Sr7  1  0.43779805  0.47338332  0.50238279  1
+  Sr  Sr8  1  -0.03506072  1.16332793  0.89349743  1

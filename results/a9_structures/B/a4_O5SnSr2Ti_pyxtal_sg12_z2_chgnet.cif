@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr2TiSnO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62919441
+_cell_length_b   9.79157572
+_cell_length_c   10.25216695
+_cell_angle_alpha   89.99599912
+_cell_angle_beta   139.53121599
+_cell_angle_gamma   89.99967213
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2TiSnO5
+_chemical_formula_sum   'Sr4 Ti2 Sn2 O10'
+_cell_volume   497.06611730
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  -0.32803853  0.14538937  0.17842467  1
+  O  O1  1  0.26044336  0.12880586  -0.21530256  1
+  O  O2  1  0.32190224  -0.14465824  -0.21677141  1
+  O  O3  1  -0.26422427  -0.15361737  0.17803911  1
+  O  O4  1  0.23539163  0.65359885  0.17781551  1
+  O  O5  1  0.82176284  0.64466882  -0.21698092  1
+  O  O6  1  0.76049030  0.37115094  -0.21535883  1
+  O  O7  1  0.17180577  0.35455403  0.17833754  1
+  O  O8  1  -0.19001922  0.03693134  0.00399461  1
+  O  O9  1  0.30997553  0.46302657  0.00400279  1
+  Sn  Sn10  1  0.03340283  -0.01127350  0.55772048  1
+  Sn  Sn11  1  0.53340159  0.51127765  0.55757466  1
+  Sr  Sr12  1  0.23512275  0.21694336  -0.00063388  1
+  Sr  Sr13  1  0.73517439  0.28317490  -0.00057284  1
+  Sr  Sr14  1  0.83642220  0.78439976  -0.00686381  1
+  Sr  Sr15  1  0.33672335  0.71556167  -0.00659179  1
+  Ti  Ti16  1  0.09506737  0.49626945  0.02148268  1
+  Ti  Ti17  1  0.59519591  0.00379650  0.02168398  1

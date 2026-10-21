@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LaGaSiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44816566
+_cell_length_b   6.62553152
+_cell_length_c   7.15765171
+_cell_angle_alpha   86.81590756
+_cell_angle_beta   90.33773762
+_cell_angle_gamma   86.76565885
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGaSiO5
+_chemical_formula_sum   'La2 Ga2 Si2 O10'
+_cell_volume   304.82203738
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.26497986  0.06547665  0.62805612  1
+  Ga  Ga1  1  0.23345469  0.36864307  0.37018558  1
+  La  La2  1  -0.05566557  0.00546633  0.10465847  1
+  La  La3  1  0.55719768  0.49760570  -0.10086836  1
+  O  O4  1  0.34983869  0.34761522  0.60118165  1
+  O  O5  1  0.14776321  0.09674061  0.39227579  1
+  O  O6  1  0.97184141  0.69683559  0.90688519  1
+  O  O7  1  -1.00421958  0.68959305  -0.71450635  1
+  O  O8  1  -0.73811427  -0.54631081  -0.87708786  1
+  O  O9  1  0.85338498  -0.62858335  1.10819593  1
+  O  O10  1  1.23971092  1.06549884  0.90465050  1
+  O  O11  1  -0.35741867  1.15329820  -1.09885794  1
+  O  O12  1  -0.42986541  -0.19759455  -0.93094072  1
+  O  O13  1  1.47013307  -0.13981021  0.70095377  1
+  Si  Si14  1  0.00877494  0.55754038  0.09602637  1
+  Si  Si15  1  0.48820414  -0.03201486  -0.09080837  1

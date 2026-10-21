@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CaZr2TiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20550056
+_cell_length_b   5.08908181
+_cell_length_c   5.08908101
+_cell_angle_alpha   92.19398017
+_cell_angle_beta   88.08335686
+_cell_angle_gamma   88.08335969
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaZr2TiO7
+_chemical_formula_sum   'Ca1 Zr2 Ti1 O7'
+_cell_volume   134.56034346
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  -0.01101983  0.06094327  0.06094332  1
+  Ca  Ca1  1  -0.02545870  0.53082646  0.53082668  1
+  Zr  Zr2  1  0.48515540  0.02378749  0.48903600  1
+  Zr  Zr3  1  0.48515566  0.48903645  0.02378750  1
+  O  O4  1  0.23909749  0.27078277  0.27078252  1
+  O  O5  1  0.20739054  0.19024274  0.78372358  1
+  O  O6  1  0.20739101  0.78372396  0.19024358  1
+  O  O7  1  0.47987326  0.66274572  0.66274533  1
+  O  O8  1  0.74158875  0.27415622  0.27415637  1
+  O  O9  1  0.72041298  0.17829378  0.78546157  1
+  O  O10  1  0.72041350  0.78546117  0.17829365  1

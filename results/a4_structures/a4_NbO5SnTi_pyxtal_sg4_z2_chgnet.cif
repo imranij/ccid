@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TiNbSnO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45982284
+_cell_length_b   8.98787472
+_cell_length_c   4.00892114
+_cell_angle_alpha   90.00017787
+_cell_angle_beta   78.20159166
+_cell_angle_gamma   90.00018962
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNbSnO5
+_chemical_formula_sum   'Ti2 Nb2 Sn2 O10'
+_cell_volume   263.11125013
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.08325415  0.73701589  0.19847044  1
+  Nb  Nb1  1  -0.08326082  1.23700434  -0.19846664  1
+  O  O2  1  0.76636977  0.40292887  0.86327849  1
+  O  O3  1  0.23361485  0.90295519  0.13673778  1
+  O  O4  1  0.51121930  0.03836520  0.48261506  1
+  O  O5  1  0.48878419  0.53835502  0.51736857  1
+  O  O6  1  0.79968724  0.03201301  0.85122036  1
+  O  O7  1  0.20032296  0.53202478  0.14877341  1
+  O  O8  1  0.16948418  0.30297917  0.67879952  1
+  O  O9  1  0.83050875  0.80297169  0.32120891  1
+  O  O10  1  0.08847407  0.68993795  0.69667527  1
+  O  O11  1  0.91153222  0.18993069  0.30332201  1
+  Sn  Sn12  1  0.63440370  0.61464270  0.90499639  1
+  Sn  Sn13  1  0.36560037  0.11466077  0.09499660  1
+  Ti  Ti14  1  0.24524162  0.50381702  0.62442554  1
+  Ti  Ti15  1  0.75476342  1.00380930  0.37557835  1

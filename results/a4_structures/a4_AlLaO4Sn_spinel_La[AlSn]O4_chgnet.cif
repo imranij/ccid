@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LaAlSnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76473617
+_cell_length_b   6.77415062
+_cell_length_c   6.26557291
+_cell_angle_alpha   62.45576528
+_cell_angle_beta   62.41348732
+_cell_angle_gamma   60.57913042
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaAlSnO4
+_chemical_formula_sum   'La2 Al2 Sn2 O8'
+_cell_volume   211.14587989
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.75750679  0.75310497  0.74470004  1
+  La  La1  1  0.49503026  0.49418115  0.50542099  1
+  Al  Al2  1  0.14249959  0.10757891  0.12492747  1
+  Al  Al3  1  0.14272145  0.10737003  0.62492320  1
+  Sn  Sn4  1  0.14242207  0.55240282  0.15271132  1
+  Sn  Sn5  1  0.69834750  0.10657093  0.09742409  1
+  O  O6  1  0.90523434  0.96483174  0.80066352  1
+  O  O7  1  0.90489412  0.96511268  0.32929489  1
+  O  O8  1  0.91724460  0.30927131  0.88670916  1
+  O  O9  1  0.33219620  0.94615949  0.86094902  1
+  O  O10  1  0.28528433  0.34470028  0.92179302  1
+  O  O11  1  0.28556038  0.34437436  0.44825352  1
+  O  O12  1  0.30287620  0.91933473  0.38883639  1
+  O  O13  1  0.93818215  0.33500668  0.36339325  1
