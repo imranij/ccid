@@ -4,7 +4,7 @@ Code, trained models, generated candidates and analysis scripts for:
 
 > Imran, M. Nouioua, T. S. Tamir. *Comparison of Machine Learning, Random Selection and Ion Substitution for Ceramic Oxide Design and Generation* (submitted).
 
-Release **v2.0** accompanies the revised manuscript, which compares four ways of proposing ceramic oxide compositions through one chemical filter: (A) random element selection, (B) sampling by training-set element frequency, (C) data-mined ion substitution into known compounds (Hautier et al. 2011, via pymatgen), and (D) the Composition-CVAE after correction of its free-bits regulariser. Release v1 (July 2026) contained only the original pipeline in `dgx/code/`.
+The manuscript compares four ways of proposing ceramic oxide compositions through one chemical filter: (A) random element selection, (B) sampling by training-set element frequency, (C) data-mined ion substitution into known compounds (Hautier et al. 2011, via pymatgen), and (D) the Composition-CVAE after correction of its free-bits regulariser. Release v1 (July 2026) contained only the original pipeline in `dgx/code/`.
 
 ## What is here
 
